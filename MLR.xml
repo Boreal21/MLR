@@ -129,7 +129,7 @@
             toda la jornada. Temperaturas entre los 24 y los 26 grados 
             centígrados. Vientos del sur en la mañana con fuerza de cuatro 
             nudos, aumentando a <measure type="velocidad" unit="nudos" quantity="6">seis nudos</measure> al atardecer. Humedad relativa 
-            máxima, 80%, mínima, 55%.<ref xml:id="ref4" target="#nota4">(4)</ref> Y ahora, el informe social. </p></sp>
+            máxima, 80 %, mínima, 55 %.<ref xml:id="ref4" target="#nota4">(4)</ref> Y ahora, el informe social. </p></sp>
             <sp><p>—Shhh —dijo <persName type="personaje" ref="TT"><forename>Tony</forename></persName> a <persName type="personaje" xml:id="CT"><forename>Claudia</forename></persName>, la menor que pretendía 
             iniciar una disputa con <persName type="personaje" xml:id="MT"><forename>Marcos</forename></persName>.</p></sp>
             <sp><p>—A las <time when="06:00:00">6 horas</time> de <date when="2034-01-18">hoy</date> se reportaba la continuación de los 
@@ -666,7 +666,7 @@
             en el pelo. <persName ref="TT">Tony</persName> la consideró realmente linda, y eso lo devolvió a la realidad.</p>
 
             <sp><p>—¿Escuchaste el boletín? —preguntó.</p></sp>
-            <sp><p>—No. Los pobres leemos diarios impresos —respondió <persName>Marina</persName>.</p></sp>
+            <sp><p>—No. Los pobres leemos diarios impresos —respondió <persName ref="MF">Marina</persName>.</p></sp>
             <sp><p>—Sin demagogia, por favor. Ni eres pobre ni perteneces a los analfabetos. 
             Si no tienes un visiodiario es porque no te da la gana. Además, en tu oficina 
             hay una extensión del mío.</p></sp>
@@ -800,7 +800,7 @@
             ondeaba una bandera negra.</p>
 
             <sp><p>—¿Le mando un láser?, preguntó uno de los guardias.</p></sp>
-            <sp><p>—Déjalo —respondió <persName>Tony</persName>.</p></sp>            
+            <sp><p>—Déjalo —respondió <persName ref="TT">Tony</persName>.</p></sp>            
             <p>El hombre desapareció en una de las casas. Poco más allá, viejo edificio de Sears 
             ardía. Pero no se veía gente.</p>
 
@@ -982,7 +982,25 @@
             la aceptó encantada. Se despidieron del piloto e ingresaron a las relucientes entrañas de plástico del edificio.</p>
 
         </div>
+        <div type="capitulo">
+        <head type="titulo_capitulo">TRES</head>
 
+            <p>El almuerzo de trabajo que, con impuntualidad sureña se inició a las <time when="12:42:00">12:42</time>, reunió a <persName ref="LK">Linda King</persName>, <persName ref="HC">Hermógenes Crucible</persName>, <persName ref="TT">Tony Tréveris</persName>, <persName type="personaje" xml:id="JJ"><forename>Juanito</forename> <surname>Johnson</surname>
+            —<roleName>Director Regional para <placeName>Sudamérica Oeste</placeName> en representación de <orgName ref="Ep">Epesa</orgName><roleName>—</persName>, a un sujeto delgaducho y nervioso encargado de relaciones públicas, llamado <persName type="personaje"><forename>Pedro</forename> <surname>Lamartín</surname>
+            II</persName>, y a la <persName type="personaje" xml:id="AC"><roleName>contadora superior</roleName>, <forename>Anita</forename> <surname>Cavassa</surname>. Las presentaciones, a cargo de <persName ref="TT">Tony</persName>, fueron rápidas y cordiales. La atmósfera fresca, con ligera sobrecarga de oxígeno,
+            del pequeño comedor ejecutivo, y la suave música de fondo, contribuyeron a crear un ambiente capaz de soportar la desagradable combinación de alimentos con cifras.</p>
+
+            <p><persName ref="LK">Linda King</persName>, mientras escuchaba los informes, se distraía observando los rostros y las manos de sus compañeros de mesa, y en las mujeres, su tipo de vestimenta 
+            y maquillaje. Esto era por lo menos tan importante como los informes mismos que, por lo demás, estaban siendo grabados y podrían volver a escucharse en detalle 
+            en cualquier otro momento.</p>
+
+            <p><persName ref="TT">Tony Tréveris</persName>, a su vez, observaba a <persName ref="LK">Linda King</persName>. No sentía, en ese momento, ansias sexuales (gracias a los siempre adecuados y oportunos servicios de <persName ref="MF">Marina
+             Ferrari</persName>), de modo que podía concentrarse en cosas que no pudo resistirse a calificar de “más serias”. Y una de ellas era, por cierto, la notable diferencia 
+            entre esta mujer y las locales, incluyendo a su <rs ref="DN">esposa</rs> y a <persName>Marina</persName>. Estas, como muchas otras de los círculos superiores, habían asimilado, generalmente con esmero 
+            y exactitud formal, los rasgos que se estimaban típicos de la nueva mujer occidental: desinhibición, cultura formal, independencia. Pero, como solía decirse, habían 
+            aprendido la letra: les faltaba la música</p>
+            
+        </div>
         <div type="notas">
 
             <note type="editor" xml:id="nota1" target="#ref1">1. Sinfonía n.º 9 en mi menor, Op. 95 (1893) de Antonín Dvořák. Inspirado en la música nativoamericana y los espirituales afroamericanos.</note>
