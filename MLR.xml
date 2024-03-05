@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Declaración XML -->
+
+<!-- Esto es un comentario -->
+
+<?xml-model href="esquemaAriadna.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- Declaración de modelo XML: en este caso asociamos nuestro archivo a un esquema de TEI -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> <!-- Elemento raíz -->
+    <teiHeader> <!-- Encabezado con metadatos -->
+        <fileDesc>
+
+            <titleStmt> 
+                <title>Mañana, las ratas</title>  <!-- Título del documento -->
+                <author ref="https://redlitperu.files.wordpress.com/2020/12/jose-b.-adolph.-bibliografia-esencial-2.pdf">José B. Adolph</author>
+                <editor>Ariadna Margarita Delgado Beraun</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p><date>2022-04-25</date></p>    <!-- Información sobre la publicación digital-->        
+            </publicationStmt>
+
+             <sourceDesc>
+                <bibl>
+                    <date when="1977-02">Febrero de 1977</date> <!-- Información sobre la fuente del texto -->
+                    <placeName>Lima</placeName>
+                </bibl> 
+            </sourceDesc>
+         </fileDesc>
+        
+
+         
+   </teiHeader> <!-- Fin del encabezado -->
+
+    <text>    <!-- Texto codificado -->
+      <front>    <!-- Paratexto -->
+        <p>Para <persName> <forename>Pablo</forename></persName> y <persName><forename>Ericka</forename> <surname>Adolph Vargas</surname></persName></p>
+        <p>A quienes lean este libro, porque lo están escribiendo.</p>
+      </front>
+      <body>        
+         <div type="capitulo" xml:id="descBsAs">           
+            
+            <head type="titulo_capitulo">UNO</head>
+            
+            <p>Lo despertaron, como todas las mañanas de lunes a viernes, 
+            unos compases de la <objectName type="musica" ref="https://open.spotify.com/playlist/5HGDgimnMH2BF1yH8tgWG8?si=8d67b90fa56d4f70">Sinfonía del Nuevo Mundo</objectName><ref  xml:id="ref1" target="#nota1">(1)</ref>, seguidos de 
+            la acariciante voz de una mujer:</p>  
+            
+            <sp><p>—Buenos días, amor. Buenos, buenos, muy buenos días 
+            te desea tu <persName><addName type="nickname">gatita</addName></persName> mañanera en frecuencia modulada.</p></sp>
+
+            <p>Divertido, <persName type="personaje" xml:id="TT"><forename>Tony</forename> <surname type="linked">Tréveris</surname></persName><ref  xml:id="ref2" target="#nota2">(2)</ref> echó su mirada habitual de las 
+            siete a su esposa. <persName type="personaje" xml:id="DN"><forename>Doris</forename></persName> yacía de espaldas, con el pecho a medias 
+            cubierto por la sábana de satén lila y una mano entreabierta, 
+            con el dorso sobre los ojos. Gruñó:</p> 
+
+            <sp><p>—Alguna vez deberías cambiar de huachafa.</p></sp>
+
+            <p><persName type="personaje" ref="TT"><forename>Tony</forename></persName> pensó que los senos de su <rs type="person" ref="DN">mujer</rs> aún eran hermosos, 
+            pese a los cuarenta años y los tres hijos. Extendió la mano para 
+            acariciarlos suavemente.</p>
+
+            <p><rs type="person" ref="DN">Ella</rs> retiró la mano de <persName type="personaje" ref="TT"><forename>Tony</forename></persName>.</p>
+
+            <sp><p>—Nunca comiences lo que no vas a terminar —dijo.</p></sp>
+            <sp><p>—¿Cómo sabes que no voy a terminarlo?</p></sp>
+            <sp><p>—Porque no es sábado.</p></sp>
+
+            <p><persName type="personaje" ref="TT"><forename>Tony</forename></persName> suspiró ante el cínico realismo de su <rs type="person" ref="DN">mujer</rs>. Saltó 
+            de la cama con el heroísmo deportivo que desesperaba a su 
+            esposa. Notó con satisfacción que por la ventana ingresaban 
+            los reflejos de un tibio sol veraniego. La <persName><addName type="nickname">gatita</addName></persName> en frecuencia 
+            modulada había seguido hablando:</p>
+
+            <sp><p>—¿Estamos listos ya para un nuevo día? ¿Ya hemos tomado 
+            desayuno? ¿Podemos ya fumarnos el primer <objectName type="producto" xml:id="MariBaco">MariBaco</objectName> de hoy?</p></sp>
+
+            <p><persName type="personaje" ref="DN"><forename>Doris</forename></persName> extendió la mano y apagó el receptor. Finalmente 
+            se decidió a sonreír y apretó otro botón: el televisor de pared 
+            mostró de inmediato el rostro bien afeitado de <persName><addName>Morning</addName> 
+            <forename>Charles</forename>, <addName type="epithet">el Amigo de las Horas Tempranas</addName></persName>. Una voz viril y 
+            regular invadió el dormitorio:</p>
+
+            <sp><p>—... brilla el sol en este <date when="2034-01-18">jueves 18 de enero de 2034</date><ref xml:id="ref3" target="#nota3">(3)</ref>, y 
+            tú, amiga mía, quizás envuelta todavía en la dulce modorra 
+            de un sueño reparador...</p></sp>
+
+            <sp><p>—Hablando de huachaferías... —dijo <persName type="personaje"><forename>Tony</forename></persName>, poniéndose 
+            el calzoncillo apretando que dibujaba exactamente los contornos 
+            de su sexo—; por lo menos, yo tengo el pretexto de que 
+            estoy controlando la publicidad de los <objectName type="producto" ref="MariBaco">MariBacos</objectName>.</p></sp>
+
+            <sp><p>—Yo, en cambio, no controlo sino el estado de mis hormonas— 
+            respondió <persName type="personaje" ref="DN"><forename>Doris</forename></persName>, sentándose en la cama, con la sábana 
+            rodeándole las caderas.</p></sp>
+            
+            <p>Se vistió rápidamente se pasó el peine por la breve 
+            cabellera rubia y, como siempre, postergó todo otro arreglo de 
+            su persona hasta haber embarcado con felicidad a sus hijos. 
+            Abandonó la habitación y <persName type="personaje" ref="TT"><forename>Tony</forename></persName>, antes de pasar al baño, tuvo 
+            todavía ocasión de admirarse, de frente y de perfil, ante el 
+            gran espejo tocador.</p>
+
+            <sp><p>—No estás mal —se dijo—. No estás mal, hijo. Todavía 
+            puedes hacerle un cortocircuito a la <persName><addName type="nickname">gatita</addName></persName> electrónica. —Se 
+            palmeó el estómago y dio un suave manotazo a su pene. Nada 
+            de barriga a los cuarenta y cinco años. Pelotas en perfecto 
+            estado de producción. Músculos un poco atrofiados, pero no los importantes.</p></sp>
+
+            <p>Se felicitó a si mismo y pasó al baño privado del dormitorio principal. 
+            Había vuelto la moda de la calvicie masculina y, en general, 
+            del odio a todo tipo de pilosidades. Metió la cabeza 
+            en el antipelo, que zumbó levemente mientras convertía todo 
+            el cabello de su cabeza y cara en una tibia ceniza. Luego 
+            introdujo los brazos y, después, las piernas, acomodando el aparato 
+            a sus diferentes necesidades. Reapareció totalmente calvo y 
+            sin vello. Su piel brillaba con un tono cobrizo muy saludable, 
+            producto de los rayos antipelo. Se sonrió en el espejo, volvió 
+            al dormitorio y se vistió.</p>
+
+            <p>Al descender al comedor de diario, los chicos terminaban 
+            su desayuno, servidos por una mujer baja y cetrina que no 
+            decía palabra. <persName type="personaje"><forename>Tony</forename></persName>, antes de sentarse, pulsó el botón del 
+            informativo radial de seguridad.</p>
+
+            <sp><p>—Buenos días, chicos —dijo, antes de que se escuchara 
+            la fanfarria con los informes de las <time when="07:15:00">7:15</time>.</p></sp>
+            <sp><p>—Señoras y señores, muy buenos días —dijo la voz, seca 
+            e impersonal—. El informe meteorológico para <date when="2034-01-18">hoy 18 de 
+            enero de 2034</date> anuncia, para la costa central, sol durante 
+            toda la jornada. Temperaturas entre los 24 y los 26 grados 
+            centígrados. Vientos del sur en la mañana con fuerza de cuatro 
+            nudos, aumentando a <measure type="velocidad" unit="nudos" quantity="6">seis nudos</measure> al atardecer. Humedad relativa 
+            máxima, 80%, mínima, 55%.<ref xml:id="ref4" target="#nota4">(4)</ref> Y ahora, el informe social. </p></sp>
+            <sp><p>—Shhh —dijo <persName type="personaje" ref="TT"><forename>Tony</forename></persName> a <persName type="personaje" xml:id="CT"><forename>Claudia</forename></persName>, la menor que pretendía 
+            iniciar una disputa con <persName type="personaje" xml:id="MT"><forename>Marcos</forename></persName>.</p></sp>
+            <sp><p>—A las <time when="06:00:00">6 horas</time> de <date when="2034-01-18">hoy</date> se reportaba la continuación de los 
+            disturbios iniciados <time>anoche</time> en <placeName ref="https://www.google.com/maps/place/La+Victoria/@-12.0741148,-77.0334269,14z/data=!3m1!4b1!4m5!3m4!1s0x9105c8991e614d33:0x29fc509365d6b1d2!8m2!3d-12.0734497!4d-77.0162899"><district>La Victoria</district></placeName>, en el <geogName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogFeat>valle central</geogFeat> 
+            de <name ref="https://www.google.com/maps/place/Lima/@-12.025827,-77.2679867,10z/data=!3m1!4b1!4m5!3m4!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754?shorturl=1">Lima</name></geogName>. El tránsito por la vía 14 ha sido desviado a la altura de 
+            <placeName ref="https://www.google.com/maps/place/Distrito+de+San+Luis/@-12.0722478,-77.0161725,14z/data=!3m1!4b1!4m5!3m4!1s0x9105c63aac538eb3:0x15d747c19021f713!8m2!3d-12.0754713!4d-76.9959872?shorturl=1"><district>San Luis</district></placeName> para los automovilistas del sur con destino norte o 
+            este. El cierre correspondiente al otro extremo se produce en el 
+            <placeName ref="https://www.google.com/maps/place/Av+Paseo+de+la+Rep%C3%BAblica+%26+Av.+Miguel+Grau,+Cercado+de+Lima+15046/@-12.0601201,-77.0376408,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c8c0f0c397ed:0x139c08cb260f91cf!8m2!3d-12.0601254!4d-77.0354521?shorturl=1">cruce de Grau y Paseo de la República</placeName>; aquí el desvío es hacia
+            el <placeName ref="https://goo.gl/maps/5mcMX2DNK5WfQaZy5">parque Bolognesi</placeName>, que se cruza por el terraplén de <placeName ref="https://goo.gl/maps/mMSo7wCmMgyjHTfq7">Guzmán
+            Blanco</placeName> hasta el <placeName ref="https://www.google.com/maps/place/El+Campo+de+Marte/@-12.0660282,-77.0410631,17z/data=!4m5!3m4!1s0x9105c8e921adc161:0x91a518942d5e9270!8m2!3d-12.0683312!4d-77.041385?shorturl=1">Campo de Marte</placeName>, donde se ha previsto adecuada
+            protección policial para los coches públicos y privados. No se 
+            están reportando incidentes en el área. Repetimos, no hay 
+            disturbios en el área del <placeName ref="https://www.google.com/maps/place/El+Campo+de+Marte/@-12.0660282,-77.0410631,17z/data=!4m5!3m4!1s0x9105c8e921adc161:0x91a518942d5e9270!8m2!3d-12.0683312!4d-77.041385?shorturl=1">Campo de Marte</placeName>, que también se
+            encuentra libre de enfermos mentales agresivos. Continuamos 
+            con el boletín de información social. Prosigue el estado de 
+            insurrección armada en la <placeName ref="https://www.google.com/maps/place/Puente+Piedra/@-11.8746293,-77.1613034,12z/data=!3m1!4b1!4m5!3m4!1s0x9105d1464cfdafd1:0x8d0a038a4e5435bc!8m2!3d-11.8648256!4d-77.0744298?shorturl=1"><district> Ciudad satélite de Puente Piedra</district></placeName>;
+            pero el foco se halla aislado y bajo control, pese a que los 
+            agitadores han intentado, sin éxito, repetimos, sin éxito, incitar a 
+            sectores aledaños que han rechazado la provocación. Se espera 
+            que en el curso del día de <date when="2034-01-18">hoy</date> quede debelada esta rebelión
+            en <placeName ref="https://www.google.com/maps/place/Puente+Piedra/@-11.8746293,-77.1613034,12z/data=!3m1!4b1!4m5!3m4!1s0x9105d1464cfdafd1:0x8d0a038a4e5435bc!8m2!3d-11.8648256!4d-77.0744298?shorturl=1"><district>Puente Piedra</district></placeName>. Por lo demás, se espera un día tranquilo en 
+            la <placeName ref="https://www.google.com/maps/place/Lima/@-12.025827,-77.2679867,10z/data=!3m1!4b1!4m5!3m4!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754?shorturl=1"> <region>gran Lima</region></placeName>, desde <placeName ref="https://goo.gl/maps/UfynjEBCkAsqtudX6"><district>Ancón</district></placeName> en el norte hasta <placeName ref="https://goo.gl/maps/Gf5uW5r7R7Xr63d37"><settlement type="provincia">Cañete</settlement></placeName> en el sur, 
+            incluyendo los suburbios de <placeName ref="https://goo.gl/maps/b3zYPuw7ryyHaEoe9"><settlement type="provincia">Huacho</settlement></placeName> y los sanatorios y clubes 
+            entre <placeName ref="https://goo.gl/maps/uwnjo8D3UPTwZRBv7"><district>Lima</district></placeName> y <placeName ref="https://goo.gl/maps/RS2GLqPokVVbDjP59"><settlement type="provincia">Matucana</settlement></placeName> en la vía central. Este ha sido, señoras 
+            y señores, el informe social de <date when="2034-01-18">hoy 18 de enero</date>, destinado a la 
+            seguridad de 15 millones de limeños. El próximo informe, esta 
+            <time when="18:00:00">tarde a las 18 horas</time>.</p></sp>
+
+            <p><persName type="personaje" ref="TT"><forename>Tony</forename></persName>, masticando una tostada, observó cómo <persName type="personaje" ref="DN"><forename>Doris</forename></persName> 
+            revisaba lánguidamente la apariencia de <persName type="personaje" ref="FT"><forename>Federico</forename></persName>, <persName type="personaje" ref="MT"><forename>Marcos</forename></persName> y 
+            <persName type="personaje" ref="CT"><forename>Claudia</forename></persName>, con el uniforme verde de los escolares, el nombre y 
+            el número de identificación, el grupo sanguíneo, la dirección 
+            y el videófono impresos en tinta indeleble sobre sus pecheras. 
+            Puntualmente, a las <time when="07:35:00">7:35</time> se escuchó la 
+            bocina característica de la camioneta blindada que los llevaría al colegio.</p>
+
+            <p>Los chicos se despidieron con un rápido beso de <persName type="personaje" ref="DN"><forename>Doris</forename></persName> 
+            y de <persName type="personaje" ref="TT"><forename>Tony</forename></persName>, cogieron sus loncheras y casetes y salieron. <persName type="personaje" ref="DN"><forename>Doris</forename></persName> 
+            los siguió para las complejas operaciones de desconectar 
+            alarmas, abrir puertas, deselectrificar muros. <persName type="personaje" ref="TT"><forename>Tony</forename></persName> encendió 
+            un <objectName type="producto" ref="MariBaco">MariBaco</objectName>, prolongando el desayuno en unos sibaríticos 
+            minutos. Cuando <persName type="personaje" ref="DN"><forename>Doris</forename></persName> volvió, lo encontró envuelto en una 
+            nube azulenca. Hizo un gesto.</p>
+
+            <sp><p>—Realmente, <persName type="personaje" ref="TT"><forename>Tony</forename></persName> —dijo—, no es repetirme, pero 
+            ¿No podrías fumar en tu escritorio?</p></sp>
+            <sp><p>—Por Dios, <persName type="personaje" ref="DN"><forename>Doris</forename></persName> —dijo <persName type="personaje" ref="TT"><forename>Tony</forename></persName>—. Es uno de los aromas 
+            más agradables del mundo.</p></sp>
+            <sp><p>—No necesitas hacer publicidad aquí a tus productos.</p></sp>
+            <sp><p>—Es en serio. Eres una de las poquísimas personas a las 
+            que no les gusta.</p></sp>
+            <sp><p>—Qué le vamos a hacer, pues.</p></sp>
+
+            <p><persName type="personaje" ref="TT"><forename>Tony</forename></persName> suspiró y apagó el cigarrillo. Es posible, pensó, que 
+            verdaderamente a los no fumadores les desagrade.</p>
+
+            <sp><p>—El tabaco solo es peor, ya sabes.</p></sp>
+            <sp><p>—Para mí todo es igual —respondió <persName type="personaje" ref="DN"><forename>Doris</forename></persName>, levantándose 
+            rumbo al baño.</p></sp>
+            <sp><p>—Es la marihuana la que da cuerpo al tabaco —insistió 
+            todavía <persName type="personaje" ref="TT"><forename>Tony</forename></persName>, levantándose también—. Bueno —agregó, 
+            cambiando de tema—, es posible que hoy tenga que quedarme 
+            en el <placeName ref="https://goo.gl/maps/r9yJFiiRDZ3jrBXy7">centro</placeName>. Es el gran día.</p></sp>
+
+            <p>Siguó a <persName type="personaje" ref="DN"><forename>Doris</forename></persName> hasta el baño y la observó pintándose de 
+            verde los labios con pedante minuciosidad, como si la vida 
+            de ella dependiera del maquillaje. Se le ocurrió que, efectivamente, así era.</p>
+
+            <p>Tras un momento, <persName type="personaje" ref="DN"><forename>Doris</forename></persName> preguntó si hoy llegaba ese 
+            representante de la casa matriz.</p>
+
+            <sp><p>—<roleName ref="LK">La representante</roleName> —dijo <persName type="personaje" ref="TT"><forename>Tony</forename></persName>, sonriendo.</p></sp>
+            <p><rs type="person" ref="DN">Ella</rs> lo miró por el espejo que tenía delante.</p>
+            <sp><p>—Vaya, vaya —comentó—. Si esta es otra de las que
+            combinan trabajo y placer...</p></sp>
+            <sp><p>—¿No lo hacemos todos?</p></sp>
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">Third World lover </foreign></hi>—dijo ella.</p></sp>
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">Exotic, picturesque, satisfying </foreign></hi>—proclamó <persName type="personaje" ref="TT"><forename>Tony</forename></persName>—.
+            El buen salvaje.</p></sp>
+            <sp><p>—¿Estarás en tu oficina?</p></sp> 
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">As always </foreign></hi>—respondió él—. Te confirmo a eso del <time when="12:00:00">mediodía</time>.</p></sp>
+
+            <p>Le dio un beso al aire cercano a la mejilla de <persName type="personaje" ref="DN"><forename>Doris</forename></persName> y salió. 
+            Su coche, un <objectName type="auto" xml:id="GemE">GemElectric</objectName> del 32, ronroneaba esperándolo 
+            en el carpot del jardín, entre la casa y el muro de <measure type="espacio" unit="metros" quantity="2.5">dos metros 
+            y medio</measure> que rodeaba su propiedad. Desconectó la batería que 
+            se había estado recargando durante la noche y el ronroneo 
+            cesó. En las viejas películas, pensó, los automóviles sonaban 
+            cuando estaban en marcha, al revés de ahora. De todas formas, 
+            ya era hora de cambiar: los modelos del 34 venían con 
+            ariete delantero reforzado con autolimpieza, además del
+            armamento habitual. Lujos un poco innecesarios aquí, se dijo: 
+            él nunca tenía que limpiar la sangre; para eso había personal 
+            adecuado —ventajas del tercer mundo—, pero de todas 
+            maneras era desagradable presentarse en algunos lugares con el 
+            carro manchado.</p>
+
+            <p>Sentado ya tras el volante, esperó la señal de <persName ref="DN"> Doris</persName>: tres 
+            zumbidos del intecomunicador visual. Sabía que su <rs type="person" ref="DN">esposa </rs>se 
+            tomaría el tiempo necesario para observar la calle cuidadosamente, 
+            canturreando probablemente la canción del día: 
+            "<hi rend="cursiva"><foreign xml:lang="en">Fuck me good, fuck me hard... let me have that piece of yours</foreign></hi>", 
+            estaría diciendóse con la mirada fija en la pantallita que reproducía 
+            lo que mostraban los teleperiscos de la torreta sobre el muro. Esa 
+            letra no estaba mal en inglés, se dijo <persName type="personaje" ref="TT">Tony</persName>, pero en 
+            castellano peruano era un reverendo desastre: "Tírame bien, tírame 
+            duro... dame esa pieza tuya...". Yvonne Duval se había ido de 
+            narices cantándola en castellano en el Flamingo la otra noche. 
+            ¿Últimos reparos católicos? No, no era eso. Simplemente en 
+            castellano no sonaba, como tantas otras cosas. <hi rend="cursiva"><foreign xml:lang="en"> American is a 
+            sexy language</foreign></hi>, se dijo <persName type="personaje" ref="TT">Tony</persName>, y escuchó los tres zumbidos en su 
+            <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi>. Lo encendió y vio la cara de <persName ref="DN"> Doris</persName> mirándolo.</p>
+
+            <sp><p>—Buena cacería —escuchó <persName ref="TT">Tony</persName>.</p>
+            <p>—<hi rend="cursiva"><foreign xml:lang="en">Let me have that piece of yours</foreign></hi> —respondió.</p>
+            <p>—¿Qué?</p>
+            <p>—Nada, <hi rend="cursiva"><foreign xml:lang="en">darling</foreign></hi>.</p></sp>
+
+            <p>Desbloqueó el seguro, colocó el automático en reserva y 
+            salió flotando por el portón que <persName ref="DN">Doris</persName> le había abierto desde la 
+            casa. La cúpula transparente del vehículo le dio de inmediato 
+            una visibilidad de 260 grados y le mostró el vacío total con dos 
+            excepciones: dos perros famélicos que se disputaban una rata 
+            muerta, <measure type="espacio" unit="metros" quantity="20">20 metros</measure> de distancia y, a unos <measure type="espacio" unit="metros" quantity="300">300</measure>, otro coche como el suyo 
+            saliendo por un portón similar. No tenía idea de quién sería; no conocía a vecino alguno.</p>
+
+            <p>El portón volvió a cerrarse, dejándolo solo en el mundo de 
+            su burbuja de plástico. Colocó marcha adelante y partió. "<hi rend="cursiva"><foreign xml:lang="en">Fuck 
+            me good, fuck me hard...</foreign></hi>", tarareó, y pasó frente al vecino. En la 
+            esquina siguiente, la monotonía de los interminables muros 
+            que a penas se diferenciaban por el color —rosados, blancos, 
+            grises, celestes— se interrumpía con la figura inmóvil de uno 
+            de los guardias privados: uniforme caqui, casco transparente 
+            hasta los hombros, como los astronautas del siglo pasado, pistola 
+            ametralladora y minilanzallamas, botas negras. El hombre saludó 
+            militarmente al paso del auto de <persName ref="TT">Tony</persName>, y este devolvió 
+            el saludo murmurando:</p>
+
+            <sp><p>—Buena plata me cuestas, hijoeputa.</p></sp>
+
+            <p>El mar estaba cerca de su barrio, <placeName ref="https://goo.gl/maps/u1L7yvjoVZNfRUsZ8"><settlement type="provincia">Mala</settlement></placeName>. En un día como 
+            este, decidió ir por la ruta del Pacífico. Marcó el número de 
+            su casa en el <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi> y se encontró con la lengua de <persName ref="DN">Doris</persName> 
+            en un primer plano que revelaba hasta las papilas en sus 
+            gloriosos corazones gris-rosados. Sonrió y dijo que tomaba 
+            la ruta del mar.</p>
+
+            <p><persName ref="DN">Doris</persName> se retiró del objetivo, siempre con la lengua afuera.</p>
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">Check</foreign></hi> —dijo.</p></sp>
+
+            <p><persName ref="TT">Tony</persName>, en estas circunstancias, se sentía aventurero. Siempre 
+            había rechazado el helicóptero de la <rs type="empresa" ref="Ep">compañía</rs>, que hacía una 
+            parada a menos de <measure type="espacio" unit="km" quantity="1">un kilómetro</measure> de su casa en su vuelo 
+            matutino desde <placeName ref="https://goo.gl/maps/Qh9FThtERWydeZWk6"><settlement type="provincia">Cañete</settlement></placeName>. Era seguro, cómodo y barato, pero <persName ref="TT">Tony</persName> 
+            prefería ir en su automóvil a <measure type="espacio" unit="cm" quantity="50">50 centímetros</measure> sobre la 
+            pista agujereada. Eres un hombre independiente, se decía 
+            cuando alguien —<persName ref="DN">Doris</persName>, <persName type="personaje" xml:id="MF"><forename>Marina</forename> (su <roleName>secretaria</roleName>)</persName>, o uno de los 
+            otros ejecutivos— meneaba la cabeza ante este derroche de tiempo, 
+            dinero y seguridad. Tonterías, decía <persName ref="TT">Tony</persName>, si un hombre 
+            ya no puede manejar su propio carro en la ciudad para ir a su 
+            trabajo, ¿qué le queda en la vida?</p>
+
+            <sp><p>—Vida es la que te va a quedar un día que te encuentres 
+            con una pelotera por detrás y otra por delante en tu camino 
+            —respondió cierta vez el <persName type="personaje" xml:id="HC"><state ref="#SCHOL" type="status"><label>doctor</label></state> <forename>Hermógenes</forename> <surname type="linked">Crucible</surname>, <affiliation>Asesor legal 
+            de su Dirección ejecutiva</affiliation></persName>.</p></sp>
+
+            <p><persName ref="TT">Tony</persName> hizo un gesto de indiferencia que le pareció apropiadamente 
+            heroico. Soy, pensó y dijo, un hombre del siglo XX y no del XXI.</p>
+
+            <sp><p>—Yo también —respondió <persName ref="HC">Crucible</persName>—. Pero no estoy loco. 
+            Yo tomo todas las mañanitas mi helicóptero en <placeName ref="https://goo.gl/maps/2GSExc2gcprJ2RTTA"><district>Surco</district></placeName>, acompañado de mi 
+            <rs type="person" xml:id="M-J">mujercita</rs> y del guardia, y desde el aire, seguro como bebé, los veo regresar a la casa.</p></sp>
+
+            <p><persName ref="TT">Tony</persName> lo miró, divertido.</p>
+            <sp><p>—Sí, y no me mires con esa cara, que mi <rs type="person" ref="M-J">mujer</rs> no me cuernea 
+            con ese cholo.</p></sp>
+            <sp><p>—Yo no he dicho nada, —replicó <persName ref="TT">Tony</persName>, más divertido todavía. 
+            <persName ref="HC">Crucible</persName>, pensó, es un blanco honorario. Esos son los peores.</p></sp>
+
+            <p>Abrió parte de la cúpula, y la brisa del mar invadió el coche.
+            Respiró profundamente. Aire fresco. Esto es lo que deberíamos 
+            empáquetar y vender, pensó. Materia prima gratis, no hay conflictos 
+            con autoridades roñosas (recordó el problema con <placeName type="region">Sudamérica Este</placeName>, 
+            <date when="2024">diez años atrás</date>, que insistía en no permitir la importación del 
+            <objectName type="producto" xml:id="NucCocktail"><hi rend="cursiva"><foreign xml:lang="en">Nuclear Cocktail</foreign></hi></objectName>, producto regional bajo licencia de <orgName type="empresa" xml:id="Sti">Stimudrinks Incorporated</orgName>) 
+            que aún se guían, por lo menos hasta que el soborno —o contribución— 
+            adquiría las dimensiones satisfactorias, por viejas leyes del siglo 
+            pasado en lo que respecta a fármacos, drogas, estimulantes y otros 
+            componentes imprescindibles de la agitada vida moderna. Aire de mar, 
+            sí, exactamente, se dijo <persName ref="TT">Tony</persName>, a cien dólares el hectolitro en su bar. 
+            Eso satisfaría a los fanáticos de la <orgName>Internacional Ecologista</orgName> y demás 
+            cojudos subversivos que ponían bombas en los bares de bencedrina y otros 
+            sitios de relax.</p>
+
+            <p>Pasó cerca de una de las fábricas de pan de algas y soportó el 
+            inenarrable olor de esas instalaciones. El escaso tránsito le permitió 
+            acelerar a <measure type="velocidad" unit="k/m" quantity="140">140</measure> y dejar atrás el apestoso lugar. <persName ref="HC">Crucible</persName> era un buen 
+            hombre, se dijo. Buen abogado, experto en lidiar con la burocracia de 
+            las tres agencias que se especializaban en joder a su <rs type="empresa" ref="Ep">compañía</rs>: la de 
+            Entrenamiento, la de Consumo Alimenticio y Afines, y, naturalmente, 
+            la de Economía y Tributación. Hombre que se había hecho solo, este 
+            <persName ref="HC">Crucible: rechoncho, feo, de tez oscura, proveniente del <placeName ref="https://goo.gl/maps/Nyc8JdEJaxshnWSA6"><region>Cusco</region></placeName> (¿o 
+            era de <placeName ref="https://goo.gl/maps/Rg6ERq2Hb6wmCW226"><region>Puno</region></placeName>?), casado con una <rs type="person" ref="M-J">antropóloga francesa</rs></persName> que evidentemente 
+            había decidido estudiarlo a tiempo completo. Un poco resentido, es 
+            cierto, y fanáticamente leal a <rs type="empresa" ref="Ep">la compañía</rs>, a sus valores —en ambos 
+            sentidos del término—, a la sociedad que le había permitido, pese a 
+            todas sus desventajas, prosperar y hacerse un sitio en el mundo. 
+            Hablaba inglés y francés. No se le conocían aventuras amorosas ni a él 
+            ni a <rs type="person" ref="M-J">su mujer</rs>. <persName ref="TT">Tony</persName> decidió que para esto último solo había una 
+            explicación posible: una incomparable perversión sexual. A mí, se dijo 
+            <persName ref="TT">Tony</persName>, no me disgustaría cepillarme a <persName type="personaje" ref="M-J"><forename>Marie-José</forename>, <state ref="#SCHOL" type="status"><label>doctora en  
+            Antropología</label></state></persName>: una mezcla de vanidad masculina herida y de conformismo 
+            social le hizo abominar a <rs type="person" ref="M-J">esta extraña mujer inasequible</rs>.</p>
+
+            <p>Lo cual lo llevó automáticamente a trasladar su pensamiento, cerca 
+            ya de <placeName ref="https://goo.gl/maps/UP9MyW4x8GZKiqC89"><district>Chorrillos</district></placeName>, a <rs type="person" ref="LK">la visitante de <orgName type="empresa" ref="Sti">Stimudrinks</orgName></rs> que esperaba para esta 
+            mañana. Como de costumbre, la casa matriz había enviado una esterofoto 
+            de <persName type="personaje" xml:id="LK"><forename>Linda</forename> <surname>King</surname>, <state ref="#SCHOL" type="status"><label><affiliation><hi rend="cursiva"><foreign xml:lang="en">Master of Communications</foreign></hi> de la <orgName type="universidad" ref="https://www.columbia.edu/">Universidad de Columbia</orgName></affiliation></label></state>, 
+            asesora encargada de Latinoamérica</persName>, nieta de una agresiva dirigente y 
+            escritora feminista del siglo pasado, y economista de cuidado. Treinta 
+            y dos años, hoyuelos, dos pecas en la mejilla, cabello temporal y 
+            desmesuradamente largo, lo que parecía indicar que su belleza le 
+            importaba más que su comodidad, punto en el cual podía sospecharse un 
+            conflicto entre abuela y nieta. Gran país, <placeName>los viejos <country ref="https://goo.gl/maps/4bDJj7AJHYKCeAhV8">Estados Unidos</country></placeName>, 
+            pensó <persName ref="TT">Tony</persName> al ingresar a <placeName ref="https://goo.gl/maps/UP9MyW4x8GZKiqC89"><district>Chorrillos</district></placeName>; primer país que tuvo una presidenta 
+            feminista, lo cual a mí me parece ridículo, pero allá los gringos con 
+            sus debilidades. No pintó de rosado la <placeName ref="https://goo.gl/maps/BbDtbnvMPHiKadPQ7">Casa Blanca</placeName>, como sugería un 
+            famoso chiste de la época, pero logró una Ley Seca Sexual con prohibición 
+            de <hi rend="cursiva"><foreign xml:lang="en">sex-shops</foreign></hi> y otras amenidades y que terminó, como la otra Ley Seca 
+            pero mucho más rápido, con un fallo de la Suprema (4 mujeres, 3 hombres) 
+            declarando inconstitucional esa ley federal. Claro que, y aquí <persName ref="TT">Tony</persName> 
+            estalló en una burlona carcajada latina, la Suprema pícaramente 
+            insistió en la igualdad de derechos pornográficos y que por cada vagina 
+            expuesta debía haber un pene. Fin del problema: Cupido ha muerto, y 
+            todos somos objetos eróticos como decía socarronamente el <hi rend="cursiva"><foreign xml:lang="en">Time</foreign></hi>.</p>
+
+            <p>El auto de <persName ref="TT">Tony</persName> tocá tierra y cogió <placeName ref="https://goo.gl/maps/82V1xXynLSFKxeqi9">la Vía Expresa <district ref="https://goo.gl/maps/UP9MyW4x8GZKiqC89">Chorrillos</district>-<district ref="https://goo.gl/maps/5Ydxjzc6qpFsBwgQ8">Rímac</district></placeName>, 
+            que los bromistas (y los quejosos) llamaban <placeName ref="https://goo.gl/maps/82V1xXynLSFKxeqi9">Zanjón de la Muerte</placeName>. <placeName ref="https://goo.gl/maps/82V1xXynLSFKxeqi9">La Vía 
+            Expresa</placeName> se sobreimponía a las antiguas avenidas <placeName ref="https://goo.gl/maps/jzQWgvqHvKhZAviz6">Larco</placeName>, <placeName ref="https://goo.gl/maps/bkjftdsPE4HJRRZ99">Arequipa</placeName>, <placeName ref="https://goo.gl/maps/C4fJzinCwdS4b3YD6">Vega</placeName> y 
+            <placeName ref="https://goo.gl/maps/rsycGGwFQqHVebNd7">Tacna</placeName>, rodeada de muros de <measure type="espacio" unit="metro" quantity="1">un metro</measure> de alto y, cada <measure type="espacio" unit="metro" quantity="300">300 metros</measure>, 
+            con puentes elevados para otros vehículos y peatones. <persName ref="TT">Tony</persName> aminoró la 
+            marcha al entrar al <placeName ref="https://goo.gl/maps/82V1xXynLSFKxeqi9">Zanjón</placeName>, a diferencia de otros automovilistas que 
+            apretaban el acelerador a fondo en esta ruta, con la esperanza de coger 
+            a uno de los peatones que, ilegalmente, pretendían cruzarlo sin hacer 
+            uso de los puentes. Aquí me habría servido el nuevo ariete con autolimpiador, 
+            pensó <persName ref="TT">Tony</persName>, si tuviera <rs ref="GemE">el modelo del 34</rs>. A él le disgustaba atropellar 
+            gente, aunque fueran delincuentes, y aunque la ley exculpara explícitamente 
+            a los automovilistas en estos casos.</p>
+
+            <p>Su velocidad era de unos moderados <measure type="velocidad" unit="km/h" quantity="80">80 kilómetros por hora</measure>, y dejó que 
+            algunos colegas burlones lo pasaran haciéndole el tradicional gesto de 
+            «huevón»: la mano extendida con la palma extendida y los dedos ligeramente 
+            curvados, y un movimiento vertical lento. Curiosamente, no vio ningún 
+            cadáver hasta el cruce con la <placeName ref="https://goo.gl/maps/d7rW8ErWHt32Qan16">Vía Expresa Javier Prado</placeName>, cerca del cual 
+            yacía un montón de harapos que parecían cubrir una figura humana inmóvil.</p>
+
+            <p><persName ref="HC">Crucible</persName> debía tener listo su informe para <persName ref="LK">Linda King</persName>, y <persName ref="MF">Marina</persName> ya había 
+            terminado ayer el de <persName ref="TT">Tony</persName>. Luego, o mañana, habría una reunión de directorio 
+            con ella, el resto sería amenidades, <hi rend="cursiva"><foreign xml:lang="en">shopping</foreign></hi>, paseos (ya no <placeName ref="https://goo.gl/maps/1TLwAtWeL6FuXzNL8">Machu Picchu</placeName>, por 
+            Dios) y ferias típicas hasta el lunes, y buen viaje a <placeName ref="https://goo.gl/maps/zt4RhU1YDGZmkQbr6"><region>Santiago</region></placeName>. <persName ref="DN"> Doris</persName>, pensó. 
+            En casa cuidando a los niños, y si no es así, no quiero saberlo. Independiente 
+            y anticuado, se dijo. Orgías, claro, y si mi <rs ref="DN">mujercita</rs> tiene algo por allí, 
+            eso es inevitable y además con qué derecho yo, pero, en fin, confiesa, <persName ref="TT">Tony 
+            Tréveris</persName>, que nos jode, a ti ya mí. La mujer del <hi rend="cursiva"><foreign xml:lang="en">latin lover</foreign></hi> o, como se dice 
+            ahora, del <hi rend="cursiva"><foreign xml:lang="en">3-W-lover</foreign></hi> (el <hi rend="cursiva"><foreign xml:lang="en">three double you lover</foreign></hi>) ya aprendió sus cositas del 
+            estereófo. <hi rend="cursiva"><foreign xml:lang="en">Fuck me good, fuck me hard</foreign></hi>, <persName ref="DN"> Doris</persName>. No quiero saber más, y de pronto 
+            ya no me voy a burlar de <persName ref="HC">Crucible</persName>. Pero eso es absurdo, y absurda es el alma 
+            mía. Recordó ciertos diálogos con <persName ref="DN"> Doris</persName> que <persName ref="TT">Tony</persName> prefirió interrumpir cuando 
+            ella amenazó —sin expresarlo en esta forma— con comenzar a ser sincera. Ella 
+            se rió y le confirmó que <persName ref="FT">Federico</persName>, <persName ref="MT">Marcos</persName> y <persName ref="CT">Claudia</persName> eran auténticos Tréveris 
+            y que desde entonces se había hecho radiar el útero, de manera que, según dijo 
+            gráficamente, lo que tu <rs ref="DN">mujercita</rs> haga con su preciosa serie de agujeros no le 
+            concernía a él mayormente, puesto que aquí estaban los dos y qué más se podía 
+            pedir. Efectivamente, respondió él, y se lo repitió ahora, ¿qué más se podía pedir?</p>
+
+            <p>Siempre le producía el mismo shock de melancolía rabiosa el cruce de lo que, en 
+            su niñez, todavía insistía en considerarse el <placeName ref="https://goo.gl/maps/r9yJFiiRDZ3jrBXy7">centro de Lima</placeName>. Curiosamente, ahora 
+            lo era más que antes, geográficamente hablando. Ya alrededor del <date when="2000">año 2000</date>, cuando
+            <persName ref="TT">Tony</persName> tenía once años, lo que en tiempos se había llamado el cuadrado o damero de 
+            Pizarro, la Lima de los fundadores, era un turbio hacinamiento del cual solamente 
+            podían recorrerse sin mucho problema las avenidas anchas. Durante los 30 o 40 años 
+            anteriores, cuando sus padres aún vivían en el viejo <placeName ref="https://goo.gl/maps/JHKNuYodjKQ9QrxDA"><district>Miraflores</district></placeName>, en ese <placeName ref="https://goo.gl/maps/gSvanok9vTVB6CUd8">Juan Fanning</placeName> 
+            con árboles y cuculíes que resistió hasta adentrado el nuevo milenio casi como una 
+            isla en proceso de comercialización, el <placeName ref="https://goo.gl/maps/r9yJFiiRDZ3jrBXy7">centro de la gran capital</placeName> había iniciado su 
+            lento descenso. También el nuevo centro <placeName ref="https://goo.gl/maps/JHKNuYodjKQ9QrxDA">Miraflores</placeName> había seguido, poco después, el 
+            mismo camino: altos edificios, orgullosos en su estreno, construidos en calles 
+            angostas, ahora mantenían en la sombra permanente, como esas callejas en torno a 
+            <placeName ref="https://goo.gl/maps/yPjNZMaEeVsGxZXq7">Wall Street, en <region>Nueva York</region></placeName>, a un mundo muy diferente al que desplazaron en la 
+            segunda mitad del siglo XX. Pero era el <placeName ref="https://goo.gl/maps/r9yJFiiRDZ3jrBXy7">centro de Lima</placeName> lo que, de alguna manera, 
+            le afectaba más, quizás porque su padre y sus abuelos le habían relatado su historia, 
+            su belleza, su encanto —quizás falsos o sobredimensionados— con mayor gracia que la 
+            de los ojos de <persName ref="TT">Tony</persName> y su relación con <placeName ref="https://goo.gl/maps/JHKNuYodjKQ9QrxDA">Miraflores</placeName>. Le habían hablado del encanto 
+            antiguo del <placeName ref="https://goo.gl/maps/zksdSagqxF6DYCMK8">Jirón de la Unión</placeName> a mediados del siglo anterior, de la Plaza San Martín 
+            con sus <hi rend="cursiva"><foreign xml:lang="en">hippies</foreign></hi> (así se llamaban los muchachos, nacionales y extranjeros, que seguían 
+            la moda de los países ricos consistente en imitar la pobreza del tercer mundo), sus 
+            vendedores ambulantes, sus ladronzuelos y damas ligeras de cascos (esta figura siempre 
+            le hacía pensar en yeguas aladas). Todo ese cuadrilátero entre, digamos, la <placeName ref="https://goo.gl/maps/sdSFtoj6P71HPzvg9">Plaza 
+            Unión</placeName>, el <placeName ref="https://goo.gl/maps/YaLTVBfsVH3vCF9N8">Mercado Central</placeName>, el <geogName ref="https://goo.gl/maps/gaC91fKbWnY325c78"><geogFeat>río</geogFeat> <name>Rímac</name></geogName> y la <placeName ref="https://goo.gl/maps/UHTEroU9d9M1EKE87">avenida 28 de Julio</placeName>, vivía y bullía 
+            pletórico de cines, teatros, tiendas, oficinas y una abigarrada multitud. Miró, al 
+            cruzar <placeName ref="https://goo.gl/maps/BnsbUhT39ThdisR27">la Colmena</placeName>, hacia la derecha, hacia donde debía estar lo que quedaba de la <placeName ref="https://goo.gl/maps/XuvnSzZ5N9x1ZLtE9">Plaza 
+            San Martín</placeName>. Hacía décadas que se había reubicado el monumento en el enclave del gobierno 
+            y los grandes edificios de las corporaciones, al otro lado del río hasta las faldas 
+            del <geogName ref="https://goo.gl/maps/BdWD5DGMi9udSqaG6"><geogFeat>cerro</geogFeat> <name>San Cristóbal</name></geogName>. Le habían contado que la vieja Plaza, como todo el resto de 
+            esta zona, era ahora un maloliente hacinamiento de basura entre edificios derruidos, 
+            poblados por ratas, humanas y de las otras. Una bruma gris parduzca flotaba 
+            permanentemente sobre estas ruinas; de noche, se decía, brotaban disparos, aullidos y 
+            gritos escalofriantes de estos callejones y cañones que vivíanen una autónoma sordidez. 
+            Más de un osado buscador de experiencias inéditas se había perdido para siempre en el 
+            <placeName ref="https://goo.gl/maps/fJFmmvhEbxT69qqD9">callejón de Carabaya</placeName> o en las increíbles covachas de <placeName ref="https://goo.gl/maps/AmQUXHW2mJfuxHys6">Moquegua</placeName> o de <placeName ref="https://goo.gl/maps/m8KFiEqR2i2YnuCz7">La Merced</placeName>. Se 
+            murmuraba acerca de que, en estas covachas, debidamente armados y en grupos, los 
+            visitantes podían obtener gratificaciones sin paralelo en la ciudad; que allí se 
+            ofrecían espectáculos bestiales para voyeurs atosigados. <persName ref="TT">Tony Tréveris</persName>, aunque 
+            intrigado, jamás había recorrido esos peligrosos y tentadores infiernos. De hecho, 
+            no había recorrido ni siquiera esta parte de la <placeName ref="https://goo.gl/maps/82V1xXynLSFKxeqi9">Vía Expresa</placeName> de noche: esas eran las 
+            ocasiones en las que optaba por el helicóptero nocturno, que partía a las <time when="20:00:00">20 horas</time> con 
+            el personal que había hecho sobretiempo. O, si esto era inconveniente, se había hecho
+            transportar a los dos pisos del edificio de la <rs type="empresa" ref="Ep">compañía</rs> destinados a dormitorios para 
+            huéspedes o rezagados.</p>
+
+            <p>Jugó con la idea de llevar a <persName ref="LK">Linda King</persName> a una de las covachas del <placeName ref="https://goo.gl/maps/ctfZXqfFAXBz7t6D8">Jirón Ica</placeName>, para 
+            darle y —darse a sí mismo— un verdadero toque de <hi rend="cursiva"><foreign xml:lang="en">sinful 3 double you</foreign></hi>. Desechó la idea 
+            tanto por peligrosa, como porque difícilmente el espectáculo sería más excitante y/o 
+            repugnante que los que <persName ref="LK">Linda</persName> podría ver en <placeName ref="https://goo.gl/maps/anCQNoX89eRtTSwcA"><region>Nueva York</region></placeName>. Por cierto, era en <placeName ref="https://goo.gl/maps/TWmW9yfmxvNskdBw9"><district>Manhattan</district></placeName>, 
+            en <time when="2030">2030</time> nada más, donde había espectado, ligeramente incómodo y solitario, el dúo 
+            rubia-gran danés que se ofrecía por la no excesiva suma de 25 dólares un whisky incluido. 
+            ¿Qué podría ofrecer una covacha limeña, a ese o a otro precio? Se sacudió porque se le 
+            estaban ocurriendo algunas ideas y se concentro la pista, ahora que se aproximaba al río, 
+            cuyos <measure type="espacio" unit="metro" quantity="200">200 metros</measure> de ancho cruzados por un estupendo al anterior puente de acero, habían 
+            devorado las antiguas orillas incluyendo al anterior <placeName ref="https://goo.gl/maps/p762rW8R3Maajwfq5">Palacio de Gobierno</placeName>. Pero ni 
+            siquiera la derivación de las aguas del <geogName ref="https://goo.gl/maps/8nV3nQKsTY1jpJtr8"><geogFeat>río</geogFeat> <name>Mantaro</name></geogName> bastaba para las necesidades de
+            agua potable, racionada en aquellos barrios que no poseían pozos o instalaciones de 
+            desalinización del agua del mar, como <placeName ref="https://goo.gl/maps/o3gegV3JD2RK2r8G7"><district>Mala</district></placeName>, por suerte, según se dijo en ese momento 
+            con satisfacción.</p>
+        
+            <p><placeName ref="https://goo.gl/maps/5Ydxjzc6qpFsBwgQ8"><district >El Rímac</district></placeName> reforzado rugió bajo su auto. y <persName ref="TT">Tony</persName> suspiró, con involuntario alivio, 
+            cuando ingresó a las limpias calles de Lima-1, realmente casi el único barrio decente 
+            de todo el <geogName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogFeat>valle</geogFeat></geogName>. En la garita lo habían dejado pasar sin detenerse, sea porque le 
+            reconocieron, sea porque hubiera sido una pelotera atroz hacer parar todos los autos 
+            a esta hora. Dos minutos más y <persName ref="TT">Tony Tréveris</persName> se detenía, bajo un ya fuerte sol, ante 
+            el aparcadero del edificio que proclamaba, orgulloso, ser la sede de la <orgName type="empresa" xml:id="Ep">Empresa de 
+            Productos Estimulantes, Sociedad Anónima (Epesa)</orgName>. El guardián de los jueves —el cargo, 
+            como muchos otros, era rotativo, para aliviar el problema de la desocupación— lo 
+            saludó respetuosamente, hizo pasar el coche lentamente por el túnel de revisión y
+            descontaminación (un eufemismo para la detección de objetos, sobre todo armas 
+            ilegales, que siempre hacía sonreír a <persName ref="TT">Tony Tréveris</persName>) y le indicó que continuara hasta 
+            su lugar reservado. <persName ref="TT">Tony</persName> se estacionó, cogió sus <hi rend="cursiva"><foreign xml:lang="en">cassettes</foreign></hi> —no olvidó la estereofoto 
+            de <persName ref="LK">Linda King</persName>— y pasó directamente al ascensor que servía a los pisos 15 a 20. Un 
+            minuto después ocupaba su sillón, espaldas al ventanal que miraba sobre el <geogName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogFeat>valle</geogFeat></geogName> hasta 
+            el mar, en una habitación en la que absolutamente todo, menos su persona, era de 
+            material plástico.</p>
+        </div>
+
+        <div type="capitulo">
+
+        <head type="titulo_capitulo">DOS</head>
+
+            <p>Pocos segundos después ingresaba su secretaria, la bella y eficiente <persName ref="MF">Marina Ferrari</persName>. 
+            Se saludaron con una sonrisa más bien discreta, y <rs ref="TT">él</rs> se levantó cuando se escucharon 
+            los primeros sones del himno de <rs ref="Ep">la compañía</rs>. Ambos sabían que, simultáneamente, se 
+            estaba izando sobre el piso 32 la bandera púrpura y verde de <orgName ref="Ep">Epesa</orgName>, y que cerca de 2500 
+            otros fieles servidores, presentes en el edificio, escuchaban de pie y con la mano 
+            derecha sobre el corazón la melodía suavemente marcial muy bien calcada de John Philip Sousa<ref  xml:id="ref5" target="#nota5">(5)</ref>.</p>
+
+            <p><persName ref="MF">Marina</persName> murmuraba la letra, hecho que <persName ref="TT">Tony Tréveris</persName> registró con cierta emoción: la fidelidad de <persName ref="MF">Marina</persName> 
+            a <rs ref="Ep">la compañía</rs> era ejemplar, sin reservas mentales de ninguna clase, y en las ocasiones (no muchas, 
+            realmente) en que habían copulado para distender los agotados nervios, él no había sabido verdaderamente 
+            si ella se acostaba con <persName ref="TT">Tony</persName> o con el <affiliation>ejecutivo de <orgName ref="Ep">Epesa</orgName></affiliation>. Nunca le había preguntado hasta qué punto 
+            <persName ref="TT">Tony</persName> era, o no, intercambiable con quienquiera ocupara este despacho, porque <persName ref="TT">Tony</persName> conocía las reglas 
+            del buen comportamiento, que incluyen la prohibición estricta de hacer preguntas íntimas a la pareja 
+            durante y después d eun coito higiénico</p>
+
+            <p>Los labios intensamente verdes de <persName ref="MF">Marina</persName> se movían canturreando de praderas y montañas, de urbes 
+            poderosas y mares procelosos, de hombres necesitados a quienes <orgName ref="Ep">Epesa</orgName>, la empresa del corazón gigante, 
+            brindaba consuelo, estímulo y ansias de vivir. Era una bella mujer, pensó <persName ref="TT">Tony</persName>, quizás demasiado 
+            bella, excesivamente perfecta, en muchas cosas semejante a un hológrafo vivo, uno de esos juguetes 
+            recientes que, en sus movimientos, superaban la gracia humana. Dios no hizo a los seres humanos de
+            plástico por falta de visión, había bromeado alguna vez <persName ref="HC">Hermógenes Crucible</persName>, para escándalo de <persName ref="MF">Marina 
+            Ferrari</persName> y tranquila diversión de <persName ref="TT">Tony</persName>; y el arte supera a la naturaleza por nueve jonrones a cero 
+            —eso me recuerda, pensó <persName ref="TT">Tony</persName>, que debo llevarle un equipo de béisbol nuevo a <persName xml:id="FT">Federico</persName>—. <persName ref="MF">Marina</persName>, 
+            algunas veces, hablaba de su familia, una de las últimas que quedaban en <placeName ref="https://goo.gl/maps/qBUvcgqy4txCNi8b6"><region>Tingo María</region></placeName>. Viejos italianos, 
+            los Ferrari se habían negado resueltamente a abandonar esa porción de selva, pese a la desintegración 
+            de la ciudad que, como muchas otras provincias, era un pueblo fantasma.</p>
+
+            <p><rs type="person" ref="MF">Ella</rs>, en cambio, había venido a <placeName ref="https://www.google.com/maps/place/Lima/@-12.025827,-77.2679867,10z/data=!3m1!4b1!4m5!3m4!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754?shorturl=1">Lima</placeName>, como millones de provincianos en el último medio siglo o más 
+            —sus conocimientos de historia eran casi nulos, ya que en la secundaria había optado por 
+            especializarse en Arte—, decidida a hacerse un lugar bajo el sol. Después de su jornada 
+            en <orgName ref="Ep">Epesa</orgName>, estudiaba Historia de Arte en su estereófono doméstico, en el pequeño departamento 
+            que compartía con una amiga en el centro comercial de <placeName ref="https://goo.gl/maps/PY3tcTni3owcVWKDA"><district>Pucusana</district></placeName>. <persName ref="TT">Tony</persName><foreign xml:lang="lat"></foreign> le tenía cariño: era 
+            eficiente, copulaba bien, tenía espíritu de colaboración y una fe total en la presente 
+            organización del universo. Pertenencia a la fe bahá'i, una de las diez grandes religiones de 
+            este tiempo, y era, por lo tanto, moderna y científica.</p>
+
+            <p><persName ref="MF">Marina</persName> era lo suficientemente conformista como para ser una buena artista. Pero, ¿lo era 
+            realmente? Había momentos, y <persName ref="TT">Tony</persName> los recordó con placer, en los que su secretaría demostraba 
+            una deliciosa audacia y se convertía en una negación de la rutina. Pero, bueno, la audacia 
+            era parte de la higiene, y se programaba como todo lo demás... Y sin embargo...</p>
+
+            <p>El himno terminó con la fanfarria acostumbrada y <persName ref="TT">Tony</persName> se imaginó, como todas las 
+            mañanas, que el edificio temblaba al sentarse 2500 personas a la vez.</p>
+
+            <sp><p>—Buenos días, <persName ref="TT">señor Tréveris</persName>, —dijo <persName ref="MF">Marina</persName> con voz profesional.</p></sp>
+            <sp><p>—Buenos días, <persName ref="MF">Marina</persName> —respondió él y se sentó tras su escrtorio que imitaba la 
+            madera. Cogió el retrato de <persName ref="LK">Linda King</persName> y se lo alcanzó a <persName ref="MF">Marina</persName>. Ella la miró, con ese 
+            vistazo entre celoso y admirativo con que las mujeres suelen observar las fotos de otras 
+            mujeres que les muestra un hombre.</p></sp>
+
+            <sp><p>—Llega hoy, ¿verdad, <persName ref="TT">señor Tréveris</persName>? —preguntó.</p></sp>
+            <sp><p>—A las <time when="11:30:00">once y treinta</time>. Estamos justo a tiempo para organizar un almuerzo de 
+            trabajo en el piso treinta, Usaremos el pequeño comedor ejecutivo. Avísele nuevamente 
+            a <persName ref="HC">Crucible</persName> y a <persName xml:id="JJ">Johnson</persName>, y al <hi rend="cursiva"><foreign xml:lang="en">pool</foreign></hi> de choferes. Ah, y llame por favor al aeropuerto 
+            internacional para confirmar. ¿Ya está hecha la reservación aquí?</p></sp>
+            
+            <sp><p>—Sí, tiene el departamento G.</p></sp>
+            <sp><p>—Mmm, ése es el de los espejos falsos.</p></sp>
+            <sp><p>—No sé —respondió <persName ref="MF">Marina</persName>—. Nunca he estado allí.</p></sp>
+            <sp><p>—Allí sólo van los viejos mañosos como yo, con viejas majosas. ¿Por qué se lo  
+            dan a <persName ref="LK">la King</persName>?</p></sp>
+            <sp><p>—Nos informan que a <persName ref="LK">Miss King</persName> le encantan las emociones fuertes.</p></sp>
+            <sp><p>—¿Es voyera?</p></sp>
+            <sp><p>—¡Y cómo! Se relaja piqueando a hombres desnudos.</p></sp>
+            <sp><p>—Bueno, va a tener bastante que piquear, y con ambos ojos. Esos espejos-ventanas 
+            dan a las salas de masturbación terapéutica. No sé cómo la vamos a arrancar de ahí 
+            para las sesiones.</p></sp>
+
+            <sp><p>—No dudo de que usted estará dispuesto a quedarse sobrehoras para darle un buen 
+            espectáculo cuando todos nos hayamos ido.</p></sp>
+            <sp><p>—Sí, podría ser una linda sorpresa para <persName ref="LK">Linda</persName> —rió <persName ref="TT">Tony</persName>. <persName ref="MF">Marina</persName> bajó la mirada.</p></sp>
+            <sp><p>—Cambiemos de tema, ¿quieres? Tú sabes cómo soy, y que ahora hay que trabajar.</p></sp>
+
+            <p><persName ref="TT">Tony</persName> se levantó y la besó, castamente, en la mejilla.</p>
+            <sp><p>—Si quieres darte un salto a la sala en referencia, tienes mi permiso, pero no más de 15 minutos.</p></sp>
+            <sp><p>—Ahora no. Pero quizá más tarde podamos...</p></sp>
+            <sp><p>—Imposible, <persName ref="MF">señorita Ferrari</persName>. Debo reservar mis energías para <persName ref="LK"><hi rend="cursiva">miss</hi> Linda King</persName>, 
+            en caso de que mis servicios fuesen requeridos.</p></sp>
+            <sp><p>—Está bien, <persName ref="TT">señor Tréveris</persName>. Pero eso del departamento G me ha intrigado. No 
+            sabía que servíamos de espectáculo a los ejecutivos.</p></sp>
+
+            <p><persName ref="TT">Tony</persName> volvió a reír.</p>
+            <sp><p>—Bueno, no puedo culpar a <persName ref="HC">Hermógenes</persName> por haberse ensuciado el pantalón mirándote. 
+            Eres un lindo espectáculo.</p></sp>
+            <sp><p>—¿Tú también me has visto?</p></sp>
+            <sp><p>—Fue bellísimo.</p></sp>
+            <sp><p>—Yo quiero —verte a ti.</p></sp>
+            <sp><p>—Cuando se haya ido <persName ref="LK">la King</persName>, ¿eh? Hacemos una sesión doble, tú y yo. Y si quieres, 
+            lo invitamos a <persName ref="HC">Crucible</persName>, que me ha hecho varias insinuaciones.</p></sp>
+            <sp><p>—¿Por mí o por ti?</p></sp>
+            <sp><p>—Ah, fíjate que no sé. Supongo que es por ti, pero ahora que me los has 
+            preguntado... Pero no, nunca se ha proclamado homo.</p></sp>
+            <sp><p>—No me gusta. </p></sp>
+            <sp><p>—A mí tampoco.</p></sp>
+            <sp><p>—Tiene un pene que parece un plátano enano y marrón.</p></sp>
+            <sp><p>—Imagínate que es un clítoris y que estás con una lesba.</p></sp>
+            <sp><p>—No tengo tanta fantasía como para eso. Para mí es simplemente un hombrecito 
+            gordo con un pene que parece un platanito marrón.</p></sp>
+            <sp><p>—Entonces no lo invitamos. Pero ahora a trabajar, hijita, porque nos 
+            acabarán suspendiendo a ambos. </p></sp>
+            <sp><p>—Nunca suspenden a los directores.</p></sp>
+            <sp><p>—Pero les quitan la confianza y ahí te quiero ver.</p></sp>
+            <p><persName ref="MF">Marina</persName> le sonrió y le guiñó el ojo.</p>
+            <sp><p>—Seguiría copulando contigo aunque fueras pobre.</p></sp>
+            <sp><p>—No digas tonterías. Dios castiga a los chistosos.</p></sp>
+
+            <p><persName ref="MF">Marina</persName> salió rumbo a su pequeña oficina contigua y <persName ref="TT">Tony</persName> quedó solo. Hizo girar 
+            su silón para echar una mirada a la ciudad, envuelta en la bruma gris-amarillenta 
+            que brotaba de los fuegos encendidos día y noche en los estercoleros y frente a 
+            las intrincadas covachas y callejones. Más lejos, se adivinaba el mar, cuyo brillante 
+            azul a veces traspasaba la cortina de humo y niebla.</p>
+            
+            <p>Llamó a <persName ref="DN">Doris</persName>, le informó que todo iba bien y recibió seguridades similares de 
+            ella. Los chicos estaban en el colegio y ella se dedicaba a sus sesiones de gimnasia 
+            rítmica para bajar unos inoportunos rollos estomacales. Mientras apagaba el <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi>, 
+            sonrió recordando aquella vez que —ante una llamada semejante— la pantalla le había 
+            mostrado a su mujer sin más ropa que un breve slip al lado de un musculoso masajista, 
+            de igual atuendo, que tenía una profesional mano apoyada sobre el hombro de <persName ref="DN">Doris</persName>. Ambos 
+            le sonreían afectuosamente, En fin, se dijo <persName ref="TT">Tony</persName>, yo tenía la idea de que las mujeres 
+            preferían a los hombres sin tanto músculo. Quizás cambiaban después de los cuarenta. 
+            Él, <persName ref="TT">Tony</persName>, ¿había cambiado después de los cuarenta? No, no le parecía. Siempre le 
+            habían gustado las mujeres mayores (<hi rend="cursiva"><foreign xml:lang="lat">Oedipus Rex</foreign></hi>, murmuró), mucho más en todo caso que 
+            las chiquillas. Seguía igual. <persName ref="MF">Marina</persName> era joven y le gustaba, es cierto, pero estábamos 
+            hablando de preferencias y no de fanáticas exclusividades. ¿Edad de <persName ref="LK">Linda King</persName>? Buscó 
+            en el expediente: 32 años, Estudios: tal y tal, bah, lo de siempre. Preferencias 
+            sexuales: hombres maduros y mujeres muy niñas, voyera casi compulsiva, algo de masoca. 
+            ¿Pero puede haber una ejecutiva masoca? Evidentemente, sí. Los gringos se están descuidando, 
+            pensó. Cualquier día asume la presidencia una masoquista y se rinde ante el evidentemente 
+            sádico Primer Camarada del <orgName xml:id="ImpRev">Imperio Asiático Revolucionario</orgName>, ¿Y entonces? Sería realménte 
+            cuestión de ver qué sucede, aunque más no fuera para dilucidar de una vez esta añeja 
+            discusión entre neofreudianos y culteranos acerca de la preeminencia de la libido sobre lo 
+            socialeconómico. ¿Un pene —o su prolongación en, forma de látigo— puede derrocar al<orgName xml:id="Occ"> Multiestado 
+            Occidental</orgName> y a su forma de vida? ¿La pasión sexual puede ser más fuerte que la adhesión al 
+            internacionalismo libre, al juego democrático del gobierno transnacional? Estupideces de 
+            doctores barbudos. Lo que pasa es que <hi rend="cursiva">ellos</hi> no pueden controlar a sus babosos pipís o a 
+            sus chorreantes vaginas. Los sicoanalistas, resolvió <persName ref="TT">Tony</persName>, eran los últimos cucufatos en 
+            este mundo, si exceptuamos a los <orgName xml:id="Cat">Católicos Ortodoxos</orgName> y sus equivalentes. Y, como buenos 
+            cucufatos, sobreestiman el sexo.</p>
+
+            <p>Esa es una buena idea, se felicitó <persName ref="TT">Tony</persName>. ¿No la había dicho nadie antes? La única 
+            manera de derrotar a la tentación es cediendo a ella. Sí, alguien lo dijo, algún escritor 
+            homo del siglo pasado. Pobre gente. Los reprimidos sobreestiman el sexo. Nosotros no 
+            tenemos tiempo para sobreestimarlo: estamos demasiado ocupados copulando. Y menos mal 
+            que ya casi nadie defendía esa estúpida idea de que el sexo y el amor deben ir siempre 
+            juntos. ¡Vaya problema el de esos pobres imbéciles de ambos sexos que tenían que 
+            justificarse cada vez que se metían a la cama! Como si ahora alguien dijera que es 
+            impropio comer tan sólo porque se tiene hambre.</p>
+
+            <p><persName ref="HC">Crucible</persName>, sospechó <persName ref="TT">Tony</persName>, podría ser <rs ref="Cat">católico ortodoxo</rs>. Tenía toda la cara, y esa 
+            cosa furtiva en asuntos sexuales. ¿Qué relaciones habría <hi rend="cursiva">realmente</hi> entre los 
+            ortodoxos y los culteranos? ¿Eran estos últimos la vanguardia intelectual de esos 
+            mongólicos flageantes que, ocultos tras sus capuchones negros, recorrían las destruidas 
+            y malolientes callejas?</p>
+            
+            <p>Un suave zumbido del visodiario interrumpió sus pensamientos. <persName ref="TT">Tony</persName> dijo «On» y 
+            el sonido de su voz iluminó la pantalla del aparato.</p>
+
+            <p>—Atención—, dijo a figura masculina uniformada que apareció ante <persName ref="TT">Tony</persName>—. Grabación 
+            repetida, Estamos transmitiendo un mensaie de prioridad uno. Sírvanse tomar nota. 
+            Disturbios serios en las zonas <placeName ref="https://goo.gl/maps/JHKNuYodjKQ9QrxDA">Miraflores</placeName> uno, dos y tres, con tendencia a cubrir 
+            todo el cono sur hasta <placeName ref="https://goo.gl/maps/JBUdMHGXnghqbzPa6">Casuarinas</placeName>. Las zonas amargadas han sido declaradas en 
+            aislamiento. Hay prohibición, repetimos, prohibición de tránsito terrestre y aéreo 
+            sobre las zonas mencionadas, <placeName ref="https://goo.gl/maps/JHKNuYodjKQ9QrxDA">Miraflores</placeName> uno, dos y tres, por intenso fuego de 
+            bazucas, inclusive con cargas nucleares limitadas.</p>
+
+            <p><persName ref="TT">Tony</persName> miró por el ventanal. No había señales de los hechos que transmitía el 
+            diario. Escuchó un par de disparos, pero nada tenían que ver con la insurrección 
+            de <placeName ref="https://goo.gl/maps/JHKNuYodjKQ9QrxDA">Miraflores</placeName>.</p>
+
+            <sp><p>—Hablando de culteranos... —murmuró <persName ref="TT">Tony</persName>. Volvió al diario.</p></sp>
+            <sp><p>—Continuaremos transmitiendo este mensaje grabado a las <time when="09:43:00">9:43</time> hasta el 
+            próximo boletín. En los canales ordinarios, continúa nuestra programación habitual.</p></sp>
+
+            <p>—Off —dijo <persName ref="TT">Tony</persName>, y el aparato volvió a asumir su color mate. Llamó a <persName ref="MF">Marina</persName>.</p>
+
+            <p>—¿Si, señor? —dijo esta, al entrar. Se había puesto unas flores de plástico 
+            en el pelo. <persName ref="TT">Tony</persName> la consideró realmente linda, y eso lo devolvió a la realidad.</p>
+
+            <sp><p>—¿Escuchaste el boletín? —preguntó.</p></sp>
+            <sp><p>—No. Los pobres leemos diarios impresos —respondió <persName>Marina</persName>.</p></sp>
+            <sp><p>—Sin demagogia, por favor. Ni eres pobre ni perteneces a los analfabetos. 
+            Si no tienes un visiodiario es porque no te da la gana. Además, en tu oficina 
+            hay una extensión del mío.</p></sp>
+            <sp><p>—No zumbó. Debe estar descompuesto. Además, y para que sepas, me encanta 
+            piquear los impresos. Y no por demagogia. ¿Qué ocurre?</p></sp>
+            <sp><p>—Tenemos problemas. Está interrumpida otra vez la ruta al helipuerto 
+            de <placeName ref="https://goo.gl/maps/2GSExc2gcprJ2RTTA">Surco</placeName>.</p></sp>
+            <sp><p>—Bueno, el avión de <persName ref="LK">la King</persName> llega a <placeName ref="https://goo.gl/maps/b3zYPuw7ryyHaEoe9"><settlement type="provincia">Huacho</settlement></placeName> a la hora prevista. Tendrán 
+            que quedarse en <placeName ref="https://goo.gl/maps/UfynjEBCkAsqtudX6">Ancón</placeName>.</p></sp>
+            <sp><p>—Yo mismo voy a ir a recogerla. Llámame al personal de la Alondra.</p></sp>
+            <p><persName ref="MF">Marina</persName> hizo el llamado desde el mismo escritorio de <persName ref="TT">Tony</persName>. Mientras este, 
+            pensativamente, le acariciaba las nalgas y comenzaba a esforzarse con el cierre 
+            magnético posterior —lo que le valió un cariñoso palmazo en el dorso de la 
+            mano—, <rs ref="MF">su secretaria</rs> hizo los arreglos necesarios.</p>
+            <sp><p>—Suba usted a la azotea —dijo, finalmente.</p></sp>
+            <sp><p>—¿Por qué tan rápido?</p></sp>
+            <sp><p>—Tienen que pasar primero por un par de guardias que se quedaron 
+            frutados en <placeName ref="https://goo.gl/maps/w4Sgd5v8qqSd8KMn9"><district>San Isidro</district></placeName>. Y no proteste. Dicen que la Alondra es el único heli 
+            disponible y esos guardias son los que irán a <placeName ref="https://goo.gl/maps/UfynjEBCkAsqtudX6">Ancón</placeName> con usted.</p></sp>
+
+            <p>—!Mierda! —dijo <persName ref="TT">Tony</persName>. Las nalgas de <persName ref="MF">Marina</persName> le habían provocado una erección. 
+            Abrió su propio cierre magnético y señaló.</p>
+
+            <sp><p>—Hazme el favor— dijo.</p></sp>
+
+            <p><persName ref="MF">Marina</persName> lanzó un suspiro, se puso de cuclillas y se dedicó al <hi rend="cursiva"><foreign>fellatio</foreign></hi> terapéutico. 
+            Poco después se incorporó y, tragando con dificultad, murmuró:</p>
+
+            <sp><p>—Esta me la quedas debiendo.</p></sp>
+            <sp><p>—Gracias, <persName ref="MF">Marina</persName>— dijo <persName ref="TT">Tony</persName>, tras cerrarse el pantalón—. Tú misma me has dicho 
+            que debo apurarmé. Por cierto que te la debo.</p></sp>
+
+            <p>Cogió su arma personal del primer cajón de su escritorio y salió de la oficina. El 
+            ascensor de los ejecutivos lo llevó a la azotea, donde el pequeño helicóptero nuclear 
+            de seis plazas esperaba con el rotor, de apenas un metro de diámetro, moviéndose 
+            en total silencio. De la punta de las tres aspas se escapaba una fina vibración aérea.</p>
+
+            <p>El piloto lo saludó respetuosamente y le abrió la puerta. <persName ref="TT">Tony</persName> entró, se amarró 
+            el cinturón, y treinta segundos después sentía el mareo del súbito despegue vertical.</p>
+
+            <p>—Mierda —dijo por segunda vez en pocos minutos—. Alguna vez inventarán una buena 
+            píldora contra el mareo, supongo.</p>
+
+            <p>El piloto, a su lado, le sonrió.</p>
+            <sp><p>—Hay cosas que no se solucionarán nunca -dijo.</p></sp>
+            <sp><p>—Bueno, a <placeName ref="https://goo.gl/maps/w4Sgd5v8qqSd8KMn9">San Isidro</placeName>, ¿Cómo así se frutaron esos dos tan cerca de la zona de 
+            combates?</p></sp>
+            <sp><p>—Los agarró desprevenidos. Ellos viven ahí, y parece que la cosa comenzó a eso 
+            de las <time when="09:15:00">9:15</time>. Debían salir para el semiturno de las once, y la policía no los deja.</p></sp>
+            <sp><p>—Pero...</p></sp>
+            <sp><p>—Están apenas a unos trescientos metros de Miraflores, y dicen que los 
+            rebeldes están usando gas.</p></sp>
+            <sp><p>—¿Gas?</p></sp>
+            <sp><p>—Nada menos.</p></sp>
+            <sp><p>—Pero entonces la cosa es seria.</p></sp>
+            <sp><p>—Parece. Tienen armas atómicas... y gas.</p></sp>
+            <sp><p>—¿De dónde sacan esas cosas los <rs ref="Cat">cat-ox</rs>? Porque son <rs ref="Cat">cat-ox</rs>, ¿no?</p></sp>
+            <sp><p>—Así parece. Al menos, se han visto banderas negras con a cruz plateada.</p></sp>
+            <sp><p>—Justo hoy.</p></sp>
+            
+            <p>El aparato volaba sobre la peor zona del <geogName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogFeat>valle</geogFeat></geogName>, sobre la ciudad original, la 
+            de don Francisco Pizarro<ref  xml:id="ref6" target="#nota6">(6)</ref> y sus amigos. Varios aparatos grandes, con pintura de camuflage, 
+            se movían a la distancia rambo a sur. <persName ref="TT">Tony</persName> podía ver la gran D dorada al costado del fuselaje.</p>
+            <sp><p>—Han salido los del <orgName ref="DR">Directorio</orgName> —comentó.</p></sp>
+            <sp><p>—Sí, la cosa es seria —respondió el piloto.</p></sp>
+            <p>El <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi> de la Alondra emitió su llamada. El piloto conectó.</p>
+            <sp><p>—Identificación, por favor —pidió una voz metálica.</p></sp>
+            <sp><p>—Nave ejecutiva, número 7890+C —respondió el piloto. Sabía que la llamada provenía de 
+            uno de los helicópteros marcados con la D. Nadie más se interesaría por él—. Ocupantes, piloto y 
+            ejecutivo de <orgName ref="Ep">Epesa</orgName>. Destino: <placeName ref="https://goo.gl/maps/w4Sgd5v8qqSd8KMn9">San Isidro</placeName>, para recoger guardias de <rs ref="Ep">la compañía</rs>.</p></sp>
+
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">Check</foreign></hi>. Manténganse en ese rumbo y no permanezcan en su zona de destino más que el tiempo 
+            indispensable, Fin.</p></sp>
+            <p>El <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi> quedó en silencio.</p>
+            <sp><p>—Veo seis helis del <orgName ref="DR">Directorio</orgName> —comentó el piloto— Toda una armada invencible.</p></sp>
+            <sp><p>—Hace tiempo que no había un carozo tan grande.</p></sp>
+            <sp><p>—Me acuerdo del supercarozo del 26, en pleno centro. <placeName ref="https://www.google.com/maps/place/La+Victoria/@-12.0741148,-77.0334269,14z/data=!3m1!4b1!4m5!3m4!1s0x9105c8991e614d33:0x29fc509365d6b1d2!8m2!3d-12.0734497!4d-77.0162899">La Victoria</placeName>, <placeName ref="https://goo.gl/maps/CFefNZH2ydbrbnVr9"><district>Lince</district></placeName> y todo eso. 
+            Mamita, ese sí que fue un escándalo.</p></sp>
+            <sp><p>—Yo estaba fuera.</p></sp>
+            <sp><p>—Mejor para usted, El <geogName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogFeat>valle</geogFeat></geogName> entero estuvo apestando durante semanas, por los fuegos 
+            y los muertos. Los quemaban en pilas.</p></sp>
+            <sp><p>—Terrible. Si estas cosas siguen así, ya no se va a poder vivir en esta ciudad.</p></sp>
+            <sp><p>—Mmm. Yo no sé qué hace la administración que no toma medidas más drásticas. 
+            Yo fumigaría todo el <geogName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogFeat>valle</geogFeat></geogName> de mierda hasta que salgan todas esas ratas y entonces, 
+            ¡bzzzz!, láser con ellos.</p></sp>
+            <sp><p>—El <orgName xml:id="DS">Directorio Supremo</orgName> está muy lejos, hijo. Los olores de <placeName ref="https://www.google.com/maps/place/Lima/@-12.025827,-77.2679867,10z/data=!3m1!4b1!4m5!3m4!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754?shorturl=1">Lima</placeName> no llegan 
+            hasta <placeName ref="https://www.google.com/maps/place/Alabama,+EE.+UU./@32.5762265,-86.6807364,7z/data=!3m1!4b1!4m5!3m4!1s0x88867f341f4bfe75:0x5e55343553c8cce9!8m2!3d32.3182314!4d-86.902298">Alabama</placeName>.</p></sp>
+            <sp><p>—Pero el <orgName ref="DR">Directorio Regional</orgName> sí está aquí. Y <orgName ref="Ep">Epesa</orgName> tiene su representante allí. 
+            No me digan que ellos no ven, ni huelen ni oyen.</p></sp>
+            <sp><p>—¿Qué quieres que hagan? No se puede matar a la gente así como así. Lo que 
+            hacen es mandar sus helis y sus soldados y liquidar los focos.</p></sp>
+            <sp><p>—No es suficiente.</p></sp>
+
+            <sp><p>—La democracia tiene sus debilidades, pues. Es defensiva. Todo el mundo 
+            tiene derecho a vivir, hasta las ratas.</p></sp>
+            <sp><p>—Un día el <orgName ref="DR">Directorio</orgName> se va a despertar más frutado que esos guardias 
+            y con un gobierno de ratas.</p></sp>
+            <sp><p>—No exageres, hijo, El <orgName ref="DR">Directorio</orgName> es inderrocable. No es como los 
+            gobiernos de antes. ¿Sabes por qué caían los gobiernos nacionales? Te lo voy 
+            a decir: porque todavía había política. ¿Y qué es la política? Relaciones 
+            de poder no comerciales, irrazonables, basadas en el contacto entre las gentes 
+            y en ideologías.</p></sp>
+
+            <sp><p>—Mi padre me habló del gobierno. Del último confederación mundial. Era un caos.</p></sp>
+            <sp><p>—Así es. El internacionalismo democrático-comercial nos salvó de lo peor. 
+            Esto es una maravilla comparado con lo que tendríamos si no se hubiese eliminado 
+            el estado-nación, Eso lo sabemos desde el colegio. Y fíjate que cuando yo iba a 
+            la escuela, esta región todavía era una república más o menos independiente. Lo 
+            único que se ha hecho es eliminar la hipocresía: el <orgName ref="DR">Directorio</orgName>, nuestro gobierno 
+            regional, es el primer gobierno sincero de la historia. Por primera vez coinciden 
+            el poder económico y el político abiertamente, como debe ser. Quien sabe manejar 
+            una empresa, sabe manejar una región.</p></sp>
+            <p>El piloto señaló hacia un punto.</p>
+            <sp><p>—Mire, ahi están.</p></sp>
+            <p><persName ref="TT">Tony</persName> vio, sobre una azotea, a un par de hombres uniformados de verde oscuro, 
+            que hacían señas con sus fusilásers.</p>
+
+            <p>La Alondra descendió sobre la azotea, y los guardias subieron, saludando. Ocuparon 
+            los asientos posteriores.</p>
+
+            <p>—¿Cómo van las cosas? —preguntó <persName ref="TT">Tony</persName>, pero era 
+            innecesario. Se escuchaba, con regularidad, el golpe seco de las bazucas nucleares, 
+            las únicas armas no silenciosas. Cerca se veían espirales de humo negro que ascendían 
+            al amarillento cielo.</p>
+            
+            <sp><p>—No sabemos mucho —dijo uno de los guardias—. Solo que mejor nos vamos de aquí 
+            cuanto antes.</p></sp>
+
+            <p>Tras puertas y ventanas se veía a residentes de la zona, espiando con desconfianza a 
+            la Alondra. Cuando iniciaban el despegue, vieron que un hombre, media cuadra más allá, 
+            ondeaba una bandera negra.</p>
+
+            <sp><p>—¿Le mando un láser?, preguntó uno de los guardias.</p></sp>
+            <sp><p>—Déjalo —respondió <persName>Tony</persName>.</p></sp>            
+            <p>El hombre desapareció en una de las casas. Poco más allá, viejo edificio de Sears 
+            ardía. Pero no se veía gente.</p>
+
+            <p><persName ref="TT">Tony</persName> manipuló el <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi>. Apareció 
+            el rostro de <persName ref="MF">Marina Ferrari</persName>.</p>
+            
+            <sp><p>—¿Novedades? —preguntó <persName ref="TT">Tony</persName>.</p></sp>
+            <sp><p>—Acabamos de recoger a los guardias.</p></sp>
+            <sp><p>—Diríjanse de una vez a <placeName ref="https://goo.gl/maps/UfynjEBCkAsqtudX6">Ancón</placeName> —dijo <persName ref="MF">Marina</persName>—. El cohete de la <persName ref="LK">señorita</persName></p></sp>
+            <sp><p>—Demasiada eficiencia. —<persName ref="TT">Tony</persName> consultó su reloj—. Podríamos 
+            ir hasta el aeropuerto mismo y ganar tiempo y energía. ¿Qué dices? —preguntó el piloto.</p></sp>
+            <sp><p>—Sí, estamos a tiempo. Con este clima es un lindo paseo sobre el mar, lo que siempre es más seguro.</p></sp>
+            <sp><p>—Ya sabe, <persName ref="MF">señorita Ferrari</persName>. Vamos directo a <placeName ref="https://goo.gl/maps/b3zYPuw7ryyHaEoe9"><settlement type="provincia">Huacho</settlement></placeName> a 
+            recoger a <persName ref="LK"><hi rend="cursiva"><foreign xml:lang="en">miss</foreign></hi> King</persName>. ¿Algo más?</p></sp>
+            <sp><p>—Que se divierta, <persName ref="TT">señor Tréveris</persName>.</p></sp>
+            <sp><p>Haré lo posible, <rs type="person" ref="MF">señorita</rs> —dijo <persName ref="TT">Tony</persName>, y sonrió a la figura que 
+            se desvanecía en el <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi>.</p></sp>
+
+            <p>El piloto se dirigió al norte, luego al noreste y otra vez al norte. Durante 20 minutos volaron sobre 
+            un brillante océano que reflejaba la pesadez de un caluroso día de verano. El vacío de esta superficie azul plomo 
+            le pareció a la vez refrescante y atemorizante a <persName ref="TT">Tony</persName>. No solo era una 
+            diferencia espacial, sino inclusive temporal. Un vacío así no pertenecía a este mundo; no tan cerca de una ciudad 
+            como <name ref="https://www.google.com/maps/place/Lima/@-12.025827,-77.2679867,10z/data=!3m1!4b1!4m5!3m4!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754?shorturl=1">Lima</name>. La única presencia humana, si uno 
+            no miraba hacia la costa, eran los islotes mecánicos de los recolectores de algas, son sus fábricas 
+            de transformación acopladas. Sobrevolaron dos, y de ambas se elevaba una vibración permanente.</p>
+
+            <p>Cerca de las <time when="11:00:00">once</time> descendieron en uno de los helipuertos de <placeName ref="https://goo.gl/maps/b3zYPuw7ryyHaEoe9"><settlement type="provincia">Huacho</settlement></placeName>. <persName type="personaje" ref="TT">Tony</persName> y los dos 
+            guardias subieron a uno de los carriles móviles y minutos después estaban en la sala de 
+            recibo número 10. En ese preciso instante el altavoz anunciaba la llegada del cohete procedente de <placeName ref="https://goo.gl/maps/anCQNoX89eRtTSwcA"><region>Nueva York</region></placeName>.</p>
+            <sp><p>—¡Exactos! —exclamó alegremente <persName type="personaje" ref="TT">Tony</persName>.</p></sp>
+
+            <p><persName type="personaje" ref="TT">Tony</persName> y los guardias esperaron a que el avión escupiera sus 
+            centenares de pasajeros y a que estos fueran enviados por computación a la sala de recibo correspondiente. 
+            <persName type="personaje" ref="TT">Tony</persName> sabía que todas esas gestiones ya se habían hecho y que la 
+            maquinaria funcionaba desde el mismo instante en que alguien, en alguna parte fue informado que habría una 
+            relación <rs type="person" ref="LK">King</rs>-<rs type="person" ref="TT">Tréveris</rs>, parte una vinculación <rs type="empresa" ref="Sti">Stimudrinks</rs>-<rs type="empresa" ref="Ep">Epesa</rs>, que a su vez tenía que con los lazos 
+            específicos entre el <orgName ref="DS">Directorio Supremo</orgName> y el <orgName ref="DR">Directorio Regional de Sudamérica Oeste</orgName>.</p>
+
+            <p><persName ref="LK">Linda King</persName> apareció, radiante y sonriente, expulsada de ascensor unipersonal 
+            similar a veinte otros colocados en fila una de las paredes de la sala de recibo 10. Era esbelta, más bien alta, 
+            y ahora usaba el peinado mohicano que hacía escándalo el hemisferio norte: la cabeza totalmente rapada salvo 
+            una larga trenza que nacía de la coronilla. Vestía túnica blanca, muy suelta, y sandalias doradas; <persName ref="TT">Tony</persName> pensó 
+            en un friso, en el Mar Egeo, en Platón susurrándole inconveniencias al oído a Sócrates, y, por supuesto, en 
+            faunos y ninfas.</p>
+
+            <p>Avanzó, seguido por los impasibles guardias, adelantó la mano derecha.</p>
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">Hello</foreign></hi> —dijo, cortésmente, en inglés.<ref  xml:id="ref7" target="#nota7">(7)</ref></p></sp>
+            <sp><p>—Hola —respondió <persName ref="LK">Linda King</persName>, primer síntoma de un dominio perfecto del castellano. Se besaron cortésmente, 
+            y <persName ref="LK">Linda</persName> saludó también, con una inclinación de cabeza, a los guardias.</p></sp>
+            <sp><p>—Un día precioso —dijo <persName ref="LK">Linda King</persName>, mientras avanzaban hacia el carril móvil.</p></sp>
+            <sp><p>—¿Primera vez que viene usted al antiguo y maravilloso <placeName ref="https://goo.gl/maps/HxUaWSf1oTBGbZcs6"><country>Perú</country></placeName>? —preguntó <persName ref="TT">Tony</persName>.</p></sp>
+            <sp><p>—Oh, sí. Siempre fue uno de mis sueños.</p></sp>
+            <sp><p>—¿Su equipaje?</p></sp>
+            <sp><p>—Supongo que se perderá, como siempre. Si no está a la salida, olvidamos todo el asunto. Mucha gente ya 
+            no lleva quipaje en los viales Simplemente compra cosas nuevas al llegar.</p></sp>
+            <sp><p>—Hace cinco años que no salgo. Supongo que habrá otros cambios.</p></sp>
+            <sp><p>—No muchos. Los asiáticos siguen bombardeándonos con su anticuada televisión, tratando de convencemos 
+            para que adoptemos el marxismo confuciano.</p></sp>
+
+            <p>Ambos rieron.</p>
+            <sp><p>—¿Es ingenuidad o qué?</p></sp>
+            <sp><p>—Qué —dijo <persName ref="LK">Linda</persName>.</p></sp>
+            <p>El carril móvil que abordaron los llevó bajo el briliante sol cercano al cenit. <persName ref="LK">Linda King</persName> respiraba 
+            el olor a mar.</p>
+
+            <sp><p>—Adoro el mar —informó—. Cada vez que puedo, me doy un salto a cualquier lugar donde haya un océano a 
+            la vista, <placeName ref="https://www.google.com/maps/place/Alabama,+EE.+UU./@32.5762265,-86.6807364,7z/data=!3m1!4b1!4m5!3m4!1s0x88867f341f4bfe75:0x5e55343553c8cce9!8m2!3d32.3182314!4d-86.902298">Alabama</placeName> es atroz, pero tengo que soportarla desde que soy <rs ref="LK">asesora del <persName xml:id="PS">Director General <surname>Simmons</surname></persName></rs>. 
+            Por lo demás —agregó, mirando a <persName ref="TT">Tony</persName> y, en opinión de éste, evaluándolo—, he escuchado muy buenas 
+            opiniones sobre usted... sobre ti, <persName ref="TT">Tony</persName>.</p></sp>
+            <sp><p>—Vaya, vaya</p></sp>
+
+            <sp><p>—Sí, sí. Les gustó mucho cómo se manejó por aquí la campaña de los <objectName type="producto" ref="MariBaco">MariBacos</objectName>, y las leyes de liberalización 
+            que se adoptaron por presión de <orgName ref="Ep">Epesa</orgName>.</p></sp>
+
+            <sp><p>—No fue difícil. La administración local, incluyendo las cortes de justicia 
+            y legislación, son muy amistosas. No sé, por lo demás, cómo podríanno serlo,</p></sp>
+            <p>Llegaron a la Alondra, que despegó rápidamente rumbo a <placeName ref="https://www.google.com/maps/place/Lima/@-12.025827,-77.2679867,10z/data=!3m1!4b1!4m5!3m4!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754?shorturl=1">Lima</placeName>.</p>
+
+            <p><persName ref="TT">Tony</persName> observaba a <persName ref="LK">Linda King</persName> y ésta paseaba sus ojos claros sobre el mar, siguiendo las líneas de espuma blanca. 
+            La conversación superficial no engañó a <persName ref="TT">Tréveris</persName>, que presentía la decisión y energía de <rs ref="LK">la asesora de <rs ref="PS">Simmons</rs></rs>. 
+            Al cabo de unos instantes, <persName ref="LK">Linda</persName> se volvió a <rs ref="TT">él</rs>, sorprendió la mirada administrativa de <persName ref="TT">Tony</persName>, sonrió y dijo:</p>
+
+            <sp><p>—Me gustaría, si no <ref xml:id="ref8" target="nota8">(8)</ref> te molesta, que me des una idea de cómo andan las cosas aquí antes de la reunión oficial.  
+            Allá en el norte se nos mezclan a veces los datos.</p></sp>
+
+            <sp><p>—Claro. Tendré que hacerte un resumen. Aquí va. Como recordarás, con la <time when="2000">primera década del 2000</time> y la serie de 
+            levantamientos marxocatólicos que marcaron el cisma de la Iglesia, llegó también la hora final de los gobiernos nacionales. 
+            Pasaré por alto los datos históricos, pero te diré que aquí las cosas fueron relativamente pacíficas, Todo el mundo estaba 
+            harto: luchas entre católicos de derecha y de izquierda, luchas entre otras sectas, insurrecciones obreras y militares, 
+            hambrunas, inestabilidad permanente... en fin, lo de todas partes en el tercer mundo. Y, claro, la presión demográfica, 
+            la incapacidad —por temor o lo que fuere— de encararla, los hacinamientos, el surgimiento de gobiernos paralelos, 
+            guerrillas, a veces armadas con dispositivos nucleares y todo el caos resultante hicieron el resto. La creación del 
+            <orgName ref="DS">Directorio Supremo</orgName>, en los <placeName><country ref="https://goo.gl/maps/4bDJj7AJHYKCeAhV8">Estados Unidos</country></placeName> (a los que luego se fueron uniendo el <placeName><country ref="https://goo.gl/maps/8tLJm7tMXVqxfqKG6">Canadá</country></placeName> inglés, <placeName><region ref="https://goo.gl/maps/wwhHB6Dd5dopuZTF7">el Caribe</region></placeName>, <placeName><country ref="https://goo.gl/maps/158ywLQsgWUqj3hA7">México</country></placeName> y <placeName><settlement type="provincia" ref="https://goo.gl/maps/fXrh1XPPu5Ghq4A78">Quebec</settlement></placeName>) 
+            influyó en nosotros. Primero, <orgName ref="DS">el Directorio</orgName> como organismo asesor económico y social, luego como ente de presión que 
+            designaba los candidatos para el ejecutivo y las cámaras y, finalmente, tomando a su cargo la administración para todos 
+            los efectos prácticos, nos dio una pauta para establecer algo similar. En la década del veinte, toda Sudamérica estaba 
+            regida por Directorios Nacionales que, en <time when="2026">2026</time>, se unificaron e integraron en dos <rs ref="DR">Directorios Regionales Sudamericanos</rs>. 
+            Muy bien; hasta aquí, sigo haciendo historia.</p></sp>
+
+            <sp><p>—Está bien, nunca está demás recordar los fundamentos.</p></sp>
+            <sp><p>—Bueno, salvo la grán insurrección de <time when="2026">ese mismo año</time>, organizada por los restos de los ejércitos nacionales aliados 
+            con los <rs ref="Cat">católicos ortodoxos</rs>, y de la secta de los culteranos, desde entonces los problemas de este tipo han sido muy 
+            localizados. Justamente <time when="2034-01-18">hoy</time> tenemos un carozo en pleno <placeName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogName ><geogFeat>valle</geogFeat></geogName> de Lima</placeName>...</p></sp>
+            <sp><p>—¿Un carozo?</p></sp>
+            <p>Tony sonrió.</p>
+            <sp><p>—Disculpa. Un carozo es una insurrección, un disturbio más o menos importante.</p></sp>
+            <sp><p>—Ah.</p></sp>
+
+            <sp><p>—... y detrás están, probablemente, los <rs ref="Cat">cat-ox</rs>. Los <rs ref="Cat">cat-ox</rs> son una especie de 
+            neo-jesuitas, provenientes de los antiguos lefebvristas.</p></sp>
+            <sp><p>—¿Y esos?</p></sp>
+            <sp><p>—Ah, bueno, ese era un grupo, surgido en los últimos años del siglo pasado, de primitivos <rs ref="Cat">católicos ortodoxos</rs>. 
+            Aparentemente se disolvieron con el cambio de siglo, pero no me sorprendería que los <rs ref="Cat">cat-ox</rs> fuesen el resultado o la 
+            continuación de los lefebristas clandestinos.</p></sp>
+
+            <p><persName ref="TT">Tony</persName> explicó entonces que los <rs ref="Cat">cat-ox</rs>, con sus banderas negras y cruces de plata, aparecían con 
+            frecuencia cada vez mayor.«Ya tendrás ocasión de verlos», agregó. «Plantean que el fin justifica los medios, y el fin, 
+            dicen en su propaganda, es reivindicar la Edad Media, estableciendo la propiedad común de los medios de producción, 
+            el absolutismo religioso pero interdenominacional, un gobierno sacerdotal, la reivindicación de la artesanía, la 
+            castidad, etc.».</p>
+            <p><persName ref="LK">Linda King</persName> tuvo un escalofrío.</p>
+            <sp><p>—Sí —dijo <persName ref="TT">Tony</persName>—, a mí también me da escalofríos.</p></sp>
+            <sp><p>—¿Y la influencia asiática?</p></sp>
+
+            <sp><p>—Poca, al menos a nivel de acciones. Hay algunas bandas, pero que merodean, sobre todo en el área rural, después 
+            de las catástrofes que sufrieron, tanto baje los gobiernos nacionales como durante la transición a los directorios, han 
+            quedado muy debilitados. Los grandes enemigos son los <rs ref="Cat">católicos ortodoxos</rs> y similares movimientos totalitarios, 
+            contrarios a la democracia transnacional.</p></sp>
+
+            <p>El piloto, delante de ellos, volteó para intervenir:</p>
+            <sp><p>—Le aseguro, <persName ref="LK">asesora King</persName>, que tendrá que haber cambios. Se lo digo con conocimiento.</p></sp>
+            <sp><p>—¿Qué clase de cambios?</p></sp>
+            <sp><p>—El control natal ha fracasado. Y no solo por la oposición católica-culterana, sino porque la población que vive en 
+            la selva —y señaló, a lo lejos, la bruma que cubría el <placeName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587"><geogName ><geogFeat>valle</geogFeat></geogName> de Lima</placeName>—, necesita fabricar cachorros para defenderse 
+            y sobrevivir.</p></sp>
+            <sp><p>—Un buen argumento —concedió <persName ref="LK">Linda</persName>—. No es la primera vez que lo oigo.</p></sp>
+
+            <sp><p>—Se ha dicho que si no fuera por el control natal, <placeName ref="https://www.google.com/maps/place/Valle+del+r%C3%ADo+R%C3%ADmac/@-12.04569,-77.0294625,14z/data=!4m5!3m4!1s0x9105c8ac78816593:0x62918d144a9311da!8m2!3d-12.043361!4d-77.0161587">Lima</placeName> no tendría ahora quince millones de habitantes sino 
+            veinticinco millones, o más. Puede que eso sea así, pero a mí me bastan esos quince para amargarme la vida.</p></sp>
+            <sp><p>—A todos.</p></sp>
+
+            <sp><p>—Aún —dijo <persName ref="TT">Tony Tréveris</persName>— a los que vivimos de venderles marihuana, benzedrina, aguardiente, cocaína y otros paraísos.</p></sp>
+            <sp><p>—En última instancia —agregó <persName ref="LK">Linda King</persName> solemnemente—, somos, en primer término, seres humanos, y después vendedores y fabricantes.</p></sp>
+            <p>El piloto volvió a mirarios, sonriendo.</p>
+            <sp><p>—La ventaja de la democracia transnacional —dijo— es me permite dudar públicamente de la sinceridad de nuestros 
+            queridos dirigentes.</p></sp>
+            <p>Linda sonrió y le palmeó el hombro.</p>
+
+            <sp><p>—Habiendo libertad —dijo— todo lo demás se resuelve solo. Esa es la gran lección que nos dio el siglo XX, y, 
+            en general, toda la historia. La política, nos dice la historia, es un asunto demasiado serio para abandonárselo a los 
+            políticos. En nuevo milenio, amigo, triunfan el internacionalismo, la comprensión, la tolerancia, la libertad. No hay 
+            dogmas, no hay ideologías, no hay cadenas mentales ni fanatismos. Eso es lo que quieren destruir los reaccionarios, sean 
+            católicos ultras o marxistas asiáticos. Y hasta los neofreudianos, que siguen con su cantaleta del tanatismo; menos mal 
+            que sólo influyen en viejas neuróticas.</p></sp>
+
+            <sp><p>—¿Tanatismo? —preguntó el piloto.</p></sp>
+            <sp><p>—Culto a la muerte —respondió <persName ref="TT">Tony</persName>, mientras <persName ref="LK">Linda</persName> aprobaba—. El hombre, dicen, es un campo de batalla eterno entre 
+            instinto y cultura. La opción única es entre salvajismo y organización social. Como necesitamos la civilización, estamos 
+            condenados a reprimir nuestros instintos y, en último término, a desear la muerte.</p></sp>
+
+            <sp><p>—Bueno, pero eso ya no tiene futuro —agregó <persName ref="LK">Linda</persName>—. Lo que sí es preocupante es a hipnosis del inmovilismo, de las 
+            jerarquías permanentes, ese culto a la estabilidad y esa alienación que propugnan los místicos totalitarios (como si se 
+            pudiera ser mistico liberal). Hay, todavía, mucho de borreguil en e ser humano, y una terrible ansia de seguridad que 
+            lo empuja hacia el totalitarismo.</p></sp>
+            <sp><p>—Yo soy bahá'i —dijo el piloto.</p></sp>
+
+            <sp><p>—Una buena religión mundial —dijo <persName ref="LK">Linda King</persName>—. Moderna, liberal, científica, ecuménica. Lo felicito. Algunos 
+            comparan el bahá'i de hoy con el calvinismo que acompañó el surgimiento del capitalismo industrial. Yo soy mormona, 
+            una religión que también es, a mi juicio, apropiada para esta gran época que vivimos.</p></sp>
+
+            <sp><p>—Quizás acaben por triunfar —meditó en voz alta <persName ref="TT">Tony</persName>— justamente las menos apropiadas. Lo cual plantea la 
+            cuestión de cómo y quién decide lo que es apropiado.</p></sp>
+            <sp><p>—Eso ya es entrar en el terreno de la metafísica, que me cuido de hollar —dijo <persName ref="LK">Linda</persName>.</p></sp>
+            <sp><p>—Eso es lo bueno de nuestro sistema —replicó <persName ref="TT">Tony</persName>—. Da la espalda a la metafísica.</p></sp>
+
+            <p>La Alondra comenzó a descender suavemente. El piloto se esmeraba en atención a su distinguida carga. Como una pluma, 
+            el helicóptero se posó en la azotea de <orgName ref="Ep">Epesa</orgName>. Primero bajaron los guardias, que se habían mantenido en inmóvil silencio 
+            durante toda la conversación, y luego <persName ref="TT">Tony</persName> quien, con galantería latinoamericana, ofreció una mano a <persName ref="LK">Linda King</persName>, que 
+            la aceptó encantada. Se despidieron del piloto e ingresaron a las relucientes entrañas de plástico del edificio.</p>
+
+        </div>
+
+        <div type="notas">
+
+            <note type="editor" xml:id="nota1" target="#ref1">1. Sinfonía n.º 9 en mi menor, Op. 95 (1893) de Antonín Dvořák. Inspirado en la música nativoamericana y los espirituales afroamericanos.</note>
+            <note type="editor" xml:id="nota2" target="#ref2">2. <hi rend="cursiva"><placeName ref="https://pleiades.stoa.org/places/108894">Tréveris</placeName></hi>: Ciudad al suoreste de Alemania, fundadad en 16 a.C. Es la ciudad más antigua de Alemania y la cuna de Karl Marx.</note>
+            <note type="editor" xml:id="nota3" target="#ref3">3. 499° Aniversario de fundación de la "Ciudad de los Reyes", actualmente Lima.</note>
+            <note type="editor" xml:id="nota4" target="#ref4">4. La lectura de EP elide el fragmento "... 80%, mínima,...". Opté por la lectura de M por ser representativa del calentamiento global.</note>
+            <note type="editor" xml:id="nota5" target="#ref5">5. <hi rend="cursiva">John Philip Sousa</hi>: Compositor de marchas militares estadounidense. Compuso la marcha nacional oficial de los Estados Unidos. Sus marchas y operas estaban cargadas de patriotismo y alusiones a la guerra.</note>
+            <note type="editor" xml:id="nota6" target="#ref6">6. <hi rend="cursiva">Francisco Pizarro</hi>: Conquistador español y fundador de la "Ciudad de los Reyes", actualmente Lima.</note>
+            <note type="editor" xml:id="nota7" target="#ref7">7. La lectura de M incluye el fragmento "en inglés" que no se encuentra en la lectura de EP.</note>
+            <note type="editor" xml:id="nota8" target="#ref8">8. Optó por la lectura de EP "si no" en lugar de "sino" de M por su concordancia gramatical.</note>
+
+        </div>
+      </body>
+  </text> <!-- Fin del texto --> 
+</TEI>
