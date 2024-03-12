@@ -155,7 +155,7 @@
             incluyendo los suburbios de <placeName ref="https://goo.gl/maps/b3zYPuw7ryyHaEoe9"><settlement type="provincia">Huacho</settlement></placeName> y los sanatorios y clubes 
             entre <placeName ref="https://goo.gl/maps/uwnjo8D3UPTwZRBv7"><district>Lima</district></placeName> y <placeName ref="https://goo.gl/maps/RS2GLqPokVVbDjP59"><settlement type="provincia">Matucana</settlement></placeName> en la vía central. Este ha sido, señoras 
             y señores, el informe social de <date when="2034-01-18">hoy 18 de enero</date>, destinado a la 
-            seguridad de 15 millones de limeños. El próximo informe, esta 
+            seguridad de <population type="limeños"><desc quantity="15000000">15 millones</desc> de limeños</population>. El próximo informe, esta 
             <time when="18:00:00">tarde a las 18 horas</time>.</p></sp>
 
             <p><persName type="personaje" ref="TT"><forename>Tony</forename></persName>, masticando una tostada, observó cómo <persName type="personaje" ref="DN"><forename>Doris</forename></persName> 
@@ -999,6 +999,18 @@
             entre esta mujer y las locales, incluyendo a su <rs ref="DN">esposa</rs> y a <persName>Marina</persName>. Estas, como muchas otras de los círculos superiores, habían asimilado, generalmente con esmero 
             y exactitud formal, los rasgos que se estimaban típicos de la nueva mujer occidental: desinhibición, cultura formal, independencia. Pero, como solía decirse, habían 
             aprendido la letra: les faltaba la música</p>
+
+            <p>Mientras por sus oídos inatentos desfilaban números, estados
+de cuentas, ampliaciones y reinversiones, ventas y pérdidas, cam¬
+pañas de concientización y demás datos inevitables, Tony Tréve¬
+ris observaba la tranquila suficiencia de la norteamericana, que
+no necesitaba demostrar su independencia y la existencia de una
+fuerte personalidad. Una mirada suya desconcertaba a Crucible, a
+Anita Cavassa y hasta al comunicador Lamartín, a quien debía
+creerse curado de espantos. Sólo Johnson parecía estar a la altura
+de la King en tranquila sobriedad y Tony se preguntó, ligeramen¬
+te angustiado, qué impresión le estaría causando él.
+</p>
             
         </div>
         <div type="notas">
