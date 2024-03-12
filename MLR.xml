@@ -986,7 +986,7 @@
         <head type="titulo_capitulo">TRES</head>
 
             <p>El almuerzo de trabajo que, con impuntualidad sureña se inició a las <time when="12:42:00">12:42</time>, reunió a <persName ref="LK">Linda King</persName>, <persName ref="HC">Hermógenes Crucible</persName>, <persName ref="TT">Tony Tréveris</persName>, <persName type="personaje" xml:id="JJ"><forename>Juanito</forename> <surname>Johnson</surname>
-            —<roleName>Director Regional para <placeName>Sudamérica Oeste</placeName> en representación de <orgName ref="Ep">Epesa</orgName><roleName>—</persName>, a un sujeto delgaducho y nervioso encargado de relaciones públicas, llamado <persName type="personaje"><forename>Pedro</forename> <surname>Lamartín</surname>
+            —<roleName>Director Regional para <placeName>Sudamérica Oeste</placeName> en representación de <orgName ref="Ep">Epesa</orgName><roleName>—</persName>, a un sujeto delgaducho y nervioso encargado de relaciones públicas, llamado <persName type="personaje" xml:id="PL"><forename>Pedro</forename> <surname>Lamartín</surname>
             II</persName>, y a la <persName type="personaje" xml:id="AC"><roleName>contadora superior</roleName>, <forename>Anita</forename> <surname>Cavassa</surname>. Las presentaciones, a cargo de <persName ref="TT">Tony</persName>, fueron rápidas y cordiales. La atmósfera fresca, con ligera sobrecarga de oxígeno,
             del pequeño comedor ejecutivo, y la suave música de fondo, contribuyeron a crear un ambiente capaz de soportar la desagradable combinación de alimentos con cifras.</p>
 
@@ -1000,17 +1000,10 @@
             y exactitud formal, los rasgos que se estimaban típicos de la nueva mujer occidental: desinhibición, cultura formal, independencia. Pero, como solía decirse, habían 
             aprendido la letra: les faltaba la música</p>
 
-            <p>Mientras por sus oídos inatentos desfilaban números, estados
-de cuentas, ampliaciones y reinversiones, ventas y pérdidas, cam¬
-pañas de concientización y demás datos inevitables, Tony Tréve¬
-ris observaba la tranquila suficiencia de la norteamericana, que
-no necesitaba demostrar su independencia y la existencia de una
-fuerte personalidad. Una mirada suya desconcertaba a Crucible, a
-Anita Cavassa y hasta al comunicador Lamartín, a quien debía
-creerse curado de espantos. Sólo Johnson parecía estar a la altura
-de la King en tranquila sobriedad y Tony se preguntó, ligeramen¬
-te angustiado, qué impresión le estaría causando él.
-</p>
+            <p>Mientras por sus oídos inatentos desfilaban números, estados de cuentas, ampliaciones y reinversiones, ventas y pérdidas, campañas de concientización y demás datos inevitables, <persName ref="TT">Tony Tréveris</persName> observaba la tranquila suficiencia de <rs ref="LK">la norteamericana</rs>, que
+            no necesitaba demostrar su independencia y la existencia de una fuerte personalidad. Una mirada suya desconcertaba a <persName ref="HC">Crucible</persName>, a
+            <persName ref="AC">Anita Cavassa</persName> y hasta al <persName ref="PL"><roleName>comunicador</roleName> Lamartín</persName>, a quien debía creerse curado de espantos. Solo <persName ref="JJ">Johnson</persName> parecía estar a la altura
+            de <persName ref="LK">la King</persName> en tranquila sobriedad y <persName ref="TT">Tony</persName> se preguntó, ligeramente angustiado, qué impresión le estaría causando él.</p>
             
         </div>
         <div type="notas">
