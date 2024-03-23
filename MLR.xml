@@ -704,13 +704,13 @@
             de seis plazas esperaba con el rotor, de apenas un metro de diámetro, moviéndose 
             en total silencio. De la punta de las tres aspas se escapaba una fina vibración aérea.</p>
 
-            <p>El <person>piloto<person> lo saludó respetuosamente y le abrió la puerta. <persName ref="TT">Tony</persName> entró, se amarró 
+            <p>El <person type= "personaje" role="piloto" xml:id="piloto">piloto<person> lo saludó respetuosamente y le abrió la puerta. <persName ref="TT">Tony</persName> entró, se amarró 
             el cinturón, y treinta segundos después sentía el mareo del súbito despegue vertical.</p>
 
             <p>—Mierda —dijo por segunda vez en pocos minutos—. Alguna vez inventarán una buena 
             píldora contra el mareo, supongo.</p>
 
-            <p>El piloto, a su lado, le sonrió.</p>
+            <p>El <person type= "personaje" role="piloto" ref="piloto">piloto<person>, a su lado, le sonrió.</p>
             <sp><p>—Hay cosas que no se solucionarán nunca -dijo.</p></sp>
             <sp><p>—Bueno, a <placeName ref="https://goo.gl/maps/w4Sgd5v8qqSd8KMn9">San Isidro</placeName>, ¿Cómo así se frutaron esos dos tan cerca de la zona de 
             combates?</p></sp>
@@ -734,7 +734,7 @@
             <sp><p>—Sí, la cosa es seria —respondió el piloto.</p></sp>
             <p>El <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi> de la Alondra emitió su llamada. El piloto conectó.</p>
             <sp><p>—Identificación, por favor —pidió una voz metálica.</p></sp>
-            <sp><p>—Nave ejecutiva, número 7890+C —respondió el piloto. Sabía que la llamada provenía de 
+            <sp><p>—Nave ejecutiva, número 7890+C —respondió el <person type= "personaje" role="piloto" ref="piloto">piloto<person>. Sabía que la llamada provenía de 
             uno de los helicópteros marcados con la D. Nadie más se interesaría por él—. Ocupantes, piloto y 
             ejecutivo de <orgName ref="Ep">Epesa</orgName>. Destino: <placeName ref="https://goo.gl/maps/w4Sgd5v8qqSd8KMn9">San Isidro</placeName>, para recoger guardias de <rs ref="Ep">la compañía</rs>.</p></sp>
 
@@ -930,7 +930,7 @@
             quedado muy debilitados. Los grandes enemigos son los <rs ref="Cat">católicos ortodoxos</rs> y similares movimientos totalitarios, 
             contrarios a la democracia transnacional.</p></sp>
 
-            <p>El piloto, delante de ellos, volteó para intervenir:</p>
+            <p>El <person type= "personaje" role="piloto" ref="piloto">piloto<person>, delante de ellos, volteó para intervenir:</p>
             <sp><p>—Le aseguro, <persName ref="LK">asesora King</persName>, que tendrá que haber cambios. Se lo digo con conocimiento.</p></sp>
             <sp><p>—¿Qué clase de cambios?</p></sp>
             <sp><p>—El control natal ha fracasado. Y no solo por la oposición católica-culterana, sino porque la población que vive en 
@@ -944,7 +944,7 @@
 
             <sp><p>—Aún —dijo <persName ref="TT">Tony Tréveris</persName>— a los que vivimos de venderles marihuana, benzedrina, aguardiente, cocaína y otros paraísos.</p></sp>
             <sp><p>—En última instancia —agregó <persName ref="LK">Linda King</persName> solemnemente—, somos, en primer término, seres humanos, y después vendedores y fabricantes.</p></sp>
-            <p>El piloto volvió a mirarios, sonriendo.</p>
+            <p>El <person type= "personaje" role="piloto" ref="piloto">piloto<person> volvió a mirarios, sonriendo.</p>
             <sp><p>—La ventaja de la democracia transnacional —dijo— es me permite dudar públicamente de la sinceridad de nuestros 
             queridos dirigentes.</p></sp>
             <p>Linda sonrió y le palmeó el hombro.</p>
@@ -976,10 +976,10 @@
             <sp><p>—Eso ya es entrar en el terreno de la metafísica, que me cuido de hollar —dijo <persName ref="LK">Linda</persName>.</p></sp>
             <sp><p>—Eso es lo bueno de nuestro sistema —replicó <persName ref="TT">Tony</persName>—. Da la espalda a la metafísica.</p></sp>
 
-            <p>La Alondra comenzó a descender suavemente. El piloto se esmeraba en atención a su distinguida carga. Como una pluma, 
+            <p>La Alondra comenzó a descender suavemente. El <person type= "personaje" role="piloto" ref="piloto">piloto<person> se esmeraba en atención a su distinguida carga. Como una pluma, 
             el helicóptero se posó en la azotea de <orgName ref="Ep">Epesa</orgName>. Primero bajaron los guardias, que se habían mantenido en inmóvil silencio 
             durante toda la conversación, y luego <persName ref="TT">Tony</persName> quien, con galantería latinoamericana, ofreció una mano a <persName ref="LK">Linda King</persName>, que 
-            la aceptó encantada. Se despidieron del piloto e ingresaron a las relucientes entrañas de plástico del edificio.</p>
+            la aceptó encantada. Se despidieron del <person type= "personaje" role="piloto" ref="piloto">piloto<person> e ingresaron a las relucientes entrañas de plástico del edificio.</p>
 
         </div>
         <div type="capitulo">
@@ -1038,7 +1038,7 @@
             <sp><p>-Aquí ocurren cosas que ya no suceden, supongo, por allá.</p></sp>
 
             <sp><p>—Eso también me va resultando evidente, <persName ref="JJ">señor Johnson</persName> —dijo lentamente <persName ref="LK">Linda King</persName>—. Aquí me encuentro, sentada en torno a una mesa, en un delicioso almuerzo de trabajo, frente a frente con 
-            <rs ref="JJ">un Director Regional</rs> que se queja de que no lo invitan a las reuniones del gobierno. —<persName ref="LK">Linda</persName> apagó su cigarrillo pausadamente y continuó—. ¿Sabe, <persName ref="JJ">Johnson</persName>? Tiene usted suerte de que ya no existan 
+            <roleName ref="JJ">un Director Regional</roleName> que se queja de que no lo invitan a las reuniones del gobierno. —<persName ref="LK">Linda</persName> apagó su cigarrillo pausadamente y continuó—. ¿Sabe, <persName ref="JJ">Johnson</persName>? Tiene usted suerte de que ya no existan 
             parlamentos. Lo habrían interpelado y obligado a renunciar. Cosa que, por lo demás, también puede ocurrir sin parlamento, como usted bien sabe.
             —<persName ref="JJ">Johnson</persName> añadió <persName ref="LK">Linda King</persName>—, me gustaría saber dentro de algunos minutos que usted está, ya, participando en la reunión con un único propósito: anunciar mi presencia para las 17 horas. ¿De acuerdo?.</p></sp>
             <sp><p>—De acuerdo —dijo <persName ref="JJ">Johnson</persName> y se levantó.</p></sp>
@@ -1076,14 +1076,14 @@
             <p>Sin escuchar una respuesta que no se produjo, salió de la habitación seguida por <persName ref="TT">Tony Tréveris</persName> y todos los demás.</p>
 
             <sp><p>—La zona es grande —dijo <persName ref="LK">Linda King</persName>, mirando hacia abajo.</p></sp>
-            <p>El piloto, delante de ellos —el mismo de la mañana— no ocultaba su nerviosismo. Los rebeldes usaban armas modernas, como se encargó de repetir varias veces sin obtener resultados.</p>
+            <p>El <person type= "personaje" role="piloto" ref="piloto">piloto<person>, delante de ellos —el mismo de la mañana— no ocultaba su nerviosismo. Los rebeldes usaban armas modernas, como se encargó de repetir varias veces sin obtener resultados.</p>
 
             <sp><p>-Sí, yo calcularía unos diez kilómetros de lado.</p></sp>
             <sp><p>—Toda una república, de las de antes —dijo <persName ref="LK">Linda</persName>. Ahora vestía pantalones cortos ajustados, negros, y una blusa blanca. Su trenza oscilaba con los movimientos de la Alondra, que volaba
             bastante alto.</p></sp>
             <sp><p>—No podemos bajar un poco más? —preguntó <persName ref="LK">Linda</persName>.</p></sp>
-            —Es peligroso —dijo el piloto, y se aprestó a recomenzar su discurso sobre las armas de los rebeldes, pero ella lo interrumpió con un gesto de la mano. Por segunda vez en diez minutos, 
-            recibieron un mensaje de uno de los helicópteros militares marcados con la letra D. King respondió dando su nombre y código y los guardias no insistieron.
+            <p>—Es peligroso —dijo el <person type= "personaje" role="piloto" ref="piloto">piloto<person>, y se aprestó a recomenzar su discurso sobre las armas de los rebeldes, pero <persName ref="LK">ella<persName> lo interrumpió con un gesto de la mano. Por segunda vez en diez minutos, 
+            recibieron un mensaje de uno de los helicópteros militares marcados con la letra D. <persName ref="LK">King</persName> respondió dando su nombre y código y los guardias no insistieron.</p>
 
             Abajo, había zonas relativamente tranquilas y otras en las que se desarrollaban furiosos tiroteos. Pero la principal acción provenía de los helicópteros D, que lanzaban sus rayos contra 
             toda agrupación humana mayor de diez personas. Los cadáveres en las calles aumentaban.
@@ -1092,7 +1092,7 @@
 
             Linda observó en silencio.
 
-            —Descienda a cien metros —ordenó al piloto.
+            —Descienda a cien metros —ordenó al <person type= "personaje" role="piloto" ref="piloto">piloto<person>.
             —Pero, asesora King.
             —Cumpla la orden, piloto —dijo Linda.
 
