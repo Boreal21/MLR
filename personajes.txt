@@ -1,68 +1,15 @@
-﻿"#TT"
-"#LK"
-"DN"
-"MF"
-"#HC"
-"#M-J"
-"JJ"
-"AC"
-"PL"
-"CT"
-"FT"
-"MT"
+﻿"#TT" Tony
+"#LK" Linda
+"#DN" Doris
+"MF" Marina
+"#HC" Crucible
+"#M-J" Marie-Jose
+"JJ" Juanito
+"AC" Anita Cavassa
+"PL" Pedro Lamartin
+"#CT" Claudia Treveris
+"#FT" Federico Treveris
+"#MT" Marcos Treveris
 piloto
-
-<listPerson type="personajes">
- <person xml:id="TT">
-<persName type="personaje"><forename>Tony</forename><surname type="linked">Tréveris</surname></persName>
-<affiliation><occupation>ejecutivo</occupation> de <orgName ref="#Ep">Epesa</orgName></affiliation>
-<age value="40"/>
-</person>
- 
-<person xml:id="HC">
-<persName type="personaje"><state ref="#SCHOL" type="status"><label>doctor</label></state> <forename>Hermógenes</forename> <surname type="linked">Crucible</surname></persName>
-<affiliation><occupation>Asesor legal</occupation> de su Dirección ejecutiva de <orgName ref="#Ep">Epesa</orgName></affiliation>
-</person>
-
-<person xml:id="LK">
-<persName type="personaje"><forename>Linda</forename> <surname>King</surname></persName>
-<state ref="#SCHOL" type="status"><label><affiliation><hi rend="cursiva"><foreign xml:lang="en">Master of Communications</foreign></hi> de la <orgName type="universidad" ref="https://www.columbia.edu/">Universidad de Columbia</orgName></affiliation></label></state>
-<affiliation><occupation>Asesora</occupation> de <orgName type="empresa" ref="#Sti">Stimudrinks</orgName> encargada de Latinoamérica</affiliation>
-</person>
-
-<person xml:id="M-J">
-<persName type="personaje"><forename>Marie-José</forename></persName>
-<state ref="#SCHOL" type="status"><label>doctora en Antropología</label></state>
-</person> 
-
-<person xml:id="DN">
-<persName type="personaje"><forename>Doris</forename> <surname>Norton</surname></persName>
-</person> 
-
-
-<listRelation type="personal">
-  <relation name="parent"
-   active="#TT #DN" passive="#MT #FT #CT"/>
-  <relation name="spouse"
-   mutual="#TT #DN"/>
-  <relation name="spouse"
-   mutual="#HC #M-J"/>
-
-
- </listRelation>
- <listRelation type="social">
-  <relation name="employer" active="#TT"
-   passive="#MF"/>
- </listRelation>
-
-
-
-</listPerson>
-
-
-
-<listOrg type="empresas">
-<org xml:id="Ep">
-<orgName type="empresa">Empresa de Productos Estimulantes Sociedad Anónima </orgName>(Epesa)
-</org>
-</listOrg>
+"#PS" Patrick Simmons
+"#GM" Gabriel Miranda
