@@ -1,12 +1,12 @@
 ﻿"#TT" Tony
 "#LK" Linda
 "#DN" Doris
-"MF" Marina
+"#MF" Marina
 "#HC" Crucible
 "#M-J" Marie-Jose
-"JJ" Juanito
-"AC" Anita Cavassa
-"PL" Pedro Lamartin
+"#JJ" Juanito
+"#AC" Anita Cavassa
+"#PL" Pedro Lamartin
 "#CT" Claudia Treveris
 "#FT" Federico Treveris
 "#MT" Marcos Treveris
