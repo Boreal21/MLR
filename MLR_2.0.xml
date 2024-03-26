@@ -1312,16 +1312,16 @@
         <div type="capitulo">
             <head type="titulo_capitulo">CUATRO</head>
 
-            <p>La saia de reuniones ejecutivas, en la que descollaba una enorme mesa redonda de brillante madera auténtica, estaba ya ocupada cuando ingresaron Linda y Tony. Delante de 
-            cada uno de los diez Directores esperaban hojas de papel que irían siendo llenadas con dibujitos de mujeres desnudas, rayitas entrecruzadas y circulos concéntricos. Juanito 
-            Johnson se levantó para ofrecer su asiento a Linda, lo que era erróneo en todo sentido, incluyendo el protocolar. Tony observó con simpatía a esos ocho hombres y dos mujeres, 
+            <p>La saia de reuniones ejecutivas, en la que descollaba una enorme mesa redonda de brillante madera auténtica, estaba ya ocupada cuando ingresaron <persName ref="#LK">Linda King</persName> y <persName ref="#TT">Tony</persName>. Delante de 
+            cada uno de los 10 directores esperaban hojas de papel que irían siendo llenadas con dibujitos de mujeres desnudas, rayitas entrecruzadas y circulos concéntricos. <persName ref="#JJ">Juanito 
+            Johnson</persName> se levantó para ofrecer su asiento a <persName ref="#LK">Linda King</persName>, lo que era erróneo en todo sentido, incluyendo el protocolar. <persName ref="#TT">Tony</persName> observó con simpatía a esos ocho hombres y dos mujeres, 
             las personas más importantes del occidente sudamericano: apellidos españoles, ingleses, franceses, alemanes. Con por lo menos dos le unía una vieja amistad personal que había 
             nacido de una niñez común en las Casuarinas y posteriores estudios universitarios en el Norte.</p>
             
-            <p>Detrás de los Directores se sentarían, en los momentos adecuados —tras las deliberaciones y decisiones fundamentales— asesores, secretarias, consultantes. No había un solo 
-            guardia en el recinto, ni era necesario. Cincuenta metros de roca viva y otros veinte metros de edificación los separaban del mundo exterior. Linda hizo un gesto con la mano 
-            para que Johnson volviera a asumir su puesto. Los demás la saludaron con una inclinación de cabeza y, en algunos casos, con una sonrisa y la mano levantada. El presidente de 
-            este mes, Gabriel Miranda, delegado de</p>
+            <p>Detrás de los directores se sentarían, en los momentos adecuados —tras las deliberaciones y decisiones fundamentales— asesores, secretarias, consultantes. No había un solo 
+            guardia en el recinto, ni era necesario. Cincuenta metros de roca viva y otros veinte metros de edificación los separaban del mundo exterior. <persName ref="#LK">Linda King</persName> hizo un gesto con la mano 
+            para que <persName ref="#JJ">Johnson</persName> volviera a asumir su puesto. Los demás la saludaron con una inclinación de cabeza y, en algunos casos, con una sonrisa y la mano levantada. El presidente de 
+            este mes, <persName ref="#GM">Gabriel Miranda, delegado de la Machinery Trust Co., de Nebraska</persName>, se levantó tras hacer sonar una campanilla.</p>
             
             <p></p>
             <p></p>
@@ -1366,16 +1366,39 @@
 
                 <person xml:id="M-J">
                     <persName type="personaje"><forename>Marie-José</forename></persName>
-                    <state ref="#SCHOL" type="status"><label>doctora en Antropología</label></state>
+                    <state ref="#SCHOL" type="status"><label>doctora</label> en Antropología</state>
                 </person> 
 
-                <person>    
-                    <persName xml:id="PS">Director General <surname>Simmons</surname></persName>
+                <person xml:id="MF">
+                    <persName><forename>Marina</forename> <surname>Ferrari</surename></persName>
+                    <affiliation><occupation>secretaria</occupation> de <orgName ref="#Ep">Epesa</orgName></affiliation>
+                </person>
+                
+                <person xml:id="PS">    
+                    <persName><surname>Simmons</surname></persName>
+                    <occupation>Director General</occupation>
                 </person>    
 
                 <person xml:id="DN">
                     <persName type="personaje"><forename>Doris</forename> <surname>Norton</surname></persName>
-                </person> 
+                </person>
+
+                <person xml:id="CT">
+                    <persName type="personaje"><forename>Claudia</forename> <surname>Tréveris</surname></persName>
+                </person>
+
+                <person xml:id="FT">
+                    <persName type="personaje"><forename>Federico</forename> <surname>Tréveris</surname></persName>
+                </person>
+
+                <person xml:id="MT">
+                    <persName type="personaje"><forename>Marcos</forename> <surname>Tréveris</surname></persName>
+                </person>
+
+                <person xml:id="GM">
+                    <persName><forename>Gabriel</forename> <surname>Miranda</surname></persName> 
+                    <affiliation><occupation>delegado</occupation> de <orgName type="empresa">Machinery Trust Co.</orgName></affiliation>
+                </person>
 
 
                 <listRelation type="personal">
@@ -1392,11 +1415,15 @@
 
             <listOrg type="empresas">
                 <org xml:id="Ep">
-                    <orgName type="empresa">Empresa de Productos Estimulantes Sociedad Anónima </orgName><orgName>Epesa</orgName>
+                    <orgName type="empresa">Empresa de Productos Estimulantes Sociedad Anónima</orgName> <orgName>Epesa</orgName>
                 </org>
 
                 <org xml:id="Sti">
                     <orgName type="empresa">Stimudrinks Incorporated</orgName>
+                </org>
+
+                <org>
+                    <orgName type="empresa">Machinery Trust Co.</orgName>
                 </org>
 
             </listOrg>
