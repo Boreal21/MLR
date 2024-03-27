@@ -1035,7 +1035,7 @@
             <sp><p>—Pues bien. Sucede que ya ha ocurrido dos veces que el Directorio Regional no me invita a tiempo a sus reuniones y toma decisiones sin mi voto.</p></sp>
             <sp><p>—Tsk, tsk —dijo <persName ref="#LK">Linda</persName>, simulando piedad—. ¿Y a qué se debe tan diabólico proceder?</p></sp>
             <sp><p>—No lo sé con seguridad, pero sospecho una degollina por parte del grupo New Bayer.</p></sp>
-            <sp><p>-Aja —dijo <persName ref="#LK">Linda King</persName>—. Una degollina, ¿eh? Métodos antiguos, ¿no? Un poco superados y de hecho prohibidos, ¿verdad? (Aproxy fight, so to speak? ¿Trusts, cártels, monopolios, serruchos
+            <sp><p>-Aja —dijo <persName ref="#LK">Linda King</persName>—. Una degollina, ¿eh? Métodos antiguos, ¿no? Un poco superados y de hecho prohibidos, ¿verdad? (<hi rend="cursiva"><foreign xml:lang="en">Aproxy fight, so to speak? ¿Trusts</foreign></hi>, cártels, monopolios, serruchos
             eléctricos? ¿Todos los inventos del capitalismo nacional? Vamos, vamos, <persName ref="#JJ">Johnson</persName>, esa es una historia de piratas.</p></sp>
             <sp><p>—He dicho que lo sospecho.</p></sp>
             <sp><p>—Y qué ha hecho usted para oponerse a esos designios de New Bayer, o de quien sea? ¿Me estaba usted, por ventura, esperando a mí para que le ayude a deshacer esta degollina, este...
@@ -1131,7 +1131,7 @@
             <sp><p>—¿Y reproducción, pobreza, vagancia?</p></sp>
             <sp><p>—También</p></sp>
             <sp><p>—Sí, así debe ser.</p></sp>
-            <sp><p>—No te pongas a dudar ahora que vas a trepar tan alto, <rs ref="#TT">muchacho</rs> —dijo <persName ref="#LK">Linda</persName>, medio en broma—. Para dudas, bastan las que tenemos en el norte. Cada vez que se reúne por scanner el 
+            <sp><p>—No te pongas a dudar ahora que vas a trepar tan alto, <rs ref="#TT">muchacho</rs> —dijo <persName ref="#LK">Linda</persName>, medio en broma—. Para dudas, bastan las que tenemos en el norte. Cada vez que se reúne por <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi> el 
             Directorio Supremo (porque ya hace años que no tiene necesidad de verse físicamente), aparece alguien con el lamento acostumbrado sobre los valores perdidos y las hojas rojas del 
             otoño de antes. Nos estamos convirtiendo en predicadores nostálgicos porque demasiados directores tienen más de 40 años. Debería rebajarse la edad de retiro de 50 a 40 años, 
             también para los ejecutivos. Los tenemos matusalénicos.</p></sp>
@@ -1238,10 +1238,10 @@
             qué hora, encendió la televisión. Pasó por alto dos estúpidos programas infantiles, que solo lograban demostrar que los niños ahora eran más inteligentes y más incultos que 
             antes, y se detuvo al captar a un anunciador que presentaba una nueva bebida de Epesa. Fastidiado, apagó el receptor y recordó, sin comprender la asociación de ideas, 
             una tarde del año 2001 en que su padre lo llevó, a un cine en Surco. Un cine-club había tenido la divertida idea de realizar un festival de ciencia ficción, dedicado a comparar 
-            la visión que treinta o cuarenta años atrás se tensa del mítico cambio de milenio.</p>
+            la visión que 30 o 40 años atrás se tensa del mítico cambio de milenio.</p>
 
             <p>La película, esa tarde —era verano y hacía mucho calor, exactamente como hoy, y era posible que fuera el cumpleaños de <persName ref="#TT">Tony</persName> (¿el décimo? ¿el undécimo?)—, se llamaba, justamente, 
-            2001, Una Odisea del Espacio <ref xml:id="ref11" target="#nota11">(11)</ref>, y su creador tenía un nombre checo, o polaco: ¿Kubik? ¿Kubrik? Él y su padre se habían reído mucho, con el resto del público, ante esa descarnada 
+            <hi rend="cursiva">2001, Una Odisea del Espacio</hi> <ref xml:id="ref11" target="#nota11">(11)</ref>, y su creador tenía un nombre checo, o polaco: ¿Kubik? ¿Kubrik? Él y su padre se habían reído mucho, con el resto del público, ante esa descarnada 
             confrontación de la especulación entre espantada y burlona de los años 60 o 70, y la mucho más mediocre realidad presente. El mitológico año 2001 —el cambio de 
             milenio— había llegado y pasado con una asombrosa frivolidad, a decir verdad. Nada importante, decisivo, había ocurrido. Ningún cambio esencial en la vida de los hombres. Ningún 
             aparato milagroso, ninguna victoria espectacular de la ciencia, nada que hiciese pensar en un renacimiento del arte. Un día se había arrastrado detrás del anterior, como en todo el milenio anterior, y pese al despliegue 
@@ -1322,9 +1322,19 @@
             guardia en el recinto, ni era necesario. Cincuenta metros de roca viva y otros veinte metros de edificación los separaban del mundo exterior. <persName ref="#LK">Linda King</persName> hizo un gesto con la mano 
             para que <persName ref="#JJ">Johnson</persName> volviera a asumir su puesto. Los demás la saludaron con una inclinación de cabeza y, en algunos casos, con una sonrisa y la mano levantada. El presidente de 
             este mes, <persName ref="#GM">Gabriel Miranda, delegado de la Machinery Trust Co., de Nebraska</persName>, se levantó tras hacer sonar una campanilla.</p>
+
+            <sp><p>—Damas y caballeros —comenzó, con la grabadora secretarial funcionando— iniciamos la... la tercera reunión del Directorio Regional, hoy jueves 18 de enero de 2034, siendo las 17 horas y... 
+            tres minutos. Me precio en saludar la presencia de <persName ref="#LK">Miss Linda King, asesora oficial de Stimudrinks, entidad matriz de nuestra querida Epesa</persName>. Nuestra distinguida amiga está plenamente reconocida con 
+            poderes plenipotenciarios ante esta asamblea. Bienvenida, <persName ref="#LK">Miss King</persName>.</sp></p>
             
-            <p></p>
-            <p></p>
+            <p><persName ref="#LK">Linda</persName> hizo una inclinación de cabeza.</p>
+            <sp><p>—El orden del día, personas, es, como ya se les había informado, el siguiente: demandas de la jefatura católica-ortodoxa al Directorio Regional.</p>/sp>
+            <sp><p>—Una cuestión previa —planteó, <persName ref="#LK">Linda King</persName>.</p>/sp>
+            <sp><p>—Con mucho gusto —replicó <persName ref="#GM">Miranda</persName>, sentándose.</p></sp>
+            
+            <p><persName ref="#LK">Linda King</persName> permaneció sentada y por unos instantes paseó su mirada por la concurrencia. Sentado tras ella, <persName ref="#TT">Tony Tréveris</persName> esperaba en silencio.</p>
+            
+            
             <p></p>
         
 
