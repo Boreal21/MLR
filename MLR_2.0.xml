@@ -55,7 +55,7 @@
             <sp><p>—Alguna vez deberías cambiar de huachafa.</p></sp>
 
             <p><persName type="personaje" ref="#TT"><forename>Tony</forename></persName> pensó que los senos de su <rs type="person" ref="#DN">mujer</rs> aún eran hermosos, 
-            pese a los cuarenta años y los tres hijos. Extendió la mano para 
+            pese a los cuarenta años y los <rs ref="#MT #CT #FT">tres hijos</rs>. Extendió la mano para 
             acariciarlos suavemente.</p>
 
             <p><rs type="person" ref="#DN">Ella</rs> retiró la mano de <persName type="personaje" ref="#TT"><forename>Tony</forename></persName>.</p>
@@ -94,7 +94,7 @@
             
             <p>Se vistió rápidamente se pasó el peine por la breve 
             cabellera rubia y, como siempre, postergó todo otro arreglo de 
-            su persona hasta haber embarcado con felicidad a sus hijos. 
+            su persona hasta haber embarcado con felicidad a <rs ref="#MT #CT #FT">sus hijos</rs>. 
             Abandonó la habitación y <persName type="personaje" ref="#TT"><forename>Tony</forename></persName>, antes de pasar al baño, tuvo 
             todavía ocasión de admirarse, de frente y de perfil, ante el 
             gran espejo tocador.</p>
@@ -391,7 +391,7 @@
             terminado ayer el de <persName ref="#TT">Tony</persName>. Luego, o mañana, habría una reunión de directorio 
             con ella, el resto sería amenidades, <hi rend="cursiva"><foreign xml:lang="en">shopping</foreign></hi>, paseos (ya no <placeName ref="https://goo.gl/maps/1TLwAtWeL6FuXzNL8">Machu Picchu</placeName>, por 
             Dios) y ferias típicas hasta el lunes, y buen viaje a <placeName ref="https://goo.gl/maps/zt4RhU1YDGZmkQbr6"><region>Santiago</region></placeName>. <persName ref="#DN"> Doris</persName>, pensó. 
-            En casa cuidando a los niños, y si no es así, no quiero saberlo. Independiente 
+            En casa cuidando a los <rs ref="#MT #CT #FT">niños</rs>, y si no es así, no quiero saberlo. Independiente 
             y anticuado, se dijo. Orgías, claro, y si mi <rs ref="#DN">mujercita</rs> tiene algo por allí, 
             eso es inevitable y además con qué derecho yo, pero, en fin, confiesa, <persName ref="#TT">Tony 
             Tréveris</persName>, que nos jode, a ti ya mí. La mujer del <hi rend="cursiva"><foreign xml:lang="en">latin lover</foreign></hi> o, como se dice 
@@ -586,7 +586,7 @@
             <sp><p>—No tengo tanta fantasía como para eso. Para mí es simplemente un hombrecito 
             gordo con un pene que parece un platanito marrón.</p></sp>
             <sp><p>—Entonces no lo invitamos. Pero ahora a trabajar, hijita, porque nos 
-            acabarán suspendiendo a ambos. </p></sp>
+            acabarán suspendiendo a <rs ref="#TT #MF">ambos</rs>. </p></sp>
             <sp><p>—Nunca suspenden a los directores.</p></sp>
             <sp><p>—Pero les quitan la confianza y ahí te quiero ver.</p></sp>
             <p><persName ref="#MF">Marina</persName> le sonrió y le guiñó el ojo.</p>
@@ -622,7 +622,7 @@
             Occidental</orgName> y a su forma de vida? ¿La pasión sexual puede ser más fuerte que la adhesión al 
             internacionalismo libre, al juego democrático del gobierno transnacional? Estupideces de 
             doctores barbudos. Lo que pasa es que <hi rend="cursiva">ellos</hi> no pueden controlar a sus babosos pipís o a 
-            sus chorreantes vaginas. Los sicoanalistas, resolvió <persName ref="#TT">Tony</persName>, eran los últimos cucufatos en 
+            sus chorreantes vaginas. Los psicoanalistas, resolvió <persName ref="#TT">Tony</persName>, eran los últimos cucufatos en 
             este mundo, si exceptuamos a los <orgName ref="Cat">Católicos Ortodoxos</orgName> y sus equivalentes. Y, como buenos 
             cucufatos, sobreestiman el sexo.</p>
 
@@ -1269,7 +1269,7 @@
             y de olvido en olvido: llegaríamos a las estrellas, habría todavía un nuevo nuevo mundo, las puertas seguían abiertas para salir de esta monótona miseria.</p>
 
            <p>Entretanto nos hemos hecho adultos, pensó <persName ref="#TT">Tony</persName>. El anciano apareció, pero el bebé se quedó en el camino. La sola idea de un bebé resulta repugnante para 
-           cualquier ser pensante. <persName ref="#TT">Tony</persName> pensó en sus propios hijos e hizo una mueca: claro, salvo los propios, como decía todo el mundo. ¿Las estrellas? Bueno, no 
+           cualquier ser pensante. <persName ref="#TT">Tony</persName> pensó en <rs ref="#MT #CT #FT">sus propios hijos</rs> e hizo una mueca: claro, salvo los propios, como decía todo el mundo. ¿Las estrellas? Bueno, no 
            tanto. En el año 20 de este rutilante milenio a todo color se había inaugurado la primera colonia espacial, pero aquí nomás, a 40 mil kilómetros 
            de altura: una rueda transparente, sólida, dentro de la cual 100 mil seres humanos simulaban sentirse bien. Al menos, tenían las mejores tierras llenas 
            jamás vistas, simplemente mirando por las, llamémoslas, ventanas, de sus celdas de plástico. Y luego, apenas 4 años atrás, el Imperio Revolucionario 
@@ -1298,13 +1298,13 @@
            <sp><p>—Te preocupa, <persName ref="#TT">Tony</persName>? —preguntó <persName ref="#LK">Linda</persName>, señalando con la barbilla hacia el sur.</p></sp>
            <sp><p>—Digamos que me torna filosófico —respondió <rs ref="#TT">él</rs>.</p></sp>
            <p><persName ref="#LK">Linda</persName> rió.</p>
-           <sp><p>—El estado de ánimo ideal para una reunión de Directorio.</p>/sp> 
+           <sp><p>—El estado de ánimo ideal para una reunión de Directorio.</p></sp> 
            <sp><p>—Sí, ¿verdad? —sonrió <rs ref="#TT">él</rs> y abandonó la ventana.</p></sp>
 
            <p><rs ref="#LK">Ella</rs> lo siguió y, sorpresivamente, cuando <rs ref="#TT">él</rs> se acababa de sentar tras su escritorio, se inclinó y lo besó en la boca. <rs ref="#TT">Él</rs> devolvió el beso, sin lujuria (pensó, divertido 
-            ante esa palabreja televisiva), más bien como distraído. Ello lo notó, sin ofensa, y se separó de <rs ref="#TT">él</rs> con una suave presión de la mano sobre el hombro de <persName ref="#TT">Tony</persName>.</p></sp>
+            ante esa palabreja televisiva), más bien como distraído. Ello lo notó, sin ofensa, y se separó de <rs ref="#TT">él</rs> con una suave presión de la mano sobre el hombro de <persName ref="#TT">Tony</persName>.</p>
 
-            <sp><p>—Vamos, es hora —dijo, retocándose los labios y mirándose en un pequeño espejo—. Y limpiate la boca. 
+            <sp><p>—Vamos, es hora —dijo, retocándose los labios y mirándose en un pequeño espejo—. Y limpiate la boca.</p></sp> 
             <p><rs ref="#TT">Él</rs> lo hizo, se incorporó y la siguió hacia el ascensor. Ya en el sótano tres, tras identificarse ante los guardias, abordaron el carril que los llevaría 
             a las entrañas del cerro San Cristóbal: a la sede del Directorio Regional.</p>
         </div>
@@ -1312,33 +1312,802 @@
         <div type="capitulo">
             <head type="titulo_capitulo">CUATRO</head>
 
-            <p>La saia de reuniones ejecutivas, en la que descollaba una enorme mesa redonda de brillante madera auténtica, estaba ya ocupada cuando ingresaron <persName ref="#LK">Linda King</persName> y <persName ref="#TT">Tony</persName>. Delante de 
-            cada uno de los 10 directores esperaban hojas de papel que irían siendo llenadas con dibujitos de mujeres desnudas, rayitas entrecruzadas y circulos concéntricos. <persName ref="#JJ">Juanito 
-            Johnson</persName> se levantó para ofrecer su asiento a <persName ref="#LK">Linda King</persName>, lo que era erróneo en todo sentido, incluyendo el protocolar. <persName ref="#TT">Tony</persName> observó con simpatía a esos ocho hombres y dos mujeres, 
-            las personas más importantes del occidente sudamericano: apellidos españoles, ingleses, franceses, alemanes. Con por lo menos dos le unía una vieja amistad personal que había 
+            <p>La sala de reuniones ejecutivas, en la que descollaba una enorme mesa redonda de brillante madera auténtica, estaba ya ocupada cuando ingresaron <persName ref="#LK">Linda King</persName> 
+            y <persName ref="#TT">Tony</persName>. Delante de cada uno de los 10 directores esperaban hojas de papel que irían siendo llenadas con dibujitos de mujeres 
+            desnudas, rayitas entrecruzadas y circulos concéntricos. <persName ref="#JJ">Juanito Johnson</persName> se levantó para ofrecer su asiento a <persName ref="#LK">Linda King</persName>, 
+            lo que era erróneo en todo sentido, incluyendo el protocolar. <persName ref="#TT">Tony</persName> observó con simpatía a esos ocho hombres y dos mujeres, las 
+            personas más importantes del occidente sudamericano: apellidos españoles, ingleses, franceses, alemanes. Con por lo menos dos le unía una vieja amistad personal que había 
             nacido de una niñez común en las Casuarinas y posteriores estudios universitarios en el Norte.</p>
             
             <p>Detrás de los directores se sentarían, en los momentos adecuados —tras las deliberaciones y decisiones fundamentales— asesores, secretarias, consultantes. No había un solo 
-            guardia en el recinto, ni era necesario. Cincuenta metros de roca viva y otros veinte metros de edificación los separaban del mundo exterior. <persName ref="#LK">Linda King</persName> hizo un gesto con la mano 
+            guardia en el recinto, ni era necesario. 50 metros de roca viva y otros veinte metros de edificación los separaban del mundo exterior. <persName ref="#LK">Linda King</persName> hizo un gesto con la mano 
             para que <persName ref="#JJ">Johnson</persName> volviera a asumir su puesto. Los demás la saludaron con una inclinación de cabeza y, en algunos casos, con una sonrisa y la mano levantada. El presidente de 
             este mes, <persName ref="#GM">Gabriel Miranda, delegado de la Machinery Trust Co., de Nebraska</persName>, se levantó tras hacer sonar una campanilla.</p>
 
-            <sp><p>—Damas y caballeros —comenzó, con la grabadora secretarial funcionando— iniciamos la... la tercera reunión del Directorio Regional, hoy jueves 18 de enero de 2034, siendo las 17 horas y... 
-            tres minutos. Me precio en saludar la presencia de <persName ref="#LK">Miss Linda King, asesora oficial de Stimudrinks, entidad matriz de nuestra querida Epesa</persName>. Nuestra distinguida amiga está plenamente reconocida con 
-            poderes plenipotenciarios ante esta asamblea. Bienvenida, <persName ref="#LK">Miss King</persName>.</sp></p>
+            <sp><p>—Damas y caballeros —comenzó, con la grabadora secretarial funcionando— iniciamos la... la tercera reunión del Directorio Regional, hoy jueves 18 de 
+            enero del 2034, siendo las 17 horas y... 3 minutos. Me precio en saludar la presencia de <persName ref="#LK">Miss Linda King, asesora oficial de Stimudrinks, 
+            entidad matriz de nuestra querida Epesa</persName>. Nuestra distinguida amiga está plenamente reconocida con poderes plenipotenciarios ante esta asamblea. 
+            Bienvenida, <persName ref="#LK">Miss King</persName>.</p></sp>
             
             <p><persName ref="#LK">Linda</persName> hizo una inclinación de cabeza.</p>
-            <sp><p>—El orden del día, personas, es, como ya se les había informado, el siguiente: demandas de la jefatura católica-ortodoxa al Directorio Regional.</p>/sp>
-            <sp><p>—Una cuestión previa —planteó, <persName ref="#LK">Linda King</persName>.</p>/sp>
+            <sp><p>—El orden del día, personas, es, como ya se les había informado, el siguiente: demandas de la jefatura católica-ortodoxa al Directorio Regional.</p></sp>
+            <sp><p>—Una cuestión previa —planteó, <persName ref="#LK">Linda King</persName>.</p></sp>
             <sp><p>—Con mucho gusto —replicó <persName ref="#GM">Miranda</persName>, sentándose.</p></sp>
             
-            <p><persName ref="#LK">Linda King</persName> permaneció sentada y por unos instantes paseó su mirada por la concurrencia. Sentado tras ella, <persName ref="#TT">Tony Tréveris</persName> esperaba en silencio.</p>
-            
-            
-            <p></p>
-        
+            <p><persName ref="#LK">Linda King</persName> permaneció sentada y por unos instantes paseó su mirada por la concurrencia. Sentado tras ella, 
+            <persName ref="#TT">Tony Tréveris</persName> esperaba en silencio.</p>
+            <sp><p>—Distinguidas personas del Directorio Regional, estimada persona <persName ref="#GM">Miranda</persName> —comenzó <persName ref="#LK">Linda</persName>—. 
+            Quisiera plantear mi cuestión previa en dos partes, sin exigir demasiado de su precioso tiempo. —En castellano, la fórmula usada por <rs ref="#LK">la asesora</rs> 
+            era tan irónica como en inglés, idioma que todos los presentes dominaban. <persName ref="#GM">Miranda</persName> carraspeó, pero por alguna misteriosa razón 
+            pareció tranquilizarse al volver <persName ref="#LK">Linda</persName> a la fórmula salutatoria más tradicional:</p></sp>
+            <sp><p>—Damas y caballeros, en primer término mi compañía estaría interesada en saber por qué se ha impedido asistir a las dos 
+            reuniones anteriores a <persName ref="JJ">nuestro delegado, persona Johnson</persName>. Segundo: mi compañía revoca el mandato de 
+            <persName ref="JJ">Johnson</persName> y nombra, con efectos inmediatos, a la persona <persName ref="#TT">Antonio Tréveris</persName> para sucederle.</p></sp>
 
+            <p>Hubo un murmullo que <persName ref="#GM">Miranda</persName> cortó rápidamente con un enérgico gesto que hizo temblar su doble papada.</p>
+            <sp><p>—<persName ref="#LK">Miss King</persName>, permitame tocar primero el segundo punto de su cuestión. Naturalmente está usted en su pleno derecho de 
+            nombrar al <persName ref="#TT">señor Tréveris</persName> y de, ejem, destituir a <persName ref="JJ">Johnson</persName>. Por lo demás, aquí todos nos 
+            conocemos bien, inclusive, ja, ja, todavía somos unos subdesarrollados que se reúnen físicamente para sesionar. Nada como el contacto personal, siempre digo, 
+            ¿no? Pero hay algunas formalidades. En realidad, se estila una comunicación formal de la matriz.</p></sp>
+            <sp><p>—Tengo poderes plenipotenciarios.</p></sp>
+            <sp><p>—Sí, sí, por supuesto. No digo que esto sea ilegal. Simplemente...</p></sp>
+            <sp><p>—No siendo ilegal, procede, persona <persName ref="#GM">Miranda</persName>.</p></sp>
+            
+            <p>Un nuevo murmullo.</p>
+
+            <p><persName ref="#GM">Miranda</persName> suspiró; clavó la mirada un instante en los papeles en blanco que tenía delante y comenzó a trazar el perfil de 
+            una mula, que quedó inconcluso.</p>
+            <sp><p>—¿Alguna oposición? —preguntó, finalmente.</p></sp>
+            <p>Nadie habló. Pero <persName ref="JJ">Johnson</persName> pidió la palabra.</p>
+            <sp><p>—Tiene la palabra <persName ref="JJ">Mr. Johnson</persName> —dijo <persName ref="#GM">Miranda</persName>, sobre todo en beneficio de la grabadora.</p></sp>
+
+            <p><persName ref="JJ">Johnson</persName> se aclaró la garganta.</p>
+            <sp><p>—Quisiera dar la bienvenida en nombre de Epesa, a <persName ref="#TT">Tony</persName>. Somos amigos desde hace muchos años, y estoy seguro de que 
+            representará adecuadamente los intereses de la compañía a la que <rs ref="#TT #JJ">ambos</rs> hemos dedicado nuestros mejores esfuerzos desde que 
+            salimos de la universidad</p></sp>
+
+            <p>Vaciló. Bebió un sorbo de agua del vaso frente a <rs ref="#TT">él</rs>.</p>
+            <sp><p>—Estoy seguro... estoy seguro de que <persName ref="#TT">Tony Tréveris</persName>... En realidad, todos nosotros... Bien. Lo que quiero decir es que... 
+            me alegro de que seas tú, <persName ref="#TT">Tony</persName>...</p></sp>
+
+            <p><persName ref="#TT">Tony</persName> y <persName ref="#JJ">Juanito</persName> se miraron por un par de segundos a los ojos, hasta que <rs ref="#TT #JJ">ambos</rs> 
+            desviaron la mirada a la vez.</p>
+            <sp><p>—Bien. El <persName ref="#TT">señor Tréveris</persName> puede asumir la representación de Epesa.</p></sp>
+
+            <p><persName ref="#JJ">Juanito Johnson</persName> y <persName ref="#TT">Tony Tréveris</persName> se cruzaron en silencio al cambiar de asientos.</p>
+            <sp><p>—En cuanto a su otra cuestión previa, <persName ref="#LK">Miss King</persName>, la respuesta es menos fácil. Y para dársela, le ruego tener en 
+            cuenta dos cosas. La primera, que estamos en una región infradesarrollada, que exige métodos de gobierno diferentes a los 
+            que rigen en el Directorio Supremo o en los Directorios Regionales de Europa, por ejemplo. La segunda, <persName ref="#LK">Miss King</persName>, es que 
+            estamos ante una emergencia, de cuyos detalles se informará usted en el transcurso de esta reunión, que explica el asunto 
+            debidamente.</p></sp>
+
+            <sp><p>—Así lo espero, persona <persName ref="#GM">Miranda</persName> —dijo <persName ref="#LK">Linda</persName>, suavizando su frase con una coqueta sonrisa—. Pero de todas maneras, 
+            le agradecería siquiera un adelanto. El eterno femenino, you know.</p></sp>
+            <sp><p>—Bien. Aquí va el adelanto. Una de las demandas de los católicos-ortodoxos, presentadas a fines de diciembre (el 25, para ser exactos; 
+            les encantan los simbolismos baratos), es la del estricto control sobre las drogas estimulantes. Consideran denigrante, molesto, humillante, 
+            criminal y qué se yo cuántas cosas más, la venta y sobre todo la propaganda de los productos de su empresa.</p></sp>
+
+            <p><persName ref="#LK">Linda King</persName> frunció el ceño.</p>
+            <sp><p>—¿Y ese hecho indujo a este distinguido cónclave a impedir la presencia de nuestro representante?</p></sp> 
+            <sp><p>—Pensamos que nos permitiría discutir la cuestión con mayor libertad.</p></sp>
+            <sp><p>—<persName ref="#GM">Miranda, Miranda</persName> —dijo <persName ref="#LK">Linda</persName>, meneando la cabecita y sacudiendo su trenza—. 
+            They won't like this at home. No, no les va a gustar nada. Van a usar palabras feas como golpe de estado, traición y delito contra el espíritu y la 
+            letra de la organización directoral mundial. Esta es, al menos, mi opinión personal.</p></sp>
+            <sp><p>—Le rogaría, <persName ref="#LK">Miss King</persName>, permitimnos continuar con el orden del día, que servirá para aclararle el panorama.</p></sp>
+            <sp><p>—Bueno. Pero más vale que me pueda demostrar que los católicos están a punto de degollarnos a todos, porque si no no habría explicación posible.</p></sp>
+            <sp><p>—Precisamente, <persName ref="#LK">Miss King</persName>, precisamente —dijo <persName ref="#GM">Miranda</persName>, y cruzó beatíficamente sus dedos gordezuelos sobre la 
+            mesa. Miró a todos, y luego habló nuevamente.</p></sp>
+            <sp><p>—Un breve resumen para <persName ref="#LK">King</persName> y <persName ref="#TT">Tréveris</persName>, que no han asistido a las reuniones del 3 y 
+            del 10 de enero. El 25 de diciembre, el presidente correspondiente a ese mes, <persName>persona Hamann</persName>, aquí presente, recibió una comunicación de la jefatura de 
+            los católicos-ortodoxos, a quienes, para abreviar, llamaremos cat-ox, con un tenor agresivo y una lista de exigencias que ellos consideraban moderadas, 
+            salvo en lo que respecta a los... mmm. .. productos de Epesa. Y aún en este asunto, dice su mensaje, no aspiran a destruir la empresa, ni siquiera a que 
+            se prohiban sus productos. Simplemente, dice, exigen venta controlada y el cese de toda propaganda.</p></sp>
+            <sp><p>—¿Simplemente? —dijo <persName ref="#TT">Tony Tréveris</persName>.</p></sp>
+
+            <sp><p>—La palabra es de ellos, no mía. Los demás puntos son: reconstrucción e implementación de las universidades regionales, convertidas desde hace 
+            más de 20 años (¿o son 30?) en escuelas de artesansas y en feudos de toda clase de camarillas; acceso a los medios de comunicación para miembros de 
+            su grupo. Libertad de practicar su credo, difundir públicamente sus doctrinas, portar armas efectivas y no solo las actuales, y de efectuar labor 
+            misionera fuera del valle de Lima.</p></sp>
+            <sp><p>—¿Algo más? —preguntó <persName ref="#LK">Linda</persName>.</p></sp>
+            <sp><p>—Oh, si —respondió <persName ref="#GM">Miranda</persName>—. También piden la formación de comisiones supervisoras de la contabilidad y actividades de todas las empresas 
+            existentes en la región.</p></sp>
+            <sp><p>—Hear, hear —exclamó <persName ref="#LK">Linda</persName>.</p></sp>
+            <sp><p>—Finalmente —agregó <persName ref="#GM">Miranda</persName>—, les pareció conveniente solicitar la presencia, con voz y voto, de por lo menos un representante de ese 
+            grupo en el Directorio Regional.</p></sp>
+            <sp><p>—Todo el poder a los cat-ox —murmuró alguien. ¿Perdón? —dijo <persName ref="#GM">Miranda</persName>.</p></sp>
+
+            <p>No hubo respuesta.</p>
+
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">Well, well, well</foreign></hi> —dijo <persName ref="#LK">Linda</persName>— ¿Y después qué?</p></sp>
+            <sp><p>—Después, y para ser otra vez exactos, el primero de enero, me llegó a mi poder, como presidente en este mes, un segundo comunicado. En él se 
+            ratificaban los puntos anteriores y se anunciaba que, si para el 18 de enero —aniversario de la fundación de Lima, por si alguno de los presentes lo 
+            hubiese olvidado (era obvio que nadie lo recordaba)— no se recibía una, comillas, respuesta satisfactoria, cierren comillas, iniciarían una insurrección 
+            destinada a, comillas, devolverle el poder al pueblo, cierren comillas.</p></sp>
+            <sp><p>—Conque eso era... —murmuró <persName ref="#TT">Tony</persName>.</p></sp>
+            <sp><p>—Sí. Es obvio que nuestra respuesta no fue satisfactoria. La insurrección ha comenzado. Y los datos que poseemos indican que no es un picnic.</p></sp>
+            <sp><p>—Se puede saber cuál fue esa respuesta, concebida y transmitida en ausencia de nuestra persona? —preguntó dulcemente <persName ref="#LK">Linda 
+            King</persName>.</p></sp>
+            <sp><p>—Le haré entrega de una copia más tarde, <persName ref="#LK">Miss King</persName>, pero en esencia decía lo siguiente: primero, que no decidimos bajo presión. Segundo, que no 
+            nos oponemos a continuar el diálogo, siempre y cuando éste sea respetuoso y fructífero. Tercero, que algunos de los puntos planteados por ellos podían 
+            discutirse serenamente. Y cuarto, que desde ya rechazábamos el último punto, el de su participación en el Directorio, porque ese era un cambio 
+            cualitativo que equivalía a modificar sustancialmente nuestra actual forma de administración pública. Como se verá, nada de insultos, puertas abiertas, 
+            pero al mismo tiempo la necesaria firmeza.</p></sp>
+            <sp><p>—Me alegra constatar que se aprueba usted a sí mismo, <persName ref="#GM">Mr. Miranda</persName> —sonrió <persName ref="#LK">Linda</persName>, sacudiendo nuevamente su trenza—. Pero eso me deja a oscuras 
+            respecto a los intereses de mi empresa.</p></sp>
+            <sp><p>—Y eso es parte, y parte muy importante, <persName ref="#LK">Miss King</persName>, de lo que vamos a discutir hoy. No pensamos movernos de aquí hasta dejar listo un nuevo 
+            documento, o lo que fuere, destinado a los cat-ox. Y debemos apresuramnos: allá afuera hay gente muriendo.</p></sp>
+            <sp><p>—Cuantas más ratas mueran, mejor —murmuró <persName ref="#FC">Franz Cohen</persName>, de United Chemicals—. Borren eso de la grabación.</p></sp>
+            <sp><p>—Borrado —dijo <persName ref="#GM">Miranda</persName>, sonriendo, tras manipular el aparato sobre la mesa.</p></sp>
+            <sp><p>—El problema no es ese —dijo <persName ref="#MA">María D'Annunzio</persName>, de Olivetti International—, sino de si vamos a mantener en esta 
+            región del mundo nuestro sistema occidental y cristiano, o si vamos a caer en el caos católico-marxista. Y de si podremos mantener el sistema sin una 
+            intervención militar como la que tuvo que hacer el Directorio Supremo para imponerlo definitivamente.</p></sp>
+            <sp><p>—Correcto —dijo <persName ref="#GM">Miranda</persName>, tamborileando sobre la mesa—. Creo que <persName ref="#MA">D'Annunzio</persName> lo 
+            ha expresado muy bien.</p></sp>
+            <sp><p>—Todavía no se ha explicado bien, a mi juicio, el, digamos, desaire contra nuestra empresa —dijo <persName ref="#TT">Tréveris</persName>.</p></sp>
+            <sp><p>—Ni tampoco —dijo <persName ref="#LK">King</persName>, mirando a <persName ref="#JJ">Johnson</persName>— por qué nuestro representante no 
+            se quejó, ni a nosotros ni a nadie.</p></sp>
+
+            <p><persName ref="#JJ">Johnson</persName> carraspeó y se levantó lentamente. Todos lo miraron en silencio. Tras una breve mirada a 
+            <persName ref="#TT">Tréveris</persName>, <persName ref="#JJ">Johnson</persName> dijo en voz incolora:</p>
+            <sp><p>—Tengo un hijo... un hijo único. Este hijo me ha causado algunas dificultades. —Volvió a carraspear—. Es morfinómano.</p></sp>
+
+            <p><persName ref="#GM">Miranda</persName> resumió el pensamiento general.</p>
+            <sp><p>—Lo siento mucho, <persName ref="#JJ">Johnson</persName>. Pero su problema no es único. ¿Quiere usted decir...?</p></sp>
+            <sp><p>—Quiero decir —continuó <persName ref="#JJ">Johnson</persName>— que mi hijo desapareció el año pasado. Y volvió a aparecer, en noviembre, curado... 
+            Había estado... con ellos.</p></sp>
+            <sp><p>—¿Las ratas lo curaron? —preguntó, innecesariamente, <persName ref="OA">Olga Ángeles</persName>, de General Motors-Electric.</p></sp>
+            <sp><p>—Sí. Las ratas lo curaron. Y lo volvieron cat-ox.</p></sp>
+
+            <p><persName ref="#GM">Miranda</persName> dejó de tamborilear sobre la mesa y abrió las manos en un gesto de amplitud y cordialidad.</p>
+            <sp><p>—Me alegro que finalmente lo haya dicho usted mismo, <persName ref="#JJ">Johnson</persName> —dijo—. Nosotros, por supuesto, supimos desde 
+            noviembre que usted era un riesgo de seguridad, pero no teníamos sino pruebas indiciarias... —Se volvió hacia <persName ref="#LK">King</persName> y 
+            <persName ref="#TT">Tréveris</persName>—. ¿Resuelve esto su problema? —les preguntó.</p></sp>
+
+            <p>Estos asintieron.</p>
+            <sp><p>—Les agradecería opinar en voz alta —dijo <persName ref="#GM">Miranda</persName>, señalando la grabadora.</p></sp>
+            <sp><p>—Correcto —dijo <persName ref="#LK">Linda</persName>.</p></sp>
+            <sp><p>—Lo siento, <persName ref="#JJ">Juanito</persName> —dijo <persName ref="#TT">Tony</persName>, dolido.</p></sp>
+
+            <p>El visodiario, situado en una pared del fondo, emitió su sonido llamativo.</p>
+            <sp><p>—Veamos qué hay —dijo <persName ref="#GM">Miranda</persName>, y añadió en voz fuerte—: "On"</p></sp>
+
+            <p>Apareció el sereno locutor con rostro y voz de plástico. Esta vez parecía más cordial.</p>
+            <sp><p>—Gracias por conectar. Inicio del mensaje: continúan los disturbios iniciados esta mañana en Miraflores. La zona rebelde se ha ampliado a las 
+            17 horas a todo el borde marítimo hasta el Callao. Por lo tanto, comunicamos que la prohibición de circulación se ha ampliado a Magdalena, 
+            San Miguel, Maranga, La Perla, Bellavista y Callao. Alerta para Ventanilla, Nueva Callao, San Isidro y Lince, y todo el borde hasta Casuarinas y para 
+            el Cercado. Eso es todo en este boletín grabado a las 17:17 y repetido con su sintonía. Muy buenas tardes.</p></sp>
+            <sp><p>—Off —dijo <persName ref="#GM">Miranda</persName> y se quedó observando, pensativo, la pantalla color humo.</p></sp>
+            <sp><p>—Es hora de tomar una determinación —dijo <persName ref="#FC">Franz Cohen</persName>.</p></sp>
+            <sp><p>—Y la primera —pidió <persName ref="OA">Olga Ángeles</persName>— es solicitar a la <persName ref="#JJ">persona Juanito Johnson</persName> que 
+            abandone la reunión.</p></sp>
+            <sp><p>—Alguien apoya esta moción? —preguntó <persName ref="#GM">Miranda</persName>.</p></sp>
+            <sp><p>—Yo la apoyo —dijo <persName ref="#TT">Tréveris</persName>, evitando mirar a su amigo.</p></sp>
+
+            <p><persName ref="#JJ">Johnson</persName> se levantó.</p>
+            <sp><p>—Agradecemos sus servicios, <persName ref="#JJ">Johnson</persName>. Hasta siempre —dijo secamente 
+            <persName ref="#GM">Miranda</persName>.</p></sp>
+            <sp><p>—Adiós —dijo <persName ref="#JJ">Johnson</persName>. Caminó hacia la puerta y vaciló.</p></sp>
+            <sp><p>—Buena suerte, <persName ref="#JJ">Juanito</persName> —dijo <persName ref="#TT">Tony</persName>.</p></sp>
+            <sp><p>—Gracias —dijo <persName ref="#JJ">Johnson</persName>, sin voltear y reemprendiendo la marcha. La puerta se 
+            abrió ante él y se volvió a cerrar herméticamente tras su salida.</p></sp>
+            <sp><p>—¿Se unirá a las ratas? —preguntó <persName ref="#MA">D'Annunzio</persName>.</p></sp>
+            <sp><p>—No lo creo —dijo <persName ref="#GM">Miranda</persName>—. No se renuncia con facilidad a la jubilación.</p></sp>
+            <sp><p>—Por qué no hizo curar a su hijo como los demás, en un sanatorio reconocido? —preguntó <persName ref="#FC">Cohen</persName>.</p></sp>
+            <sp><p>—Bah, ¿por qué, por qué, por qué? -repitió, fastidiado, <persName ref="#GM">Miranda</persName>—. ¿Por qué algunos nacen ratas y, otros 
+            nacemos personas? Por qué Dios está con nosotros y no con ellos? Qué sé yo. Su hijo se largó a mezclarse con 
+            las ratas y se convirtió en rata. ¿Acaso es tan difícil de entender o tan poco frecuente? Eso se llama movilidad 
+            social. Hay ratas que suben y hombres que bajan. Así es la vida. Lo lamentable es que el padre sufra las 
+            consecuencias; pero así ha sido, es y será. —<persName ref="#GM">Miranda</persName> suspiró, abanicándose con una hoja de papel, pese a que 
+            en este recinto la temperatura jamás variará de 20 grados ni la humedad de 602.</p></sp>
+            <sp><p>—Propongo que discutamos la brecha generacional en otra ocasión —dijo <persName ref="#LK">Linda</persName>—. Como dijo usted hace 
+            unos instantes, hay gente muriendo ahí afuera.</p></sp>
+            <sp><p>—Bien —repuso <persName ref="#GM">Miranda</persName>—. Ya lo han oído todos. El carozo crece. No dudo de que 
+            podríamos terminar este asunto en la hora de luz que nos queda, usando todo lo que tenemos. La pregunta es: ¿masacre 
+            o diálogo? Yo me inclino por el diálogo. Entre otras cosas, porque es más económico.</p></sp>
+
+            <p>Hubo un murmullo de asentimiento.</p>
+
+            <sp><p>—No dará eso la impresión de debilidad? —preguntó <persName ref="#DA">Diego Anschluss</persName>, de Medios de 
+            Transporte Mundial, Metramun.</p></sp>
+            <sp><p>—Cualquier cosa que no sea una bomba N dará esa impresión dijo <persName ref="#GM">Miranda</persName>.</p></sp>
+            <sp><p>—Pues entonces, ¿qué tiene usted contra la bomba N? —preguntó <persName ref="OA">Olga Ángeles</persName>.</p></sp>
+
+            <p><persName ref="#LK">Linda King</persName> soltó una breve risita.</p>
+
+            <sp><p>—Comparta la broma —dijo, picada, <persName ref="OA">Ángeles</persName>.</p></sp>
+            <sp><p>—Disculpen. Me reía porque la bomba N fue inventada para matar personas sin destruir la propiedad, y ahora nuestro problema es 
+            un poco al revés. Deberíamos destruir ese infame basurero que es Lima tratando de no matar muchas personas.</p></sp>
+            <sp><p>—No somos agentes de limpieza pública —dijo <persName ref="OA">Ángeles</persName>—. Somos defensores de una manera de vivir.</p></sp>
+            <sp><p>—<hi rend="cursiva"><foreign xml:lang="en">Good for you, honey</foreign></hi> —dijo <persName ref="#LK">Linda King</persName>—. 
+            <hi rend="cursiva"><foreign xml:lang="en">Keep up the good Christian Spirit</foreign></hi>.</p></sp>
+
+            <p>Todos rieron con simpatía, inclusive <persName ref="OA">Ángeles</persName>.</p>
+            <p>Por un momento, la reunión pareció una de esas parrilladas familiares para ejecutivos y sus esposas en algún verde suburbio del mundo. 
+            <q>Curioso</q>, pensó <persName ref="#TT">Tony Tréveris</persName>. <q>Tengo la impresión de que <persName ref="JJ">Juanito Johnson</persName> 
+            nunca existió</q>. Buscó con la mirada una manera de compartir su desazón con <persName ref="#LK">Linda King</persName>, pero esta 
+            seguía sonriéndole a <persName ref="OA">Olga Ángeles</persName>. <q>Maldita puta</q> pensó <persName ref="#TT">Tony</persName>. <q>Apuesto que 
+            ya está pensando embarcar a la <persName ref="OA">Ángeles</persName> rumbo a la cama</q>. Finalmente, <persName ref="#LK">Linda</persName> lo 
+            miró. Alzó una interrogativa ceja al ver el rostro cerrado de <persName ref="#TT">Tony</persName>. Este desvió la mirada.</p>
+            <p><persName ref="#GM">Miranda</persName> estaba hablando.</p>
+
+            <sp><p>—Bien, creo que habrá consenso para una demostración de fuerza combinada con una oferta de diálogo.</p></sp>
+            <p>Paseó la mirada por los presentes. Nadie habló.</p>
+
+            <sp><p>—No sabemos cuál es el núcleo rebelde. La cosa comenzó en Miraflores, pero eso nada demuestra. Sea como fuere, propongo desinfectar 
+            con napalm todo eso, y emitir poco después nuestro mensaje de amor.</p></sp>
+            <sp><p>—¿Esperamos al amanecer? —preguntó <persName ref="#MA">D'Annunzio</persName>.</p></sp>
+            <sp><p>—No, creo que sería más efectivo en la noche. Digamos a las ocho, cuando las abuelitas estén dulcemente sentadas en el porche 
+            acunando a sus nietecitos y todos puedan ver los lindos fuegos artificiales. ¿Alguien en contra?</p></sp>
+            
+            <p>Nadie se movió.</p>
+            <sp><p>¿A favor?</p></sp>
+            <p>Todas las manos se alzaron.</p>
+
+            <sp><p>—Unanimidad para el curso de acción —dijo <persName ref="#GM">Miranda</persName>—. Y ahora, el comunicado. Propongo una comisión de 
+            redacción formada por <persName ref="OA">Ángeles</persName>, <persName ref="#TT">Tréveris</persName> y <persName ref="#LK">King</persName>.</p></sp>
+            <sp><p>—Un momento —dijo <persName ref="#TT">Tréveris</persName>—. Antes de la votación quisiera pensar en voz alta lo siguiente: ¿no sería 
+            más conveniente tratar de establecer un contacto reservado? Pienso que eso nos proporcionará a ambas partes mayores opciones de sinceridad.</p></sp>
+            <sp><p>—Sí, lo había pensado también —dijo <persName ref="#GM">Miranda</persName>—, y, de hecho se establecerá ese contacto. Pero creo que 
+            debe ser después de las medidas aquí propuestas. Primero, la demostración de que no estamos jugando ni anémicos. Luego, un comunicado público, 
+            muy mesurado, razonable y paternal.</p></sp>
+            <sp><p>—Maternal —dijo <persName ref="#MA">D'Annunzio</persName>, que era oriunda de Sicilia, donde el feminismo era un fenómeno tardío.</p></sp>
+            <sp><p>—Este... si —continuó <persName ref="#GM">Miranda</persName>—. Y luego, mañana por la mañana, los contactos. Es más, ahora que 
+            lo pienso, podría ser útil incluir en el comunicado público una alusión a que se buscará el trato directo.</p></sp>
+
+            <p>Los representantes cuchichearon unos momentos entre ellos y luego asintieron.</p>
+            <sp><p>—Entonces, queda en pie mi propuesta para la comisión de redacción. Supongo que los tres nombrados tienen cultura literaria. 
+            Después de todo, no estudiaron en universidades del Tercer Mundo.</p></sp>
+
+            <p>Todos rieron y los tres propuestos movieron la cabeza afirmativamente.</p>
+            <p><q>—Pasamos a un cuarto intermedio. ¿Quince minutos está bien?</q> —<persName ref="#LK">King</persName> afirmó nuevamente con la cabeza. 
+            Los tres comisionados pasaron a una salita contigua. Allí, entre café y sandwiches —iguales a los que, ociosamente, consumían los demás en 
+            la sala principal—, se pusieron a elaborar el siguiente comunicado:</p>
+            
+            <q><p rend="font-size:small">El Directorio Regional, consciente de su obligación de mantener el orden público, así como de salvaguardar la vida, la salud, la 
+            propiedad y los derechos activos de la población, ha visto con preocupación los actuales brotes de violencia, evidentemente organizada, 
+            en esta capital.</p>
+            <p rend="font-size:small">Las bases fundamentales de la democracia transnacional están constituidas por los derechos activos, la no ingerencia en los asuntos 
+            privados y el libre desarrollo, personal y comercial. No puede, pues, tolerarse el impedimento de su ejercicio.</p>
+            <p rend="font-size:small">La responsabilidad por las consecuencias de esta inaceptable provocación recae en los agitadores profesionales y en los autores 
+            intelectuales de estas acciones contra el orden establecido y la democracia.</p>
+            <p rend="font-size:small">Actuando con firmeza, el Directorio Regional protege los derechos ciudadanos y la estabilidad regional, nada de lo cual cierra las 
+            puertas a un diálogo constructivo con aquellas personas o instituciones que tengan demandas concretas y razonables que proponer para la 
+            mejor marcha de los asuntos regionales.</p>
+            <p rend="font-size:small">El ejercicio de úna crítica sana es consustancial a la democracia transnacional, hecho que nos diferencia de posiciones extremistas 
+            ajenas a nuestra idiosincrasia.</p>
+            <p rend="font-size:small">El Directorio Regional exige, pues, el cese inmediato de toda acción disociadora, para evitar mayores derramamientos de sangre y daños 
+            materiales. Advierte que continuará usando de la máxima energía en defensa de la tranquilidad pública.</p>
+            <p rend="font-size:small">El Directorio Regional Sudamérica-Oeste.</p>
+            <p rend="font-size:small">Lima, 18 de enero del 2034.</p></q>
+
+            <p>El comunicado fue íntegra y rápidamente aprobado. <persName ref="#GM">Miranda</persName> fijó una nueva reunión extraordinaria para 
+            el día siguiente, también a las 17 horas y los representantes abandonaron la sala y la sede subterránea velozmente. <persName ref="#TT">Tony</persName>, 
+            <persName ref="#LK">Linda</persName> y <persName ref="OA">Olga</persName> fueron informados, al salir, que la operación fuegos 
+            artificiales ya había sido puesta en marcha por <persName ref="#GM">Miranda</persName>. Cuando el carril depositó a <persName ref="#LK">Linda</persName> 
+            y <persName ref="#TT">Tony</persName> en el subsuelo de Epesa, eran las 19:20. Afuera brillaba una noche relativamente clara, 
+            estrellada, pero interrumpida por continuas explosiones en la lejanía.</p>
+
+            <p>De vuelta en su oficina, <persName ref="#TT">Tony</persName> llamó a <rs ref="DN">su esposa</rs>. <persName ref="DN">Doris</persName> 
+            y los chicos lo saludaron. Tras intercambiar los habituales mensajes relativos a que todo seguía en orden, <persName ref="#TT">Tony</persName> 
+            señaló a <persName ref="#LK">Linda</persName>.</p>
+
+            <sp><p>—<persName ref="DN">Doris</persName>, esta es <persName ref="#LK">Linda King</persName>.</p></sp>
+            <sp><p>—Hola —dijo <persName ref="DN">Doris</persName>.</p></sp>
+            <sp><p>—Hola, <persName ref="DN">Doris</persName> —replicó <persName ref="#LK">Linda</persName>. Las mujeres se sonrieron como si 
+            fueran cómplices en algo que los hombres jamás entenderían.</p></sp>
+            <sp><p>—¿Qué te parece Lima? —preguntó <persName ref="DN">Doris</persName>.</p></sp>
+            <sp><p>—No he tenido tiempo de ver mucho —dijo <persName ref="#LK">Linda</persName>—. Lo único que he visto es el centro.</p></sp>
+            <sp><p>—Bueno, eso no es Lima. Espero que puedas darte un saltito por aquí el fin de semana. Siempre hay lugar para una más.</p></sp>
+            
+            <p><persName ref="#TT">Tony</persName> se sentía incómodo sin saber exactamente por qué.</p>
+
+            <sp><p>—Trataré de llevarla —dijo.</p></sp>
+            <sp><p>—Me encantaría —añadió <persName ref="#LK">Linda</persName>.</p></sp>
+            <sp><p>—¿Te quedarás en Epesa esta noche? —preguntó <persName ref="DN">Doris</persName>.</p></sp>
+            <sp><p>—Si —dijo <persName ref="#TT">Tony</persName>. Por la ventana vio una fila de luces que flotaban en el aire, procedentes 
+            del noreste, y que se dirigían hacia el sur—. Hay algunos problemas.</p></sp>
+            <sp><p>—Sí, ya escuché los boletines. Cuídate.</p></sp>
+            <sp><p>—No te preocupes. Mañana estará todo resuelto.</p></sp>
+            <sp><p>—Atiende bien a <persName ref="#LK">Linda</persName> —agregó <rs ref="DN">su esposa</rs>, y guiñó el 
+            ojo: <persName ref="#TT">Tony</persName> no supo si era a él o a <persName ref="#LK">Linda King</persName>.</p></sp>
+            <sp><p>—No dudes de la hospitalidad latina —dijo.</p></sp>
+
+            <p>Cortó. El visodiario había estado zumbando con insistencia y <persName ref="#LK">Linda</persName> dijo <q>On</q>.</p>
+            <p>Esta vez apareció el comandante Lucas, en su uniforme verde con la D dorada sobre el lado izquierdo del pecho.</p>
+
+            <sp><p>—Esta comandancia —dijo— invoca a todos los habitantes de la zona comprendida entre el mar, la avenida 
+            Ricardo Palma/José Pardo, la avenida Panamá y el segundo óvalo de Pardo, a retirarse de inmediato. La zona en 
+            mención será bombardeada a las 20:30 horas. No habrá postergación. Fin del mensaje.</p></sp>
+            <sp><p>—Off —dijo <persName ref="#LK">Linda</persName>—. No lo entiendo. ¿Quieres explicarme qué mosca ha picado al 
+            <persName ref="#GM">presidente Miranda</persName>? ¿Por qué advierte a la gente que se vaya? No es ésta una buena 
+            oportunidad para combatir un poco la explosión demográfica?</p></sp>
+            <sp><p>—<persName ref="#LK">Linda</persName> —dijo <persName ref="#TT">Tony</persName>—. Dominas a la perfección el 
+            castellano pero nunca captarás la picardía criolla. El bombardeo será a las 20 horas, y cogerá a la gente en la calle.</p></sp>
+            
+            <p><persName ref="#LK">Linda King</persName> lo miró y sus ojos se empequeñecieron. Finalmente, dijo, dubitativa:</p>
+            <sp><p>—¿Se puede gobernar así?</p></sp>
+            <sp><p>—<q>Se puede engañar a parte de la gente todo el tiempo, a toda la gente parte del tiempo, pero no a toda 
+            la gente todo el tiempo</q> —citó <persName ref="#TT">Tony</persName>—. Las computadoras ratifican a Lincoln, 
+            suponiendo que fuera él. Sé que no se puede gobernar así, y sé también que lo venimos haciendo desde hace años.</p></sp>
+            <sp><p>—Me alegra, de alguna manera, saber —dijo <persName ref="#LK">Linda</persName> irónicamente— que todavía 
+            quedan lugares donde se administra contra el consejo de las computadoras.</p></sp>
+            <sp><p>—Somos los descendientes directos del buen salvaje.</p></sp>
+
+            <p>Las luces habían terminado de pasar ante la ventana. Eran las 19:50.</p>
+            <sp><p>—¿Apetito? —preguntó <persName ref="#TT">Tony</persName>.</p></sp>
+            <sp><p>—Ahora no —respondió <persName ref="#LK">Linda</persName>. Se acercó a la ventana y <persName ref="#TT">Tony</persName> 
+            la siguió.</p></sp>
+            
+            <p>Bajo ellos se extendía una inmensa llanura negra, llena de luces: claras y brillantes algunas, mortecinas y 
+            amarillentas otras. Las había que se movían, no con la suavidad de un mecanismo sino con los sobresaltos y 
+            vacilaciones de una inexplicable procesión humana o animal que husmeara, se detuviera y reemprendiera una marcha 
+            que recordaba a las hormigas.</p>
+
+            <p>Más allá, puntitos de luz danzaban sobre el suroeste de la ciudad.</p>
+            <sp><p>—Ahí están los helicópteros —señaló <persName ref="#TT">Tony</persName>. Y como si alguien ¿Linda? ¿Dios? ¿él 
+            mismo? hubiese formulado una pregunta trabajosa y quizás misteriosa, añadió una pregunta:</p>
+            <p>¿Hemos perdido el rumbo, <persName ref="#LK">Linda</persName>?</p></sp>
+            <p><persName ref="#LK">Linda</persName> siguió mirando por la ventana, y su rostro era inexpresivo.</p>
+            <sp><p>—Si lo hemos perdido —dijo, por fin—, ocurrió hace mucho tiempo.</p></sp>
+
+            <sp><p>—El problema ya no es, si alguna vez lo fue, decidir entre ser cruel o compasivo, sino optar entre dos o más 
+            crueldades. Solo así se explica la persistencia de las religiones.</p></sp>
+
+            <sp><p>—Finalmente hemos llegado a la apoteosis del individualismo —dijo <persName ref="#LK">Linda</persName>—, que 
+            consiste en la defensa del individuo concreto. Y el individuo concreto soy yo: no tú, ni mi familia, no mis amantes, 
+            no, por cierto, las ratas. Yo. Entonces se rescata al individuo de la masificación destruyendo a la masa. Si hay demasiada 
+            gente, hay que destruirla para salvar al individuo. A mí. Entonces es mi crueldad contra otras, <persName ref="#TT">Tony</persName>. 
+            Para mi, esa es la crueldad menor. Nuestro mundo tiene que aceptar la plena validez del relativismo. La otra solución, 
+            que es la misma, como un calcetín vuelto del revés, es la del Imperio Asiático: la glorificación de la masa, de la 
+            colectividad; la destrucción del individuo. Pero en aras de ciertos individuos.</p></sp>
+
+            <sp><p>—En el fondo es lo mismo.</p></sp>
+            <sp><p>—Si. Ese es otro de los grandes secretos.</p></sp>
+            <sp><p>—Todos anulamos a la masa: ellos lo dicen, nosotros...</p></sp>
+            <sp><p>—Hay mucho que olvidar para vivir en nuestro mundo.</p></sp>
+
+            <p>En el horizonte brotaron pequeños rayos que surgían del cielo, como lápices ígneos, y se clavaban en la tierra. 
+            Alli, los lápices estallaban en silenciosas llamaradas de un amarillo rojizo, y, a veces, verdoso. <persName ref="#TT">Tony</persName> 
+            observó que, con la mirada fija en ese horizonte donde cien fuegos tendían a unirse en una sola serpiente pegada 
+            al suelo, <persName ref="#LK">Linda</persName> temblaba ligeramente.</p>
+
+            <p>Pasó un brazo sobre el hombro de esta mujer a la que comprendía demasiado bien. Como estudiante, en Europa y 
+            Norteamérica, <persName ref="#TT">Tony</persName> se había embebido en el mundo de <persName ref="#LK">Linda King</persName>, 
+            lo había hecho suyo. Allí no se mataba descaradamente; esos malditos hipócritas podían, todavía, derramar lágrimas 
+            (¡y hasta sinceramente!) por las abominaciones que la mala suerte imponía al tercer mundo. Los cholos, los negros, 
+            los indios, los zambos, los asiáticos, todos se habían transformado, con sencillez abrumadora, en ratas. Darles la 
+            espalda. Olvidarlos. Dejarlos chapalear, más o menos libremente, en su propia obscenidad.</p>
+
+            <p>¿Y mañana?</p>
+            <sp><p>—¿En qué terminará todo esto? —preguntó <persName ref="#TT">Tony</persName> en voz alta.</p></sp>
+            <sp><p>—Lee tu Biblia, hermano —musitó <persName ref="#LK">Linda</persName>—. <q>Muchos serán los llamados, y pocos 
+            los escogidos</q>. ¿Te acuerdas de esa secta del siglo pasado que anunciaba el fin del mundo y que solo unos 
+            cuarenta mil elegidos sobrevivirian?</p></sp>
+            <sp><p>—Hubo tantas.</p></sp>
+            <sp><p>—Hubo y hay. Pero esa secta siempre me pareció la más profética de todas.</p></sp>
+
+            <p>Una línea de fuego iluminaba ahora el horizonte. <persName ref="#TT">Tony</persName> creía sentir el crepitar de 
+            casas y cuerpos, el gemir, el gritar de una humanidad sucia y pervertida que ardía en el fuego purificador del 
+            Directorio.  ¿Dónde estarían los demás directores? En sus casas del sur, algunos repartidos por el país, los demás. 
+            ¿Cenando, jugando al ajedrez electrónico, acariciando a sus hijos y a sus perros? Deberían estar aquí, pensó 
+            <persName ref="#TT">Tony</persName>, con nosotros, viendo su teoría convertida en praxis. Las manos sucias, y los 
+            codos, y el cuello. Ah, sí, deberían estar aquí, o todos deberíamos estar corriendo con las ratas, buscando alguna 
+            covacha de piedra, algún sótano providencial que nos protegiera de la lluvia de fuego de los dioses transnacionales.</p>
+
+            <p><q>¿Estamos pecando contra el plan divino?</q>, se preguntó, retóricamente, <persName ref="#TT">Tony</persName>, mientras 
+            sus manos, prendidas del borde de la ventana, se agarrotaban. Era un bello espectáculo: un lejano mar de llamas, 
+            como una casa de muñecas, o una inmensa, infinita hilera de casas de muñecas incendiadas por una banda de niños 
+            crueles. 20 mil millones de seres humanos, y de ellos 18 mil millones en este tercer mundo hacinado, en el cual 
+            solo la democracia transnacional, y sus instituciones relativistas ponían un simulacro de orden. La nata sobre el 
+            podrido vaso de leche, eso es lo que somos, pensó <persName ref="#LK">Linda King</persName>.</p>
+
+            <p>Los puntitos de luz se movieron ahora, y comenzaron a agrandarse. Pocos segundo después pasaban nuevamente al 
+            frente de la ventana, silenciosos ángeles camuflados con la resplandeciente D, con sus pilotos y tripulantes 
+            extranjeros, mercenarios jóvenes y gallardos que se creaban una posición en el mundo y se retiraban a los 25 años. 
+            Cuando terminaron de pasar, rumbo a sus bases ocultas como nidos de cóndor, la mano temblorosa y sudorosa de 
+            <persName ref="#LK">Linda King</persName> se entrelazó con la suya y lo arrastró hacia la mullida alfombra. 
+            Cayeron a tierra, con fuego detrás de los ojos, y durante varios minutos de tensa angustia, de sensual brutalidad, 
+            desvestidos a medias, se odiaron hasta el orgasmo.</p>
+        
         </div>
+
+        <div type="capitulo">
+            <head type="titulo_capitulo">CINCO</head>
+
+            <sp><p>—No creo que debamos ceder —aseveró <persName ref="#HC">Hermógenes Crucible, director de Asuntos Jurídicos de Epesa</persName>. Los 
+            principales ejecutivos de la empresa se hallaban reunidos, a las diez de otra esplendorosa mañana de enero, en la sala que el día anterior 
+            había recibido por primera vez a <persName ref="#LK">Linda King</persName>. En su carácter de nuevo Director Regional, por Epesa, 
+            <persName ref="#TT">Tony Tréveris</persName> presidía la reunión.</p></sp>
+
+            <sp><p>—Es importante que estemos todos de acuerdo —señaló, entonces, <persName ref="#TT">Tony</persName>—. Los cat-ox se la han tomado 
+            especialmente contra nuestra empresa. Y tengo motivos para sospechar, óiganme bien, digo sospechar, que algunos miembros del Directorio 
+            Regional pudieran flaquear en este punto. Los estimulantes siguen teniendo una carga emocional para ciertas gentes, e inclusive los 
+            Drogadictos Anónimos son un grupo de presión importante en Norteamérica.</p></sp>
+            <sp><p>—Es otra realidad —murmuró <persName ref="#HC">Crucible</persName>, jugando con un anacrónico botón de su anacrónico chaleco.</p></sp>
+
+            <p><persName ref="#LK">Linda King</persName> estaba de pie, mirando por la ventana el increíble azul del océano Pacífico, a diez o doce 
+            kilómetros de distancia, y las pequeñas columnas de humo negro y gris que formaban rayas casi verticales, como barrotes de una prisión 
+            que la separaran del mar.</p>
+
+            <sp><p>—Sí, es otra realidad —repuso <persName ref="#TT">Tony</persName>—. <persName ref="#HC">Hermógenes</persName>, quisiera tener ese 
+            papel listo para la reunión de esta tarde del Directorio Regional. ¿Estará?</p></sp>
+            <sp><p>—Por cierto que sí —contestó <persName ref="#HC">Crucible</persName>—. Está siendo pasado en limpio. Lo dicté, con la eficiencia 
+            que me es característica, entre las nueve y las nueve y treinta de esta mañana, apenas recibí tu llamada.</p></sp>
+            <sp><p>—Me sorprendió que hubieses dormido aquí. No lo sabía. Cuando llamé a <rs ref="#M-J">tu esposa</rs> se sorprendió mucho. Tuve que tranquilizarla, 
+            diciéndole que creía que estabas en tu casa.</p></sp>
+            <sp><p>—<rs ref="#M-J">Mi esposa</rs> y yo —dijo <persName ref="#HC">Crucible</persName>, con una sonrisa un poco abochornada— constituimos una pareja 
+            anticuada. Nos somos fieles.</p></sp>
+            <sp><p>—Es decir, ella te es fiel —dijo <persName ref="#PL">Lamartín</persName>, el hombre de las relaciones públicas, con una sonrisa lujuriosa.</p></sp>
+            <sp><p>—Nos somos fieles —insistió <persName ref="#HC">Crucible</persName>, enrojeciendo—. Consideramos que el sexo es indesligable del amor.</p></sp>
+            <sp><p>—Otro candidato a pasarse a los cat-ox —dijo <persName ref="#PL">Lamartín</persName>.</p></sp>
+            <sp><p>—Bueno, tu vida privada no me interesa —dijo <persName ref="#TT">Tony</persName>, cortando lo que amenazaba convertirse en una discusión 
+            extemporánea—. Lo que sí me interesa es que, con el pretexto de salvar el orden establecido, no nos desintegren Epesa.</p></sp>
+
+            <p><persName ref="#LK">Linda King</persName> abandonó la ventana y fue a sentarse frente a <persName ref="#TT">Tréveris</persName>. Su rostro 
+            era una máscara impenetrable y su desacostumbrado silencio pesaba sobre la reunión.</p>
+
+            <sp><p>—Entonces, si no hay más que tratar, levanto la sesión —dijo <persName ref="#TT">Tony</persName>, y agregó—: Quedo a la espera del 
+            informe de <persName ref="#HC">Crucible</persName>. Un movimiento de pies y de papeles rubricó el fin. Los directores divisionarios salieron 
+            y <persName ref="#LK">Linda</persName> quedó, una vez más, sola con <persName ref="#TT">Tony</persName>.</p></sp>
+
+            <p>Esa mañana habían despertado juntos, a las siete y treinta, con la suave música enlatada que brotaba de algún lugar en el departamento G. 
+            Los espejos-ventana no fueron usados y <rs ref="#TT #LK">ambos</rs> se habían dormido rápida y profundamente. Tan solo en una ocasión —<persName ref="#LK">Linda</persName> 
+            vio en su relojito que eran las dos y treinta—, <rs ref="#LK">la norteamericana</rs> se había despertado, en el ambiente que no le era extraño 
+            porque todos estos recintos eran iguales en el mundo entero, incluyendo (según se afirmaba) el Imperio Asiático</p>
+
+            <p>Apoyada sobre un codo, en una de las camas gemelas que podían unirse pero no habían sido unidas, observó largamente a <persName ref="#TT">Tony 
+            Tréveris</persName>. Por la ventana entraba la luz indirecta de una enorme luna, y el rostro levemente crispado de <persName ref="#TT">Tony</persName> 
+            le había parecido de queso, cadavérico y con sombras negro-verduzcas allí donde las protuberancias creaban irregularidades y asimetrías. 
+            <persName ref="#TT">Tréveris</persName> dormía, no como suelen dormir los hombres —pensó <persName ref="#LK">Linda</persName>—, súbitamente 
+            infantilizados, sino como si las cargas del día anterior, nuevas y viejas, se hubiesen establecido firme y permanentemente en y sobre 
+            <persName ref="#TT">Tony</persName>. ¿Podría yo amar a este hombre?, se preguntó <persName ref="#LK">Linda</persName>, como se lo había 
+            preguntado docenas de veces antes en sus treintidós años. Y, como siempre, la respuesta era una repregunta: ¿para qué? Nada se había consolidado, 
+            ni siquiera durante una adolescencia prácticamente romántica o románticamente práctica vivida con energía y apresuramiento en un elegante suburbio 
+            de Toronto. <persName ref="#LK">Linda</persName> tenía dos años menos que el siglo —que el milenio— y eso a veces le daba la impresión de estar 
+            libre de una carga que parecía pesar sobre los hombros de sus mayores, incluyendo a este simpático sudamericano que hacía bien el amor y se 
+            mordía mentalmente las uñas.</p>
+
+            <p>Alguna vez <persName ref="#LK">Linda King</persName> había estado, sin embargo, enamorada, y justamente de uno de esos muchachos violentos y 
+            heroicos que formaban en los ejércitos voluntarios del mundo. En Africa, en agosto del 2028, había sido derribado sobre esa inmensa ciudad de 
+            400 kilómetros de largo que bordeaba el Nilo desde el Mediterráneo a través del viejo Egipto. Su cadáver nunca fue recuperado: él y el resto 
+            de la tripulación habían sido absorbidos, como si nunca hubiesen existido, por el hormiguero humano que él le había descrito en sus vacaciones. 
+            Había sido menor que ella, y el Directorio Regional de la Nueva Arabia había condescendido a enviarle también a ella un cordial y triste mensaje 
+            de consolación.</p>
+
+            <p><q>Mierda</q>, pensó <persName ref="#LK">Linda King</persName>. <q>Y ahora estoy yo misma pululando en el reino de Hades, en el octavo o milésimo 
+            círculo de un infierno que nos es cada vez más difícil de controlar. La brecha es ahora casi impasable</q>, pensó. <q>Allá todavía hay jardincitos y 
+            niños que comen algodón de azúcar, y crecimiento cero y comodidades que podemos alquilar a millones de trabajadores satisfechos con su semana 
+            de tres días y su televisión coloreada y sensorial. Aquí, quedan islotes que pugnan por imitarnos en un mar hostil, y no solamente hostil, sino 
+            fiero, salvaje, animal.</q></p>
+
+            <p><persName ref="#LK">Linda</persName> se sintió tentada de despertar a <persName ref="#TT">Tony</persName> y gritarle al oído que huyera mientras 
+            estuviera a tiempo, pero calló. <q>Ellos son más fanáticos que nosotros</q>, se dijo. <q>Ellos creen en nuestro sistema más que nosotros mismos: están 
+            inseguros, son una pequeña minoría, están aislados y amenazados; esas son las bases de todo buen fanatismo. No hay tipo más patriota que el 
+            extranjero recién nacionalizado.</q></p>
+
+            <p><q>Si supiera...</q>, pensó <persName ref="#LK">Linda</persName>, mirándolo respirar bajo el reflejo de esa luna abandonada ya, tras unos años de 
+            inútil esfuerzo por establecer en ella colonias permanentes: <q>si supiera que ya hay quienes piensan en mandarlo todo al tacho, en abandonar el 
+            tercer mundo a su estúpida suerte, inclusive en acabar con todo vía bombas N, napalm, láser o una combinación de todo eso y algo más. Si supiera 
+            que ya hay quienes, hasta en el Directorio Supremo o en los silenciosos pasillos de los gigantes tecnotrónicos del hemisferio norte, sueñan con 
+            una incalculable Sodoma-y-Gomorra, con una multiplicación al infinito de ese baño de fuego que ayer desencadenamos sobre unas cuantas manzanas del 
+            valle de Lima. Si conociera, este pobre buen hombre que vive en y para la democracia transnacional, que existe un informe reservado del centro de 
+            computación de California, según el cual ya va siendo hora de reajustar las clavijas, de readaptar los sistemas de administración —que son, claro 
+            está, los sistemas económico-sociales— a una realidad en embrión que él, <persName ref="#TT">Tony Tréveris</persName>, no puede ver porque tiene 
+            la nariz demasiado metida en esa realidad: el surgimiento de una nueva bipolaridad en el mundo, que nada tiene que ver con el Imperio Asiático ni 
+            con la política general, sino con el ciego movimiento de las fuerzas económicas</q>. <q>Ah</q>, se dijo <persName ref="#LK">Linda King</persName>, 
+            mirando <rs ref="#TT">al hombre</rs> que yacía a metro y medio de ella, profundamente dormido, soñando quizás con su <rs ref="#DN">mujer</rs>, o 
+            <rs ref="#MT #CT #FT">sus hijos</rs>, o las ratas que salían de sus guaridas ardiendo como antorchas incomprensivas, <q>si este hombre y los que son como él supieran 
+            —ellos, que se dan el lujo de actuar sin computadoras políticas— que ya existía ese informe acerca de la formación de nuevas burguesías, en un 
+            nuevo mundo, que ellos mismos habían contribuido a crear separándolo y aislándolo, allá en esas profundidades que ellos, despectivamente (y sin 
+            razón alguna, como pronto descubrirían) adjudicaban a las ratas.</q> Sí, un nuevo mundo, una <hi rend="cursiva">terra</hi> incógnita, por ahora, pero en la cual las 
+            pequeñas artesanías se unsan para formar medianas fábricas, en la cual los traficantes, intermediarios, contrabandistas y encubridores se 
+            convertían en comerciantes, en una capa digna y respetable que ya pagaba a sus propias y clandestinas fuerzas policiales. Sí, lo sabían, 
+            <persName ref="#LK">Linda</persName> estaba segura, pero no sacaban las necesarias consecuencias: las computadoras sí lo habían hecho.</p>
+
+            <p>Aisladas del mundo oficial, separadas por las grandes empresas internacionales del mercado mundial, estas oscuras fuerzas y capas se 
+            dedicaban, furiosamente, a una nueva acumulación primitiva. Nacían clases sociales que eran, a la vez, nuevas y viejas, y nacían —como 
+            había ocurrido en la revolución industrial, doscientos y más años atrás— rezumando sangre y lodo por todos los poros. El crimen se vestía 
+            de gala, asumía formas todavía clandestinas de legalidad, así como, en su momento, la vieja burguesía había nacido en el vientre del 
+            feudalismo hasta que, cuando llegó el momento del parto, no había hecho sino asumir el poder politico gracias a que ya contaba con el 
+            poder económico.</p>
+
+            <p>Y después, un hiato, una interrupción, un aborto histórico: el proletariado debía tomar el poder, según los estudiosos, pero no lo había 
+            podido o querido tomar. Pocos pudieron explicárselo entonces, y sin embargo, la razón, muy sencilla, era parte de esas mismas teorías que lo 
+            propugnaban. Se había intentado poner de cabeza el desarrollo histórico: tomar el poder político para luego modificar la estructura económica. 
+            El resto de ese antinatural intento era la sangrienta broma llamada Imperio Asiático. <q>El poder proletario</q>, recordó 
+            <persName ref="#LK">Linda</persName> de sus clases de historia social, <q>fue un sueño que se destruyó a sí mismo, que nació muerto, porque 
+            ningún sector social toma el poder político sin antes dominar las relaciones económicas. Y luego, claro, fracasado el internacionalismo 
+            proletario cuando el internacionalismo era una necesidad, el vacío había sido ocupado por el internacionalismo de una superburguesía, de ese 
+            supercapitalismo tecnotrónico y transnacional que, este probablemente sí</q> —aquí <persName ref="#LK">Linda</persName> sonrió—, <q>era la 
+            “última y superior etapa del capitalismo”</q>. El viejo imperialismo, el que analizara Lenin, y aun el de la segunda mitad del siglo XX, no 
+            habían sido sino tímidos ensayos para el triunfo total de un sistema que de ninguna manera se había agotado a sí mismo, y que, gracias a ser 
+            el primero en dominar no solamente el trabajo de los hombres, sino también sus mentes y su tiempo libre, se sobreviviría perpetuamente. Con 
+            cambios, sí, porque el sistema era inestable como todo lo humano, y precisamente por esa inestabilidad era inderrocable.</p>
+
+            <p><q>¿Inderrocable?</q>, se preguntó <persName ref="#LK">Linda</persName>, viendo cómo la luz de la luna abandonaba el rostro de 
+            <persName ref="#TT">Tony</persName> y reptaba por la alfombra. El Titanic había sido inhundible, al menos hasta que desapareció bajo las 
+            aguas. No, probablemente nunca habría un sistema inderrocable, pero la ventaja de este monstruoso y flexible capitalismo era que sus 
+            posibilidades de adaptación eran casi infinitas. ¿No había aceptado e implementado, acaso, la destrucción de la antigua libre empresa y la 
+            implantación de la planificación, gracias a la fusión total de economía y política? ¿No era esto una herejía? Y, sin embargo, aquí estábamos, 
+            herejes pero vivitos y coleando. Propiedad de todo el pueblo, propiedad de parte del pueblo, propiedad del estado, propiedad de un millón 
+            de accionistas. ¿Qué importaba eso, al final de cuentas, si lo que hacía la diferencia era la gestión, la administración, la toma de 
+            decisiones? Ella, <persName ref="#LK">Linda King</persName>, tenía unas cuantas acciones de Stimudrinks, por cierto, pero en el fondo eso 
+            tenía muy poca importancia. También tenía acciones su madre, en Toronto, pero a <rs ref="#LK">ella</rs> le bastaba cobrar sus dividendos 
+            dos veces al año, delegar el ridículo poder que eso le daba, y seguir viendo la serie <hi rend="cursiva">Amor Lesbiano</hi> en la televisión.</p>
+
+            <p><persName ref="#LK">Linda King</persName> suspiró y su cabeza volvió a posarse en la fresca almohada: se había dormido hasta que un cielo 
+            muy azul la había despertado, y su primer movimiento también había desvelado a <persName ref="#TT">Tony</persName>.</p>
+
+            <sp><p>—Buenos días —le dijo <rs ref="#LK">ella</rs>.</p></sp>
+            <sp><p>—Días —murmuró <rs ref="#TT">él</rs>. Miró hacia la ventana—. Dos días seguidos casi sin bruma. Grandes sucesos se avecinan, me imagino.</p></sp>
+
+            <p><rs ref="#LK">Ella</rs> sonrió y se levantó. <persName ref="#TT">Él</persName> vio su magnífica espalda desnuda, la esbelta figura con la 
+            trenza que llegaba al nacimiento de las redondas nalgas, y la deseó violentamente. <rs ref="#LK">Ella</rs>, como si lo supiera, volteó a 
+            sonreírle. Se acercó y se sentó en la cama de <rs ref="#TT">él</rs>, descubriéndolo. Guiñó un ojo al erecto pene de <persName ref="#TT">Tony</persName> 
+            y le dio un juguetón papirotazo.</p>
+
+            <sp><p>—Descanso, joven amigo —ordenó.</p></sp>
+            <p>El joven amigo, como era de esperar, no hizo caso y continuó desafiando al mundo.</p>
+            
+            <p>—El desayuno primero —añadió <rs ref="#LK">ella</rs>, y volvió a cubrir el vientre de <persName ref="#TT">Tony</persName>. Él sonrió 
+            complacido a su propia erección que ahora formaba una carpa. Extendió la mano, apretó un botón, y ordenó rápidamente, tras consultar 
+            con <persName ref="#LK">Linda</persName>, un desayuno de jugos, café, huevos revueltos con tocino y pan.</p>
+
+            <p>Solos otra vez, en la sala de sesiones, <persName ref="#TT">Tony</persName> y <persName ref="#LK">Linda</persName> se miraron a los 
+            rostros, y algo que vieron en los ojos del otro los hicieron apartar los propios.</p>
+            <sp><p>—Habrá que esperar el informe de <persName ref="#HC">Crucible</persName> —dijo <persName ref="#TT">Tony</persName>.</p></sp>
+
+            <p>El pesado silencio —el silencio de quienes se encuentran, de pronto, ante la necesidad de tomar una decisión trascendental y se 
+            descubren incapaces de hacerlo— fue interrumpido por el <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi>. Llamaba <persName ref="#GM">Miranda</persName>, desde la sede del Directorio Regional.</p>
+
+            <sp><p>—Buenos días, <persName ref="#TT">Tréveris</persName>. Hola, <persName ref="#LK">Miss King</persName> —añadió, al divisarla al 
+            fondo—. Les comunico que acabamos de recibir un mensaje del Sínodo, firmado por un tal <persName ref="#CN">Cardenal Negro</persName> (me 
+            foquean estos nombres de conspiradores de televisión). Están dispuestos a venir a hablar con nosotros.</p></sp>
+            <sp><p>—Excelente —dijo <persName ref="#TT">Tréveris</persName>, por responder algo.</p></sp>
+            <sp><p>—Sí —dijo <persName ref="#GM">Miranda</persName>—. Dejé más o menos claro, espero, que son ellos los que nos están pidiendo audiencia. 
+            No es que haga una gran diferencia, pero un sujeto que se apoda <persName ref="#CN">Cardenal Negro</persName> debe ser sensible a las 
+            finezas del protocolo, je, je. Bueno, pues, este cardenal, sea cual fuere su color, estará para la reunión de las cinco.</p></sp>
+            <sp><p>—Bien —dijo <persName ref="#LK">Linda</persName>, acercándose—. Esto está muy bien. Será una excelente ocasión para exponer los 
+            intereses de Stimudrink. Y propongo que <rs ref="#LK">la que habla</rs> esté ausente</p></sp>
+            <sp><p>—Por qué? —intervino <persName ref="#TT">Tony</persName>.</p></sp>
+            <sp><p>—Oh, yo creo que es mejor así. Estos fanáticos suelen ponerse histéricos al ver gringos. Lamentable pero inevitable herencia de 
+            tres siglos de nacionalismo. Que sea un asunto puramente regional.</p></sp>
+            <sp><p>—Vamos, <persName ref="#LK">Miss King</persName> —aseguró <persName ref="#GM">Miranda</persName>—. Esas son sutilezas que se 
+            perderán entre esos imbéciles.</p></sp>
+            <sp><p>—Pues que se pierdan, pero que no se arruine una lejana posibilidad de pacificación por un alarde inútil de "dependencia externa". 
+            Usted sabe que yo no me puedo quedar callada. Asuman ustedes la máxima autonomía y autoridad posible ante los cat-ox. Eso solía llamarse 
+            "no ingerencia en asuntos internos".</p></sp>
+            <sp><p>—Quizá no sea mala idea, <persName ref="#GM">Gabriel</persName> —dijo <persName ref="#TT">Tony</persName>.</p></sp>
+            <sp><p>—Bueno, hagan lo que quieran. Es su negocio. Entonces, te veré a las 17, <persName ref="#TT">Tony</persName>. Adiós, 
+            <persName ref="#LK">Miss King</persName>.</p></sp>
+            <sp><p>—Aprovecharé para darme una escapada y comprar algunas cositas. ¿Qué es de tu secretaria? ¿Podría acompañarme? 
+            <persName ref="#TT">Tony</persName> hizo un cambio en el <hi rend="cursiva"><foreign xml:lang="en">scanner</foreign></hi>.</p></sp>
+            <sp><p>—<persName ref="#MF">Señorita Ferrari</persName> —llamó.</p></sp>
+
+            <p>El rostro hermoso y un poco ojeroso de <persName ref="#MF">Marina</persName>, apareció.</p>
+            <sp><p>—Buenos días, <persName ref="#TT">señor Tréveris</persName> —saludó—. Le ruego disculpe mi tardanza. El helicóptero 
+            tuvo que dar un rodeo enorme para llegar aquí. Anoche..</p></sp>
+            <sp><p>—No me había dado cuenta de la tardanza. La honestidad te pierde.</p></sp>
+            <sp><p>—Fue atroz lo de anoche en Miraflores. Parece un pedazo de la luna, pero negro.</p></sp>
+            <sp><p>—Todo está bajo control y en vías de solución. Dime, ¿te gustaría acompañar a la <persName ref="#LK">señorita King</persName> esta tarde?</p></sp>
+            <sp><p>—Ah, buenos días, <persName ref="#LK">señorita King</persName> —dijo <persName ref="#MF">Marina</persName>, al entrar 
+            <persName ref="#LK">Linda</persName> a su imagen—. Por cierto que me gustaría. Todo lo que sea un cambio de rutina...</p></sp>
+            <sp><p>—Bien, avisa a la guardia que...</p></sp>
+            <sp><p>—No, no —interrumpió <persName ref="#LK">Linda</persName>—. No quiero tener a diez idiotas uniformados siguiéndome al tocador de señoras.</p></sp>
+            <sp><p>—Pero, <persName ref="#LK">Linda</persName> —dijo <persName ref="#TT">Tony</persName>— no pretenderás que dos mujeres solas, 
+            de tu condición...</p></sp>
+            <sp><p>—Bah, no voy a ir a los barrios bajos. Voy de compras, con la amable guía de <rs ref="#MF">la señorita</rs>... ¿cómo es?</p></sp>
+            <sp><p>—<persName ref="#MF">Ferrari —dijo ella—. Marina</persName>, por favor.</p></sp>
+            <sp><p>—Bien, con <persName ref="#MF">Marina</persName>, y durante un par de horas no queremos ver a ningún hombre a menos de cincuenta 
+            metros de distancia si es posible. Solo un par de horas, naturalmente.</p></sp>
+            <sp><p>—Podemos ir al centro comercial de Pucusana —dijo <persName ref="#MF">Marina</persName>—. Yo vivo allí, es un sitio tranquilo, bien 
+            servido. ¿Qué anda buscando en especial?</p></sp>
+            <sp><p>—Oh, algo de ropa típica de la región, algunas cosas que interesan a las mujeres, en fin... Maldita sea, no todo puede ser trabajo 
+            en este maldito viaje</p></sp>
+            <sp><p>—No hay problema —dijo <persName ref="#MF">Marina</persName>.</p></sp>
+            <sp><p>—Pero yo quiero que acompañes a <persName ref="#LK">Linda</persName> de regreso —dijo <persName ref="#TT">Tony</persName>.</p></sp>
+            <sp><p>—Por Dios, <persName ref="#TT">Tony Tréveris</persName> —dijo <persName ref="#LK">King</persName>—, Pareces un papá del siglo pasado. 
+            Entretanto hemos tenido una presidenta de los Estados Unidos, y eso significa que las mujeres ya sabemos hacer pila solas. Basta que me 
+            mandes ese pequeño helicóptero tuyo a las 19 horas y listo. Mejor a las veinte. No me gusta que me pongan nerviosa cuando estoy escogiendo 
+            mis calzones.</p></sp>
+            <sp><p>—Bien. Quedamos en salir juntas a las 16 —terminó <persName ref="#MF">Marina Ferrari</persName>—. ¿Algo más, 
+            <persName ref="#TT">señor Tréveris</persName>?</p></sp>
+            <sp><p>—Nada, <persName ref="#MF">señorita Ferrari</persName>. Ponte otra capa de esmalte en las uñas.</p></sp>
+
+            <p>La imagen se desvaneció y <rs ref="#TT #LK">ambos</rs> quedaron con la mirada fija en la opaca superficie por dos o tres segundos más de los necesarios. ¿Qué 
+            ocurre?, se preguntaron, internamente, y la respuesta les pareció abrumadora e inaceptable. Una cosa era el sexo y otra enamorarse, por 
+            cierto. A la humanidad le había costado enormidades aceptar ese simple hecho natural. La maravilla de maravillas era, por supuesto, la 
+            combinación de ambas cosas, pero también era maravilloso ganar en la lotería universal, ese divertido juego que consistía en comprar un 
+            billete con unas cifras coincidentes con las que un robot humanoide extraía de un ánfora: la única aplicacion practica que —pese a Isaac 
+            Asimov <ref xml:id="ref12" target="#nota12">(12)</ref> y otros célebres autores del siglo anterior— se había hallado para los robots que imitaban la forma humana. Con la notable excepción, 
+            claro, de los sexorrobots, pero esos no solían aparecer en el visodiario. Por lo demás los sexorrobots, que no eran sino una versión mejorada 
+            de de las muñecas sexuales que aparecieron en los años sesenta y setenta, ilustraban a la perfección el carácter plenamente autónomo del 
+            sexo. Autónomo de amor y, mucho antes, de la reproducción. Que la gente aprendiera a aceptar su propio cuerpo, tras la larga indigestión 
+            occidental del judeo-cristianismo tradicional (más la indiferencia más o menos forzosa en el oriente), no había sido fácil, y solo tuvo 
+            bases sólidas tras la revolución de los antinconceptivos y el consiguiente influjo del feminismo. Y pese a todos los vaticinios pesimistas 
+            de una generación de hombres asustados, estos y las mujeres no habían dejado de copular.</p>
+
+            <p>Pero el amor era otra cosa. Ligado al sexo, como antes, lo trascendía verdaderamente al dejar de ser zarandeado como excusa para el 
+            coito. Ahora la gente podía amarse (y no solamente los hombres a las mujeres y viceversa, sino también los hombres y las mujeres entre sí), 
+            porque la extensión cada vez mayor de la bisexualidad y de la homosexualidad había tenido, entre otras consecuencias, la de una ampliación 
+            igual de la capacidad amorosas. Sexo y amor eran, ahora, vías paralelas que a veces se juntaban, y resultaba difícil comprender que alguna 
+            vez no hubiese sido así. Uno o una se enamoraba, entonces, y el sexo —siempre presente, aun entre parientes y amigos que se amaban, porque 
+            también el tabú del incesto se desintegraba—, era más o menos importante en cada caso, pero de ninguna manera era el factor determinante. 
+            Es más: la sexualidad, masculina y femenina, esencialmente múltiple y polimorfa, podía desvanecerse, abarcar a otras personas (como el amor, 
+            autónomos ambos) o ampliarse, igual que antes pero ahora a plena luz y con plena aceptación social.</p>
+
+            <p>Enamorarse ahora, pensó <persName ref="#TT">Tony</persName>, era un problema, y no por <persName ref="#DN">Doris</persName> o los <rs ref="#MT #CT #FT">niños</rs> 
+            (la actitud al respecto era libertaria y ello mismo disminuía apreciablemente el antiguo sufrimiento: no había, en casos normales, "abandono", 
+            y nadie consideraba que amar a una nueva persona significase necesariamente dejar de amar a la anterior), sino porque <persName ref="#LK">Linda 
+            King</persName> no iba a quedarse en Lima ni él tendría una razón comercial para irse al territorio norteamericano.</p>
+
+            <p>El problema era, pues, estratégico y no táctico. No había ningún motivo, pensó <persName ref="#TT">Tony</persName>, para que 
+            <persName ref="#LK">Linda</persName> cediese por ser mujer —el pensamiento no dejó de provocarle cierta envidia reaccionaria— y, en todo caso, 
+            sería él, como subordinado en la empresa, quien podría perfectamente ser enviado al Directorio Supremo: para ser precisos, a la seguramente 
+            encantadora Mobile, Alabama.</p> 
+            
+            <p>¿Llevaría también a <persName ref="#DN">Doris</persName> y a los <rs ref="#MT #CT #FT">niños</rs>? Si, claro, así tendría que ser. 
+            <persName ref="#LK">Linda King</persName> sería la última en oponerse. ¿Amaba todavía a <persName ref="#DN">Doris</persName>? En cierta forma 
+            rutinaria, sí. Pero además adoraba a los <rs ref="#MT #CT #FT">niños</rs>. <persName ref="#LK">Linda</persName> no tenía cara de desear hijos 
+            propios. Bien, <persName ref="#TT">Tony Tréveris</persName> ingresaría a la ya multitudinaria cofradía de las personas que convivsan en 
+            triángulos, cuadrángulos o, como se decía a partir de cinco, comunas. Esto no lo entendería una vieja tortuga como <persName ref="#HC">Hermógenes 
+            Crucible</persName>, pero ¿a quién le importa lo que piense un hombre que usa chaleco?</p>
+
+            <sp><p>—<persName ref="#LK">Linda</persName>. —comenzó, mirándola a los ojos.</p></sp>
+            <sp><p>—Sí.</p></sp>
+            <sp><p>—He estado pensando...</p></sp>
+            <sp><p>—¿Sí?</p></sp>
+
+            <p><persName ref="#TT">Tony</persName> se mordió una uña, ante la mirada divertida de <persName ref="#LK">Linda</persName>, que gozaba de cada 
+            segundo en esta escena.</p>
+
+            <sp><p>—¿Tú crees que uno pueda enamorarse de alguien a quien conoce menos de 24 horas?</p></sp>
+            <sp><p>—Bueno —repuso <persName ref="#LK">Linda</persName>, con la atención clavada en sus propias uñas, en una de las cuales descubrió una mota 
+            de polvo, o lo que fuese—, la literatura ha estado viviendo de cosas así durante siglos.</p></sp>
+
+            <p>Una súbita timidez pareció, de pronto, invadir a <rs ref="#TT #LK">ambos</rs>. Comprendieron, sin expresarlo, que la liberalización del sexo 
+            había hecho mucho más precioso al amor. Se podía copular fácilmente: amar era una auténtica, libre responsabilidad, especialmente desde el momento 
+            en que —!la superestructura enloquecida!—, librado de la noción de exclusividad y por tanto de los celos, podía asumir plenamente una espiritualidad 
+            que en siglos anteriores había sido cantada obsesivamente debido a su ausencia.</p>
+
+            <sp><p>—Salgamos —dijo <persName ref="#LK">Linda</persName>, y le cogió de la mano.</p></sp>
+            <sp><p>—¿Dónde vamos? —preguntó <persName ref="#TT">Tony</persName>, dejándose llevar.</p></sp>
+            <sp><p>—Quiero conocer mejor tu ciudad.</p></sp>
+            <sp><p>—Es una porquería.</p></sp>
+            <sp><p>—Ya lo sé. Pero es tu porquería.</p></sp>
+
+            <p>Bajaron hasta la planta inferior y salieron al gran patio y luego cruzaron las rejas ante la vista de los asombrados guardianes.</p>
+
+            <sp><p>—Señor Tréveris —se acercó uno de ellos—. ¿Desea usted una guardia personal?</p></sp>
+            <sp><p>—No, está bien así.</p></sp>
+            <sp><p>—Pero, señor..</p></sp>
+
+            <p><persName ref="#TT">Tony</persName>, sintiéndose ligero e irresponsable al lado de <persName ref="#LK">Linda</persName>, cuya túnica 
+            celeste flotaba en el suave y caliente viento, hizo un gesto con la mano y el guardia volvió a su puesto.</p>
+
+            <sp><p>—!Al hell con todos! —exclamó <persName ref="#LK">Linda</persName>—. No se puede vivir prisionero toda la vida. Seremos como esos 
+            reyes de los antiguos cuentos, que se disfrazaban de mendigos para mezclarse con el pueblo.</p></sp>
+            <sp><p>—No estamos disfrazados —atinó a decir <persName ref="#TT">Tony</persName>, sin interrumpir su marcha por las calles vacías de 
+            transeúntes, rumbo al río.</p></sp>
+            <sp><p>—Ven, vamos a los bajos fondos, a bailar un tango apache.</p></sp>
+            <sp><p>—¿Un qué? —preguntó <rs ref="TT">él</rs>.</p></sp>
+            <sp><p>Un baile obseno, pecaminoso, propio de mujeres perdidas y rufianes</p></sp>
+            <sp><p>—Por Dios —dijo <rs ref="TT">él</rs>—. Todas las canadienses son así?</p></sp>
+            <sp><p>—Gracias por acordarte de mi patria muerta —respondió <rs ref="#LK">ella</rs> alegremente—; gracias, querido peruano.</p></sp>
+
+            <p>El sol caía ahora sobre ellos casi verticalmente, mientras rodeaban agujeros y resquebrajaduras en el viejo pavimento, ante la ocasional 
+            mirada asombrada de los pasajeros en los pocos automóviles que flotaban velozmente a su lado. Llegaron al Rímac. Se inclinaron sobre la 
+            baranda a mirar el agua barrosa del verano, y la mano de <persName ref="#TT">Tony</persName> se posó sobre la de <persName ref="#LK">Linda</persName>.</p>
+
+            <sp><p>—Sí —dijo <rs ref="#LK">ella</rs>, y respondió a la presión.</p></sp>
+            <sp><p>—Espera —dijo <rs ref="#TT">él</rs>—. Voy a pedir el auto, y cruzaremos al otro lado.</p></sp>
+            <sp><p>—Si te parece.</p></sp>
+            <sp><p>-Sí. A pie y sin guardia no duraríamos cien metros en esa zona.</p></sp>
+
+            <p>Extrajo el <hi rend="cursiva">mini-scanner</hi> del bolsillo derecho de su ligera chaqueta e hizo la llamada. En la pantalla de tres 
+            centímetros apareció la central de Epesa.</p>
+
+            <sp><p>—Aquí Tréveris —habló <persName ref="#TT">Tony</persName> al aparatito—. Estoy en el malecón del Rímac, esquina de la calle... a ver... Trujillo. 
+            Hágame el favor de disponer que me envíen mi auto.</p></sp>
+            <sp><p>—De inmediato, <persName ref="#TT">señor Tréveris</persName> —dijo la vocecita metálica en su mini-scanner.</p></sp>
+
+            <p><persName ref="#TT">Tony</persName> lo guardó y esperaron, mirando esa otra orilla silenciosa y vacía donde comenzaba el viejo Centro 
+            de Lima, ese trozo de historia desintegrada donde, en 1535, un ex-porquerizo español había fundado una ciudad sobre la tierra de los 
+            marangas. Todo parecía deshabitado, irritantemente muerto bajo el ardiente y despiadado sol.</p>
+
+
+            <p>El <objectName ref="#GemE">GemElectric</objectName> se detuvo a su lado, seguido de un pequeño vehículo bipersonal del servicio. El 
+            guardia que guiaba el coche de <persName ref="#TT">Tony</persName> saludó, entregó las llaves, subió al otro vehículo y desapareció. 
+            <persName ref="#LK">Linda</persName> y <persName ref="#TT">Tony</persName> abordaron el <objectName ref="#GemE">GemElectric</objectName>, 
+            que volvió a elevarse ligeramente sobre la pista y enrumbó hacia el puente.</p>
+            
+            <p>—<persName ref="#LK">Linda</persName>, te presento a la vieja Lima —dijo <persName ref="#TT">Tony</persName> cuando dejaron el puente 
+            y pasaron por la Plaza de Armas, inmediata al río—. Lima, esta es <persName ref="#LK">Linda King</persName>.</p>
+
+            <p><rs ref="#LK">Esta</rs> inclinó graciosamente la cabeza.</p>
+
+            <p>—Antes la plaza no daba al río —explicó <persName ref="#TT">Tony</persName>—. Entre ambos estaba el palacio del gobierno nacional. 
+            Luego se amplió el cauce para recibir el agua suplementaria del río Mantaro, que antes estaba en la vertiente oriental de los Andes. 
+            Esa es una de las bocas del metro, del ferrocarril subterráneo que nunca se llegó a concluir.</p>
+
+            <p>El negro agujero en un pequeño bunker estaba cerrado por un portón de madera desvencijada.</p>
+
+            <sp><p>—Miles viven en esos túneles por los que jamás llegó a pasar un tren.</p></sp>
+
+            <p><persName ref="#LK">Linda</persName> sacudió su trenza.</p>
+
+            <sp><p>—¡Qué despilfarro! —exclamó.</p></sp>
+            <sp><p>—Cuanto más pobre un país, mayor el despilfarro —dijo <persName ref="#TT">Tony</persName>—. Y, a propósito, ¿esa trenza es 
+            natural?</p></sp>
+
+            <p><persName ref="#LK">Linda</persName> rió.</p>
+
+            <sp><p>—¿Tú qué crees?</p></sp>
+            <sp><p>—Que sí.</p></sp>
+            <sp><p>—Hubiera preferido no saberlo.</p></sp>
+            <sp><p>—Yo respondo a todas las preguntas. ¿Crees realmente que una asesora tendría tiempo de estar cuidando una trenza natural y 
+            además querría condenarse a un solo peinado toda su vida?</p></sp>
+            <sp><p>—No sé.</p></sp>
+            <sp><p>—Sugongo que acabo de destruir otra ilusión masculina.</p></sp>
+            <sp><p>—¿Por qué "otra"?</p></sp>
+            <sp><p>—El no haber sido virgen cuando me conociste.</p></sp>
+
+            <p><persName ref="#TT">Tony</persName> estalló en una carcajada que coincidió con la de <rs ref="#LK">ella</rs>.</p>
+
+            <sp><p>—Hoy es tu día medieval, ¿verdad? —preguntó al fin.</p></sp>
+            <sp><p>—Así me pongo cuando me enamoro.</p></sp>
+
+            <p><persName ref="#TT">Tony</persName> la miró. Detuvo el coche. La abrazó lenta, decididamente y ambos se besaron largamente. Iba 
+            a decir algo que seguramente habría sido conmovedor, cuando su mirada quedó paralizada en la esquina más próxima, a menos de 20 metros 
+            de distancia.</p>
+
+            <p>Por la calle, a pleno sol del mediodía, avanzaba una horrible procesión: bajo una tosca cruz de madera, se arrastraban hacia ellos 
+            decenas, quizás centenas de niños lisiados, pálidos y sucios, murmurando una jerga incomprensible. Los ojos de <persName ref="#TT">Tony</persName> 
+            y de <persName ref="#LK">Linda</persName> reflejaron el horror de esas criaturas débiles y harapientas, guiadas por un sacerdote de 
+            hábito negro, que les hacta avanzar restallando un látigo que se cebaba en las espaldas de los niños y niñas más cercanos a él.</p>
+
+            <p><persName ref="#TT">Tony Tréveris</persName> y <persName ref="#LK">Linda King</persName> volvieron a la realidad.</p>
+        </div>
+
+        <div type="capitulo">
+    
+            <head type="titulo_capitulo">SEIS</head>
+
+           <sp><p>—¿Quiénes son? —murmuró <persName ref="#LK">Linda</persName>.</p></sp>
+           <sp><p>—Una cosa es saberlo, otra verlo —respondió, también en un murmullo, <persName ref="#TT">Tony</persName>—. Son los flagelantes.</p></sp>
+           <sp><p>—Pero.</p></sp>
+           <sp><p>—Pertenecen a la secta de los culteranos, que algunos consideran una especie de tropa de choque de los cat-ox, pero no lo 
+           sabemos con exactitud.</p></sp>
+
+           <p>La horrenda caravana comenzó a pasar al lado del coche detenido. Los seis o siete niños que cargaban la cruz, de un material indefinible 
+           pero a todas luces pesado, se arrastraron al lado de <persName ref="#TT">Tony</persName> y <persName ref="#LK">Linda</persName>, moviendo 
+           constantemente los labios resecos y emitiendo el cántico cuyo significado no se podía comprender y quizás no existía. Tras ellos venía el 
+           sacerdote, un hombre grueso, alto, de piel cenicienta y ojos fanatizados, y que dirigió apenas una mirada hostil al Gemelectric y a sus 
+           ocupantes. Luego venían más y más niños, algunos con primitivas muletas, otros con vendajes sucios y amarillentos de sangre y pus, pero todos 
+           con heridas, llagas o deformidades. El chirriante ruido que producía la base de la gran cruz al ser arrastrada continuó oyéndose cuando ya esta 
+           se hallaba a más de cien metros de distancia. Continuaban pasando los flagelantes, toda una multitud compuesta exclusivamente por niños de 
+           mirada vaga y movimientos mecánicos, siempre igua¬</p>
+
+           <sp><p>—Van drogados —dijo <persName ref="#TT">Tony</persName>.</p></sp>
+           <sp><p>—Me dijeron: hay que tener estómago para ir al Tercer Mundo. Es cierto —dijo <persName ref="#LK">Linda</persName>.</p></sp>
+           <sp><p>—Creen que toda enfermedad, que toda deformidad, es signo de pecado y maldad. Sus predicadores afirman que la obra de Jesucristo ha 
+           sido anulada ya por los pecados del hombre, y que esta es, en efecto, Sodoma y Gomorra, un purgatorio que merece el fuego y el látigo 
+           divinos. Dicen que solamente un sufrimiento insoportable y duradero puede mover a Dios, quizás, a enviar nuevamente a su hijo a este 
+           valle de torturas que nos hemos fabricado.</p></sp>
+            <sp><p>—Pero, ¿los niños? —preguntó <persName ref="#LK">Linda</persName>, cuando ya pasaban los últimos, arrastrando los pies descalzos 
+            por el ardiente pavimento quebrado, aparentemente indiferentes y ciegos.</p></sp>
+            <sp><p>—Los drogan —respondió <persName ref="#TT">Tony</persName>—. En eso consiste la única misericordia a que los hombres pueden atreverse.</p></sp>
+            <sp><p>—Parece una secta financiada por Stimudrinks.</p></sp>
+            <sp><p>—El cinismo no te queda bien —respondió secamente <persName ref="#TT">Tony</persName>.</p></sp>
+
+            <p>Escuchaban aún el lejano chirrido de la cruz que jamás se detenía, y el murmullo informe, y el arrastrarse de los pies que sonaba como 
+            una succión y un débil aplauso, con lo que contrastaba el ocasional restallar del látigo.</p>
+
+
+
+
+
+</div>
         
         <div type="notas"> <!--Notas del editor-->
 
@@ -1350,39 +2119,40 @@
             <note type="editor" xml:id="nota6" target="#ref6">6. <hi rend="cursiva">Francisco Pizarro</hi>: Conquistador español y fundador de la "Ciudad de los Reyes", actualmente Lima.</note>
             <note type="editor" xml:id="nota7" target="#ref7">7. La lectura de M incluye el fragmento "en inglés" que no se encuentra en la lectura de EP.</note>
             <note type="editor" xml:id="nota8" target="#ref8">8. Optó por la lectura de EP "si no" en lugar de "sino" de M por su concordancia gramatical.</note>
-            <note type="editor" xml:id="nota9" target="#ref9">9. Escándalo de espionaje político que involucró al presidente Nixon en el robo de documentos en la sede del Comité Nacional del Partido Demócrata de Estados Unidos</note>
-            <note type="editor" xml:id="nota10" target="#ref10">10. Caso de antisemitismo en el que se falsifican pruebas y se acusa de espionaje al capitán judío-alsaciano Alfred Dreyfus</note>
-            <note type="editor" xml:id="nota11" target="#ref11">11.<hi rend="cursiva" ref="https://www.imdb.com/title/tt0062622/?ref_%253Dnv_sr_srsg_0=&ref_=ext_shr_lnk">2001: A Space Odyssey</hi>: Peícua de ciencia ficción de 1968 </note>
+            <note type="editor" xml:id="nota9" target="#ref9">9. Escándalo de espionaje político que involucró al presidente Nixon en el robo de documentos en la sede del Comité Nacional del Partido Demócrata de Estados Unidos.</note>
+            <note type="editor" xml:id="nota10" target="#ref10">10. Caso de antisemitismo en el que se falsifican pruebas y se acusa de espionaje al capitán judío-alsaciano Alfred Dreyfus.</note>
+            <note type="editor" xml:id="nota11" target="#ref11">11. <hi rend="cursiva">2001: A Space Odyssey</hi> (1968): Película de ciencia ficción que aborda la evolución humana en relación a la inteligancia artificial.</note>
+            <note type="editor" xml:id="nota12" target="#ref12">12. <hi rend="cursiva">Isaac Asimov</hi>: Autor judeo-ruso de ciencia ficción y divulgación científica, quien creó las tres leyes de la robótica</note>
 
         </div>
 
         <div type="listas">
             <listPerson type="personajes">
                 <person xml:id="TT">
-                    <persName type="personaje"><forename>Tony</forename> <surname type="linked">Tréveris</surname></persName>
-                    <affiliation><occupation>ejecutivo</occupation> de <orgName ref="#Ep">Epesa</orgName></affiliation>
+                    <persName type="personaje"><forename>Antonio</forename> <addName type="nickname">Tony</addName> <surname type="linked">Tréveris</surname></persName>
+                    <affiliation>ejecutivo de <orgName ref="#Ep">Epesa</orgName></affiliation>
                     <age value="40"/>
                 </person>
  
                 <person xml:id="HC">
                     <persName type="personaje"><state ref="#SCHOL" type="status"><label>doctor</label></state> <forename>Hermógenes</forename> <surname type="linked">Crucible</surname></persName>
-                    <affiliation><occupation>Asesor legal</occupation> de su Dirección ejecutiva de <orgName ref="#Ep">Epesa</orgName></affiliation>
+                    <affiliation>Asesor legal de la Dirección ejecutiva de Asunto Jurídicos de <orgName ref="#Ep">Epesa</orgName></affiliation>
                 </person>
 
                 <person xml:id="LK">
                     <persName type="personaje"><forename>Linda</forename> <surname>King</surname></persName>
                     <state ref="#SCHOL" type="status"><label><affiliation><hi rend="cursiva"><foreign xml:lang="en">Master of Communications</foreign></hi> de la <orgName type="universidad" ref="https://www.columbia.edu/">Universidad de Columbia</orgName></affiliation></label></state>
-                    <affiliation><occupation>Asesora</occupation> de <orgName type="empresa" ref="#Sti">Stimudrinks</orgName> encargada de Latinoamérica</affiliation>
+                    <affiliation>Asesora de <orgName type="empresa" ref="#Sti">Stimudrinks</orgName> encargada de Latinoamérica</affiliation>
                 </person>
 
                 <person xml:id="M-J">
                     <persName type="personaje"><forename>Marie-José</forename></persName>
-                    <state ref="#SCHOL" type="status"><label>doctora</label> en Antropología</state>
+                    <state ref="#SCHOL" type="status"><label>doctora en Antropología</label></state>
                 </person> 
 
                 <person xml:id="MF">
-                    <persName><forename>Marina</forename> <surname>Ferrari</surename></persName>
-                    <affiliation><occupation>secretaria</occupation> de <orgName ref="#Ep">Epesa</orgName></affiliation>
+                    <persName><forename>Marina</forename> <surname>Ferrari</surname></persName>
+                    <affiliation>secretaria de <orgName ref="#Ep">Epesa</orgName></affiliation>
                 </person>
                 
                 <person xml:id="PS">    
@@ -1408,24 +2178,47 @@
 
                 <person xml:id="GM">
                     <persName><forename>Gabriel</forename> <surname>Miranda</surname></persName> 
-                    <affiliation><occupation>Delegado</occupation> de <orgName type="empresa">Machinery Trust Co.</orgName></affiliation>
+                    <affiliation>Delegado de <orgName type="empresa">Machinery Trust Co.</orgName></affiliation>
                 </person>
 
                 <person xml:id="JJ">
                     <persName>Juanito Johnson <addName type="nickname">Director-que-fue</addName></persName>
-                    <affiliation><occupation>Director Regional para <placeName>Sudamérica Oeste</placeName></occupation> de <orgName ref="#Ep">Epesa</orgName></affiliation>
+                    <affiliation>Director Regional para <placeName>Sudamérica Oeste</placeName> de <orgName ref="#Ep">Epesa</orgName></affiliation>
                     <age value="46"/>
                 </person>
 
                 <person xml:id="PL">
                     <persName><roleName>Comunicador</roleName> <forename>Pedro</forename> <surname>Lamartín</surname> II</persName>
-                    <affiliation><occupation>Encargado de Relaciones Públicas</occupation> de <orgName ref="#Ep">Epesa</orgName></affiliation>
+                    <affiliation>Encargado de Relaciones Públicas de <orgName ref="#Ep">Epesa</orgName></affiliation>
                 </person>
 
                 <person xml:id="AC">
                     <persName><forename>Anita</forename> <surname>Cavassa</surname></persName>
-                    <affiliation><occupation>Contadora superior</occupation> de <orgName ref="#Ep">Epesa</orgName></affiliation>
-                </person>        
+                    <affiliation>Contadora superior de <orgName ref="#Ep">Epesa</orgName></affiliation>
+                </person> 
+
+                <person xml:id="FC">
+                    <persName><forename>Franz</forename> <surname>Cohen</surname></persName>
+                    <affiliation>Director de <orgName>United Chemicals</orgName></affiliation>       
+                </person>
+
+                <person xml:id="MA">
+                    <persName><forename>María</forename> <surname>D'Annunzio</surname></persName>
+                    <affiliation>Directora de <orgName>Olivetti International</orgName></affiliation>
+                </person>
+
+                <person xml:id="OA">
+                    <persName><forename>Olga</forename> <surname>Ángeles</surname></persName>
+                    <affiliation>Directora de <orgName>General Motors-Electric</orgName></affiliation>
+                </person>
+
+                <person xml:id="CN">
+                    <persName><addName type="nickname">Cardenal Negro</addName></persName>
+                    <affiliation>cardenal de <orgName>Catolicismo ortodoxo</orgName></affiliation>
+                </person>
+                      
+
+
 
 
                 <listRelation type="personal">
